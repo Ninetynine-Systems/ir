@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-13",
+  "locale": "bn",
+  "thread_id": "bn-2026-04-13",
+  "event_tags": [],
+  "story_refs": ["prophet_yusuf_patience"],
+  "files": [
+    {
+      "name": "morning_remembrance.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 60
+    },
+    {
+      "name": "noon_adhkar.md",
+      "kind": "adhkar",
+      "time_of_day": "noon",
+      "priority": 2,
+      "estimated_read_seconds": 30
+    },
+    {
+      "name": "night_reflection.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 120
+    }
+  ]
+}
