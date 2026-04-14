@@ -1,18 +1,20 @@
-Friday night.
+As this Friday draws to a close and we settle into the first night of Dhul-Qa'dah, I keep thinking about doors. How they open when the time is right, not a moment before and not a moment after.
 
-The day is closing. I hope you found something of what you were looking for — in the khutbah, in the prayer, in a quiet moment of duaa.
+Yusuf عليه السلام spent years waiting. He interpreted dreams for others while his own dream remained unfulfilled. He served while he was confined. He gave while he had nothing.
 
-Surah Al-Kahf. If you didn't get to read it this morning, there's still time before Maghrib ends. Even a few verses. Even just the opening pages.
+And then, the door opened.
 
-> ﴿ الْحَمْدُ لِلَّهِ الَّذِي أَنزَلَ عَلَىٰ عَبْدِهِ الْكِتَابَ ﴾
-> *Alhamdu lillahi alladhi anzala 'ala 'abdihi al-kitab*
-> "All praise is due to Allah, who has sent down upon His servant the Book..."
-> — Al-Kahf, 18:1
+> ﴿ قَالَ اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ ۖ إِنِّي حَفِيظٌ عَلِيمٌ ﴾
+> *Qala ij'alni 'ala khaza'in al-ardi inni hafeethun aleem*
+> "He said, 'Appoint me over the storehouses of the land. Indeed, I am a knowing guardian.'"
+> — Surah Yusuf, 12:55
 
-It's a surah of protection. Of light. Of stories that stay with you — the people of the cave, the two gardens, Musa and Khidr, Dhul-Qarnayn.
+From prisoner to treasurer. From the bottom of a well to the storehouses of Egypt. The same man, the same qualities — patience, integrity, knowledge — now given vast scope to serve.
 
-Let it protect your week ahead.
+This is how Allah elevates. Not by removing tests, but by transforming us through them. Not by rescuing us from difficulty, but by making us capable within it.
 
-The Yusuf story will return tomorrow evening. For now, rest. Recite. Receive.
+As you enter this sacred month, perhaps there's something in your life that feels like a prison, something you've been waiting on for longer than you expected. Take heart from Yusuf's story. The door opens. The timing is known. And what comes after the waiting is often greater than what we could have imagined.
 
-May your night be peaceful.
+May Allah open doors for you that you didn't even know existed.
+
+🌙

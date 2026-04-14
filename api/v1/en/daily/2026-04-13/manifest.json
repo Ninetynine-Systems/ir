@@ -14,18 +14,18 @@
       "estimated_read_seconds": 60
     },
     {
-      "name": "noon_adhkar.md",
-      "kind": "adhkar",
-      "time_of_day": "noon",
+      "name": "evening_story.md",
+      "kind": "story",
+      "time_of_day": "evening",
       "priority": 2,
-      "estimated_read_seconds": 30
+      "estimated_read_seconds": 150
     },
     {
       "name": "night_reflection.md",
       "kind": "reflection",
       "time_of_day": "night",
       "priority": 3,
-      "estimated_read_seconds": 120
+      "estimated_read_seconds": 60
     }
   ]
 }

@@ -1,14 +1,14 @@
-Yusuf is out of the well.
+The evening has settled, and I'm thinking about doors tonight. How Yusuf عليه السلام saw the door of his Lord even when physical doors were being closed and locked against his virtue.
 
-The travelers pulled him up, sold him, and now he's in Egypt — a slave in the house of a high official. But here's what strikes me tonight: even as a servant, he carried himself with such integrity that his master noticed.
+> ﴿ وَلَقَدْ هَمَّتْ بِهِ ۖ وَهَمَّ بِهَا لَوْلَا أَن رَّأَىٰ بُرْهَانَ رَبِّهِ ﴾
+> *Wa laqad hammat bihi wa hamma biha lawla an raa burhana Rabbihi*
+> "And she certainly determined to seduce him, and he would have inclined to her had he not seen the proof of his Lord..."
+> — Surah Yusuf, 12:24
 
-> ﴿ وَقَالَ الَّذِي اشْتَرَاهُ مِن مِّصْرَ لِامْرَأَتِهِ أَكْرِمِي مَثْوَاهُ ﴾
-> *Wa qalalladhi ishtarahu min Misra li-imra'atihi akrimi mathwahu*
-> "And the one who bought him from Egypt said to his wife: 'Make his residence comfortable...'"
-> — Yusuf, 12:21
+The verse is startlingly honest. He was human. The temptation was real. But he saw something — burhan, proof, evidence — of his Lord that pulled him back from the edge. Some call it the image of his father, Ya'qub. Some call it a vision of warning. Whatever it was, it was enough.
 
-He could have been bitter. He could have carried the well with him, let it sour everything. But he didn't. He showed up fully, even in a situation he never chose.
+That's often all we need, isn't it? Not a lightning bolt, not a voice from the sky — just enough light to see the next step. Just enough reminder of who we are and who we belong to.
 
-That's a kind of strength I'm still learning.
+May you always see the door of your Lord, even in the darkest rooms. May integrity find you when temptation finds you. And may you sleep knowing that your Lord sees what no one else sees.
 
-What would it mean to show up fully in your current situation — whatever it is — without dragging the past wells into it?
+🌙

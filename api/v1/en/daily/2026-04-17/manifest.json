@@ -3,29 +3,29 @@
   "date": "2026-04-17",
   "locale": "en",
   "thread_id": "en-2026-04-17",
-  "event_tags": ["jumuah"],
-  "story_refs": [],
+  "event_tags": ["jumuah", "dhul_qadah"],
+  "story_refs": ["prophet_yusuf_patience"],
   "files": [
     {
-      "name": "morning_jumuah.md",
+      "name": "morning_jumuah_sacred_month.md",
       "kind": "remembrance",
       "time_of_day": "morning",
       "priority": 1,
       "estimated_read_seconds": 90
     },
     {
-      "name": "noon_reminder.md",
-      "kind": "remembrance",
-      "time_of_day": "noon",
+      "name": "evening_story.md",
+      "kind": "story",
+      "time_of_day": "evening",
       "priority": 2,
-      "estimated_read_seconds": 45
+      "estimated_read_seconds": 180
     },
     {
       "name": "night_reflection.md",
       "kind": "reflection",
       "time_of_day": "night",
       "priority": 3,
-      "estimated_read_seconds": 75
+      "estimated_read_seconds": 120
     }
   ]
 }

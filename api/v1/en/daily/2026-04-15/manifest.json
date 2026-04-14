@@ -3,22 +3,22 @@
   "date": "2026-04-15",
   "locale": "en",
   "thread_id": "en-2026-04-15",
-  "event_tags": [],
+  "event_tags": ["shawwal_fasting"],
   "story_refs": ["prophet_yusuf_patience"],
   "files": [
     {
-      "name": "morning_remembrance.md",
+      "name": "morning_sacred_months.md",
       "kind": "remembrance",
       "time_of_day": "morning",
       "priority": 1,
-      "estimated_read_seconds": 75
+      "estimated_read_seconds": 90
     },
     {
-      "name": "noon_duaa.md",
-      "kind": "adhkar",
-      "time_of_day": "noon",
+      "name": "evening_story.md",
+      "kind": "story",
+      "time_of_day": "evening",
       "priority": 2,
-      "estimated_read_seconds": 45
+      "estimated_read_seconds": 150
     },
     {
       "name": "night_reflection.md",

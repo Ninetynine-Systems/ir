@@ -1,16 +1,14 @@
-Yusuf عليه السلام is still in the well tonight.
+Night has come, and I'm still sitting with the image of that well. How sometimes the darkest moments become the very means of our deliverance. We don't see it when we're falling. We don't feel it when we're at the bottom. But Allah knows.
 
-I keep returning to that image. The darkness. The waiting. He didn't know how long it would be. He didn't know the caravan was coming. He just... waited.
+> ﴿ قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا ﴾
+> *Qul lan yuseebana illa ma kataballahu lana*
+> "Say, 'Never will we be struck except by what Allah has decreed for us...'"
+> — At-Tawbah, 9:51
 
-And in that waiting, something was being built in him. Something that would matter later, in Egypt, when he had the power to punish or forgive his brothers. The well taught him patience before the palace tested it.
+This is the trust of the believer. Not passive resignation, but active faith. What reaches us was never going to miss us. What misses us was never going to reach us. Every moment — the falling, the darkness, the rising — is written, measured, known.
 
-> ﴿ وَجَاءَتْ سَيَّارَةٌ فَأَرْسَلُوا وَارِدَهُمْ فَأَدْلَىٰ دَلْوَهُ ﴾
-> *Wa ja'at sayyaratun fa'arsalu waridahum fa'adla dalwahu*
-> "And there came a company of travelers; then they sent their water drawer, and he let down his bucket..."
-> — Yusuf, 12:19
+Yusuf عليه السلام spent that night in the well, and then was drawn into a new life. He didn't know the plan. He only knew he had to keep trusting.
 
-Relief came. It always does, in Allah's timing. But the waiting itself was meaningful. It shaped him.
+Tonight, whatever you're carrying, may you find peace in knowing the story isn't over. The well isn't the end. There are chapters ahead that you cannot yet see.
 
-What are you waiting for right now? And what might it be shaping in you?
-
-Take your time with this.
+May Allah grant you peace in the unknown. 🌙

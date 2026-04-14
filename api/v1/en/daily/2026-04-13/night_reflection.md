@@ -1,18 +1,12 @@
-I want to tell you about Yusuf عليه السلام.
+The night has settled, and I'm still thinking about that boy and his dream. How sometimes we receive glimpses of what's to come — not the full picture, just a fragment, just enough to guide us forward.
 
-Not the whole story — you probably know it. The dreams, the well, the prison, the palace. But tonight, I keep thinking about the moment he was alone in that well. Dark. Deep. No one around who knew where he was.
+> ﴿ وَكَذَٰلِكَ يَجْتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأْوِيلِ الْأَحَادِيثِ ﴾
+> *Wa kathalika yajtabeeka Rabbuka wa yu'allimuka min ta'wil al-ahadeeth*
+> "And thus will your Lord choose you and teach you the interpretation of events..."
+> — Surah Yusuf, 12:6
 
-And still, he trusted.
+Allah chooses and teaches. This is the pattern. We don't have to understand everything now. We don't need the full interpretation while we're still living the story. The meaning unfolds later, when we've walked enough of the path to see where it leads.
 
-> ﴿ قَالَ يَا بُنَيَّ لَا تَقْصُصْ رُؤْيَاكَ عَلَىٰ إِخْوَتِكَ ﴾
-> *Qala ya bunayya la taqsus ru'yaka 'ala ikhawtika*
-> "He said, 'O my son, do not relate your vision to your brothers...'"
-> — Yusuf, 12:5
+Tonight, may you find peace in not knowing all the answers. May you trust that what needs to be revealed will be revealed in its time. And may you sleep knowing that Allah is teaching, even in the silence.
 
-His father knew hardship was coming. But Yusuf didn't know the ending yet. He just kept being who he was — honest, patient, trusting in Allah's plan even when the plan made no sense.
-
-We're going to walk through his story together, beat by beat. Not to learn a lesson exactly. Just to sit with it. To see what it stirs in you.
-
-Tonight: What does it mean to be in a place you didn't choose, and still choose trust?
-
-I'll be thinking about you.
+🌙
