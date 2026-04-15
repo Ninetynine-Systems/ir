@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "generated_at": "2026-04-15T09:11:17Z",
+  "latest_date": "2026-04-17",
+  "days": [
+    {
+      "date": "2026-04-17",
+      "updated_at": "2026-04-15T08:01:51Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-17/manifest.json",
+      "thread_id": "en-2026-04-17",
+      "event_tags": ["jumuah", "shawwal_fasting", "dhul_qadah"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-16",
+      "updated_at": "2026-04-15T08:01:51Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-16/manifest.json",
+      "thread_id": "en-2026-04-16",
+      "event_tags": ["shawwal_fasting"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-15",
+      "updated_at": "2026-04-15T03:47:53Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-15/manifest.json",
+      "thread_id": "en-2026-04-15",
+      "event_tags": ["shawwal_fasting"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-14",
+      "updated_at": "2026-04-15T03:47:53Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-14/manifest.json",
+      "thread_id": "en-2026-04-14",
+      "event_tags": ["shawwal_fasting"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-13",
+      "updated_at": "2026-04-15T03:47:53Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-13/manifest.json",
+      "thread_id": "en-2026-04-13",
+      "event_tags": [],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 3
+    }
+  ]
+}

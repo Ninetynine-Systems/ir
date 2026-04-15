@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "topics",
+  "title": "Topics",
+  "groups": [
+    {
+      "slug": "pillars_of_iman",
+      "title": "Pillars of Iman",
+      "description": "Beginner-safe entries on the foundations of belief named in Quran and authentic Sunnah.",
+      "items": [
+        {
+          "slug": "iman_foundations",
+          "title": "Iman Foundations",
+          "summary": "A concise guide to what faith means, what it includes, and how it appears in a believer's life.",
+          "tags": [
+            "iman",
+            "belief",
+            "foundations"
+          ],
+          "keywords": [
+            "iman",
+            "faith",
+            "hadith jibril",
+            "pillars of iman",
+            "qadr"
+          ],
+          "aliases": [
+            "Pillars of Faith"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/pillars_of_iman/iman_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "pillars_of_islam",
+      "title": "Pillars of Islam",
+      "description": "Core acts of worship presented at the level of agreed foundations, without disputed legal detail.",
+      "items": [
+        {
+          "slug": "sawm_foundations",
+          "title": "Sawm Foundations",
+          "summary": "An introduction to fasting in Ramadan: its purpose, texts, and lived discipline.",
+          "tags": [
+            "sawm",
+            "ramadan",
+            "worship"
+          ],
+          "keywords": [
+            "fasting",
+            "ramadan",
+            "sawm",
+            "laylat al qadr",
+            "taqwa"
+          ],
+          "aliases": [
+            "Fasting Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
+        },
+        {
+          "slug": "zakat_foundations",
+          "title": "Zakat Foundations",
+          "summary": "A foundations-level guide to zakat as purification, obligation, and support for the vulnerable.",
+          "tags": [
+            "zakat",
+            "wealth",
+            "purification"
+          ],
+          "keywords": [
+            "zakat",
+            "charity",
+            "wealth",
+            "purification",
+            "recipients"
+          ],
+          "aliases": [
+            "Obligatory Charity Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
+        },
+        {
+          "slug": "hajj_foundations",
+          "title": "Hajj Foundations",
+          "summary": "A beginner-safe guide to the obligation, meaning, and major aims of the pilgrimage.",
+          "tags": [
+            "hajj",
+            "pilgrimage",
+            "mecca"
+          ],
+          "keywords": [
+            "hajj",
+            "pilgrimage",
+            "arafah",
+            "mecca",
+            "umrah"
+          ],
+          "aliases": [
+            "Pilgrimage Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/hajj_foundations/manifest.json"
+        }
+      ]
+    }
+  ]
+}

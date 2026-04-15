@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "generated_at": "2026-04-15T10:12:40Z",
+  "search_index_url": "/api/v1/en/library/search.json",
+  "sections": [
+    {
+      "slug": "stories",
+      "title": "Stories",
+      "description": "Prophets and Quranic narratives told with restrained, source-first detail.",
+      "collections_url": "/api/v1/en/library/stories/manifest.json",
+      "item_count": 2
+    },
+    {
+      "slug": "supplications",
+      "title": "Supplications",
+      "description": "Authenticated duas with exact text, source references, and brief context.",
+      "collections_url": "/api/v1/en/library/supplications/manifest.json",
+      "item_count": 3
+    },
+    {
+      "slug": "topics",
+      "title": "Topics",
+      "description": "Beginner-safe guides to agreed Islamic foundations, anchored in Quran and authentic Sunnah.",
+      "collections_url": "/api/v1/en/library/topics/manifest.json",
+      "item_count": 4
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "title": "Supplications",
+  "groups": [
+    {
+      "slug": "quranic_duas",
+      "title": "Quranic Duas",
+      "description": "Supplications quoted directly in the Quran and published here with exact text and concise context.",
+      "items": [
+        {
+          "slug": "hearts_steadfast_after_guidance",
+          "title": "Hearts Steadfast After Guidance",
+          "summary": "A Quranic plea asking Allah not to let the heart turn after guidance.",
+          "tags": [
+            "guidance",
+            "mercy",
+            "steadfastness"
+          ],
+          "keywords": [
+            "3:8",
+            "guidance",
+            "steadfastness",
+            "mercy",
+            "hearts"
+          ],
+          "aliases": [
+            "Rabbana La Tuzigh Qulubana"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
+        },
+        {
+          "slug": "dua_of_the_cave_youth",
+          "title": "Dua of the Cave Youth",
+          "summary": "A Quranic supplication asking for mercy and right guidance in a time of pressure.",
+          "tags": [
+            "guidance",
+            "mercy",
+            "steadfastness"
+          ],
+          "keywords": [
+            "18:10",
+            "cave",
+            "surah kahf",
+            "guidance",
+            "mercy"
+          ],
+          "aliases": [
+            "Rabbana Atina Min Ladunka Rahmah"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/dua_of_the_cave_youth/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "distress_and_relief",
+      "title": "Distress & Relief",
+      "description": "Authenticated supplications for hardship, fear, sadness, and the turning of the heart back to Allah.",
+      "items": [
+        {
+          "slug": "dua_of_yunus",
+          "title": "Dua of Yunus",
+          "summary": "The supplication of Yunus in darkness and distress, carried by tawhid and repentance.",
+          "tags": [
+            "repentance",
+            "distress",
+            "tawhid"
+          ],
+          "keywords": [
+            "21:87",
+            "yunus",
+            "distress",
+            "repentance",
+            "la ilaha illa anta"
+          ],
+          "aliases": [
+            "Dua of Dhun-Nun"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+        }
+      ]
+    }
+  ]
+}

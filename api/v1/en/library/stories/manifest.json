@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "title": "Stories",
+  "groups": [
+    {
+      "slug": "prophets_and_messengers",
+      "title": "Prophets & Messengers",
+      "description": "Canonically grounded retellings of prophetic lives from Quran and accepted authentic reports.",
+      "items": [
+        {
+          "slug": "prophet_yusuf",
+          "title": "Prophet Yusuf",
+          "summary": "A canonically grounded retelling of Yusuf through jealousy, trial, integrity, and reunion.",
+          "tags": [
+            "patience",
+            "family",
+            "trust_in_allah"
+          ],
+          "keywords": [
+            "yusuf",
+            "joseph",
+            "surah yusuf",
+            "dreams",
+            "patience"
+          ],
+          "aliases": [
+            "Prophet Joseph"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "quranic_stories",
+      "title": "Quranic Stories",
+      "description": "Narratives the Quran names directly, kept close to the revealed text and its stated lessons.",
+      "items": [
+        {
+          "slug": "dhul_qarnayn",
+          "title": "Dhul-Qarnayn",
+          "summary": "A restrained reading of the Quranic account of a ruler who traveled with justice and humility.",
+          "tags": [
+            "justice",
+            "leadership",
+            "last_day"
+          ],
+          "keywords": [
+            "dhul qarnayn",
+            "zulqarnain",
+            "surah kahf",
+            "gog and magog",
+            "barrier"
+          ],
+          "aliases": [
+            "Zulqarnain"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
+        }
+      ]
+    }
+  ]
+}
