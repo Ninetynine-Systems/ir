@@ -7,7 +7,7 @@ The evening has settled, and I'm thinking about doors tonight. How Yusuf علي�
 
 The verse is startlingly honest. He was human. The temptation was real. But he saw something — burhan, proof, evidence — of his Lord that pulled him back from the edge. Some call it the image of his father, Ya'qub. Some call it a vision of warning. Whatever it was, it was enough.
 
-That's often all we need, isn't it? Not a lightning bolt, not a voice from the sky — just enough light to see the next step. Just enough reminder of who we are and who we belong to.
+That's often all we need, isn't it? Not a lightning bolt, not a voice from the sky — just enough reminder of who we are and who we belong to. A quiet nudge back toward the person you already want to be.
 
 May you always see the door of your Lord, even in the darkest rooms. May integrity find you when temptation finds you. And may you sleep knowing that your Lord sees what no one else sees.
 

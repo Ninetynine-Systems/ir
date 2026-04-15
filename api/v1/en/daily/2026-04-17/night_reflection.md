@@ -9,11 +9,11 @@ And then, the door opened.
 > "He said, 'Appoint me over the storehouses of the land. Indeed, I am a knowing guardian.'"
 > — Surah Yusuf, 12:55
 
-From prisoner to treasurer. From the bottom of a well to the storehouses of Egypt. The same man, the same qualities — patience, integrity, knowledge — now given vast scope to serve.
+From prisoner to treasurer. From the bottom of a well to the storehouses of Egypt. The same man, the same qualities — patience, integrity, knowledge — now given wider scope to serve.
 
-This is how Allah elevates. Not by removing tests, but by transforming us through them. Not by rescuing us from difficulty, but by making us capable within it.
+When you're in the middle of something difficult, it's hard to see what it's doing to you. You just know it's hard. But Yusuf's story suggests that the time in prison wasn't wasted. It shaped him for what came after.
 
-As you enter this sacred month, perhaps there's something in your life that feels like a prison, something you've been waiting on for longer than you expected. Take heart from Yusuf's story. The door opens. The timing is known. And what comes after the waiting is often greater than what we could have imagined.
+As you enter this sacred month, perhaps there's something in your life that feels like a waiting place — something you've been carrying longer than you expected. There's no harm in hoping for the door to open. And if it hasn't opened yet, perhaps there's still something being worked in you that you can't see.
 
 May Allah open doors for you that you didn't even know existed.
 

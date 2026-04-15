@@ -1,4 +1,4 @@
-This is the last morning of Shawwal. By sunset today, the moon will have moved on, and Dhul-Qa'dah will begin. If you have fasts remaining to complete from the six days, this is the final opportunity.
+This is one of the last mornings of Shawwal. By sunset tomorrow, on Friday, the moon will have moved on, and Dhul-Qa'dah will begin. If you have fasts remaining to complete from the six days, the window is narrowing now.
 
 But I want to speak to you about something else this morning — something about endings and beginnings. How they flow into each other so seamlessly we sometimes miss the moment of transition.
 
@@ -11,4 +11,4 @@ Every month, every year, every phase of our lives — they all return to Allah. 
 
 Whether you completed six days or one day or none, know that Allah sees your intention. The month is ending, but mercy doesn't end. The days pass, but opportunities for goodness remain.
 
-Tomorrow, a sacred month begins. Tonight, if you wish, you might make a simple dua: Ya Allah, let me enter this new month with a heart prepared for Your presence.
+By tomorrow evening, on Friday, a sacred month begins. Tonight, if you wish, you might make a simple dua: Ya Allah, let me enter this new month with a heart prepared for Your presence.
