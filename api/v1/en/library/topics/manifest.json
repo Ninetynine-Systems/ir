@@ -103,6 +103,79 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/topics/pillars_of_islam/hajj_foundations/manifest.json"
+        },
+        {
+          "slug": "salah_foundations",
+          "title": "Salah Foundations",
+          "summary": "A beginner-safe guide to prayer as a pillar, a daily meeting with Allah, and a discipline that shapes the rest of life.",
+          "tags": [
+            "salah",
+            "prayer",
+            "worship"
+          ],
+          "keywords": [
+            "salah",
+            "prayer",
+            "five prayers",
+            "khushu",
+            "pillar of islam"
+          ],
+          "aliases": [
+            "Prayer Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/salah_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "heart_and_character",
+      "title": "Heart & Character",
+      "description": "Foundational guides on inward states and everyday virtues that shape worship, choices, and repentance.",
+      "items": [
+        {
+          "slug": "taqwa_foundations",
+          "title": "Taqwa Foundations",
+          "summary": "An introduction to taqwa as mindful obedience, inward caution, and a life shaped by awareness of Allah.",
+          "tags": [
+            "taqwa",
+            "heart",
+            "obedience"
+          ],
+          "keywords": [
+            "taqwa",
+            "god consciousness",
+            "mindful obedience",
+            "restraint",
+            "obedience"
+          ],
+          "aliases": [
+            "God-Consciousness Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+        },
+        {
+          "slug": "tawbah_foundations",
+          "title": "Tawbah Foundations",
+          "summary": "A beginner-safe guide to repentance as returning to Allah with honesty, hope, and renewed obedience.",
+          "tags": [
+            "tawbah",
+            "repentance",
+            "mercy"
+          ],
+          "keywords": [
+            "tawbah",
+            "repentance",
+            "forgiveness",
+            "return to allah",
+            "hope"
+          ],
+          "aliases": [
+            "Repentance Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/heart_and_character/tawbah_foundations/manifest.json"
         }
       ]
     }

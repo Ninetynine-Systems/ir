@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "locale": "en",
-  "generated_at": "2026-04-15T10:12:40Z",
-  "item_count": 9,
+  "generated_at": "2026-04-16T08:30:00Z",
+  "item_count": 17,
   "entries": [
     {
       "id": "stories:prophets_and_messengers:prophet_yusuf",
@@ -30,6 +30,31 @@
       "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
     },
     {
+      "id": "stories:prophets_and_messengers:prophet_nuh",
+      "section": "stories",
+      "group": "prophets_and_messengers",
+      "slug": "prophet_nuh",
+      "title": "Prophet Nuh",
+      "summary": "A source-first retelling of Nuh's long call, the ark, the flood, and the lesson that salvation follows faith, not lineage.",
+      "tags": [
+        "patience",
+        "calling_to_allah",
+        "salvation"
+      ],
+      "keywords": [
+        "nuh",
+        "noah",
+        "ark",
+        "flood",
+        "patience"
+      ],
+      "aliases": [
+        "Prophet Noah"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
+    },
+    {
       "id": "stories:quranic_stories:dhul_qarnayn",
       "section": "stories",
       "group": "quranic_stories",
@@ -53,6 +78,32 @@
       ],
       "difficulty": "beginner",
       "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
+    },
+    {
+      "id": "stories:quranic_stories:companions_of_the_cave",
+      "section": "stories",
+      "group": "quranic_stories",
+      "slug": "companions_of_the_cave",
+      "title": "Companions of the Cave",
+      "summary": "A restrained retelling of the believing youth who fled with faith, slept by Allah's command, and became a sign of resurrection.",
+      "tags": [
+        "steadfastness",
+        "youth",
+        "resurrection"
+      ],
+      "keywords": [
+        "ashab al kahf",
+        "people of the cave",
+        "surah kahf",
+        "youth",
+        "resurrection"
+      ],
+      "aliases": [
+        "People of the Cave",
+        "Ashab al-Kahf"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/stories/quranic_stories/companions_of_the_cave/manifest.json"
     },
     {
       "id": "supplications:quranic_duas:hearts_steadfast_after_guidance",
@@ -107,6 +158,32 @@
       "detail_url": "/api/v1/en/library/supplications/quranic_duas/dua_of_the_cave_youth/manifest.json"
     },
     {
+      "id": "supplications:quranic_duas:good_in_this_world_and_the_next",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "good_in_this_world_and_the_next",
+      "title": "Good in This World and the Next",
+      "summary": "A comprehensive Quranic supplication asking Allah for good in this life, good in the Hereafter, and protection from the Fire.",
+      "tags": [
+        "goodness",
+        "hereafter",
+        "protection"
+      ],
+      "keywords": [
+        "2:201",
+        "hasanah",
+        "hereafter",
+        "fire",
+        "dua"
+      ],
+      "aliases": [
+        "Rabbana Atina Fid-Dunya Hasanah"
+      ],
+      "difficulty": "beginner",
+      "occasion": "comprehensive_goodness",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/good_in_this_world_and_the_next/manifest.json"
+    },
+    {
       "id": "supplications:distress_and_relief:dua_of_yunus",
       "section": "supplications",
       "group": "distress_and_relief",
@@ -131,6 +208,58 @@
       "difficulty": "beginner",
       "occasion": "distress_and_repentance",
       "detail_url": "/api/v1/en/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+    },
+    {
+      "id": "supplications:distress_and_relief:musa_plea_for_good",
+      "section": "supplications",
+      "group": "distress_and_relief",
+      "slug": "musa_plea_for_good",
+      "title": "Musa's Plea in Need",
+      "summary": "A brief Quranic plea spoken by Musa in need after service, fatigue, and uncertainty about what would come next.",
+      "tags": [
+        "need",
+        "provision",
+        "humility"
+      ],
+      "keywords": [
+        "28:24",
+        "musa",
+        "need",
+        "provision",
+        "good"
+      ],
+      "aliases": [
+        "Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
+      ],
+      "difficulty": "beginner",
+      "occasion": "need_and_provision",
+      "detail_url": "/api/v1/en/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
+    },
+    {
+      "id": "supplications:forgiveness_and_tawbah:adam_repentance",
+      "section": "supplications",
+      "group": "forgiveness_and_tawbah",
+      "slug": "adam_repentance",
+      "title": "Adam's Repentance",
+      "summary": "The Quranic repentance plea spoken after the slip of Adam and his wife, shaped by confession, forgiveness, and hope.",
+      "tags": [
+        "repentance",
+        "forgiveness",
+        "mercy"
+      ],
+      "keywords": [
+        "7:23",
+        "adam",
+        "repentance",
+        "forgiveness",
+        "mercy"
+      ],
+      "aliases": [
+        "Rabbana Zalamna Anfusana"
+      ],
+      "difficulty": "beginner",
+      "occasion": "repentance_after_sin",
+      "detail_url": "/api/v1/en/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
     },
     {
       "id": "topics:pillars_of_iman:iman_foundations",
@@ -231,6 +360,81 @@
       ],
       "difficulty": "beginner",
       "detail_url": "/api/v1/en/library/topics/pillars_of_islam/hajj_foundations/manifest.json"
+    },
+    {
+      "id": "topics:pillars_of_islam:salah_foundations",
+      "section": "topics",
+      "group": "pillars_of_islam",
+      "slug": "salah_foundations",
+      "title": "Salah Foundations",
+      "summary": "A beginner-safe guide to prayer as a pillar, a daily meeting with Allah, and a discipline that shapes the rest of life.",
+      "tags": [
+        "salah",
+        "prayer",
+        "worship"
+      ],
+      "keywords": [
+        "salah",
+        "prayer",
+        "five prayers",
+        "khushu",
+        "pillar of islam"
+      ],
+      "aliases": [
+        "Prayer Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/pillars_of_islam/salah_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:taqwa_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "taqwa_foundations",
+      "title": "Taqwa Foundations",
+      "summary": "An introduction to taqwa as mindful obedience, inward caution, and a life shaped by awareness of Allah.",
+      "tags": [
+        "taqwa",
+        "heart",
+        "obedience"
+      ],
+      "keywords": [
+        "taqwa",
+        "god consciousness",
+        "mindful obedience",
+        "restraint",
+        "obedience"
+      ],
+      "aliases": [
+        "God-Consciousness Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:tawbah_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "tawbah_foundations",
+      "title": "Tawbah Foundations",
+      "summary": "A beginner-safe guide to repentance as returning to Allah with honesty, hope, and renewed obedience.",
+      "tags": [
+        "tawbah",
+        "repentance",
+        "mercy"
+      ],
+      "keywords": [
+        "tawbah",
+        "repentance",
+        "forgiveness",
+        "return to allah",
+        "hope"
+      ],
+      "aliases": [
+        "Repentance Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/heart_and_character/tawbah_foundations/manifest.json"
     }
   ]
 }

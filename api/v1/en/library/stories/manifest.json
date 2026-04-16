@@ -30,6 +30,28 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
+        },
+        {
+          "slug": "prophet_nuh",
+          "title": "Prophet Nuh",
+          "summary": "A source-first retelling of Nuh's long call, the ark, the flood, and the lesson that salvation follows faith, not lineage.",
+          "tags": [
+            "patience",
+            "calling_to_allah",
+            "salvation"
+          ],
+          "keywords": [
+            "nuh",
+            "noah",
+            "ark",
+            "flood",
+            "patience"
+          ],
+          "aliases": [
+            "Prophet Noah"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
         }
       ]
     },
@@ -59,6 +81,29 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
+        },
+        {
+          "slug": "companions_of_the_cave",
+          "title": "Companions of the Cave",
+          "summary": "A restrained retelling of the believing youth who fled with faith, slept by Allah's command, and became a sign of resurrection.",
+          "tags": [
+            "steadfastness",
+            "youth",
+            "resurrection"
+          ],
+          "keywords": [
+            "ashab al kahf",
+            "people of the cave",
+            "surah kahf",
+            "youth",
+            "resurrection"
+          ],
+          "aliases": [
+            "People of the Cave",
+            "Ashab al-Kahf"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/quranic_stories/companions_of_the_cave/manifest.json"
         }
       ]
     }

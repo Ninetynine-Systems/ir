@@ -52,6 +52,28 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/supplications/quranic_duas/dua_of_the_cave_youth/manifest.json"
+        },
+        {
+          "slug": "good_in_this_world_and_the_next",
+          "title": "Good in This World and the Next",
+          "summary": "A comprehensive Quranic supplication asking Allah for good in this life, good in the Hereafter, and protection from the Fire.",
+          "tags": [
+            "goodness",
+            "hereafter",
+            "protection"
+          ],
+          "keywords": [
+            "2:201",
+            "hasanah",
+            "hereafter",
+            "fire",
+            "dua"
+          ],
+          "aliases": [
+            "Rabbana Atina Fid-Dunya Hasanah"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/good_in_this_world_and_the_next/manifest.json"
         }
       ]
     },
@@ -81,6 +103,57 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+        },
+        {
+          "slug": "musa_plea_for_good",
+          "title": "Musa's Plea in Need",
+          "summary": "A brief Quranic plea spoken by Musa in need after service, fatigue, and uncertainty about what would come next.",
+          "tags": [
+            "need",
+            "provision",
+            "humility"
+          ],
+          "keywords": [
+            "28:24",
+            "musa",
+            "need",
+            "provision",
+            "good"
+          ],
+          "aliases": [
+            "Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "forgiveness_and_tawbah",
+      "title": "Forgiveness & Tawbah",
+      "description": "Supplications of repentance, istighfar, and heartfelt return to Allah after sin and drift.",
+      "items": [
+        {
+          "slug": "adam_repentance",
+          "title": "Adam's Repentance",
+          "summary": "The Quranic repentance plea spoken after the slip of Adam and his wife, shaped by confession, forgiveness, and hope.",
+          "tags": [
+            "repentance",
+            "forgiveness",
+            "mercy"
+          ],
+          "keywords": [
+            "7:23",
+            "adam",
+            "repentance",
+            "forgiveness",
+            "mercy"
+          ],
+          "aliases": [
+            "Rabbana Zalamna Anfusana"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
         }
       ]
     }
