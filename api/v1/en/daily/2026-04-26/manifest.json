@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-26",
+  "locale": "en",
+  "thread_id": "en-2026-04-26",
+  "event_tags": ["dhul_qadah"],
+  "story_refs": [],
+  "files": [
+    {
+      "name": "morning_dua_of_yunus.md",
+      "kind": "adhkar",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_the_unseen_preparation.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 170
+    },
+    {
+      "name": "night_reflection.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 100
+    }
+  ]
+}

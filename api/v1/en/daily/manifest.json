@@ -1,9 +1,99 @@
 {
   "schema_version": 1,
   "locale": "en",
-  "generated_at": "2026-04-15T09:11:17Z",
-  "latest_date": "2026-04-17",
+  "generated_at": "2026-04-16T12:00:00Z",
+  "latest_date": "2026-04-27",
   "days": [
+    {
+      "date": "2026-04-27",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-27/manifest.json",
+      "thread_id": "en-2026-04-27",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-26",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-26/manifest.json",
+      "thread_id": "en-2026-04-26",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-25",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-25/manifest.json",
+      "thread_id": "en-2026-04-25",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-24",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-24/manifest.json",
+      "thread_id": "en-2026-04-24",
+      "event_tags": ["jumuah", "dhul_qadah"],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-23",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-23/manifest.json",
+      "thread_id": "en-2026-04-23",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": [],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-22",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-22/manifest.json",
+      "thread_id": "en-2026-04-22",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": [],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-21",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-21/manifest.json",
+      "thread_id": "en-2026-04-21",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-20",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-20/manifest.json",
+      "thread_id": "en-2026-04-20",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-19",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-19/manifest.json",
+      "thread_id": "en-2026-04-19",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-18",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-18/manifest.json",
+      "thread_id": "en-2026-04-18",
+      "event_tags": ["dhul_qadah"],
+      "story_refs": ["prophet_yusuf_patience"],
+      "file_count": 3
+    },
     {
       "date": "2026-04-17",
       "updated_at": "2026-04-15T08:01:51Z",

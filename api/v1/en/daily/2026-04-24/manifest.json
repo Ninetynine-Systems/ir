@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-24",
+  "locale": "en",
+  "thread_id": "en-2026-04-24",
+  "event_tags": ["jumuah", "dhul_qadah"],
+  "story_refs": [],
+  "files": [
+    {
+      "name": "morning_jumuah_in_dhul_qadah.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "evening_after_jumuah_bounty.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 160
+    },
+    {
+      "name": "night_reflection.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}
