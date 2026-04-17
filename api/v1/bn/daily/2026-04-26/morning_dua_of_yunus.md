@@ -1,10 +1,12 @@
-There are days when the heart needs a dua that can be said from inside tight places.
+কিছু সকাল আছে, যখন হৃদয় এমন একটি দু'আ চায়, যা সংকীর্ণ জায়গার ভেতর থেকেও বলা যায়। এমন দু'আ, যার জন্য অনেক ব্যাখ্যা লাগে না; শুধু একটি সত্য হৃদয় লাগে। ইউনুস আলাইহিস সালামের দু'আ তেমনই।
 
 > ﴿ لَا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ ﴾
-> La ilaha illa Anta, subhanaka, inni kuntu min az-zalimin.
-> "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers."
-> - আল-আম্বিয়া, 21:87
+> *লা ইলাহা ইল্লা আনতা, সুবহানাকা, ইন্নি কুনতু মিনাজ-জালিমীন।*
+> "আপনি ছাড়া কোনো উপাস্য নেই। আপনি পবিত্র। নিশ্চয় আমি জালিমদের অন্তর্ভুক্ত ছিলাম।"
+> - সূরা আল-আম্বিয়া, ২১:৮৭
 
-Yunus عليه السلام said these words in darkness, and Allah followed that scene with a promise of response and rescue.
+ইউনুস আলাইহিস সালাম অন্ধকারের ভেতর এ কথাগুলো বলেছিলেন। এতে আছে তাওহিদ, আল্লাহর পবিত্রতা ঘোষণা, আর নিজের ভুল স্বীকার। লক্ষ করলে দেখবেন - এখানে অজুহাত নেই, লম্বা বর্ণনা নেই, শুধু সত্য আছে।
 
-This dua is not complicated. It is tawhid, glorification, and honest confession. If your chest feels tight this morning, carry it gently and repeat this prayer with presence.
+এই দু'আটি ভারী সকাল, সংকীর্ণ পরিস্থিতি, অপরাধবোধ, কিংবা অন্তরের চাপের সময়ে খুব সঙ্গ দেয়। কারণ এটি মানুষকে সরাসরি আল্লাহর দিকে ফিরিয়ে দেয়।
+
+আজ সকালটি যদি ভারী লাগে, এ দু'আটি নরমভাবে বারবার পড়ুন। কখনও অন্তরকে বাঁচিয়ে রাখার জন্য এতটুকুই যথেষ্ট।

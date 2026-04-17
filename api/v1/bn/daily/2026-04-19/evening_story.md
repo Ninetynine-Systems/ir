@@ -1,14 +1,10 @@
-Once the truth was known, the king called for Yusuf عليه السلام again. This time it was not as a prisoner under suspicion, but as a man whose honesty had become impossible to ignore.
+সত্য পরিষ্কার হওয়ার পর রাজা ইউসুফ আলাইহিস সালামকে আবার ডাকলেন। এবার তিনি ছিলেন না কোনো অভিযোগের ছায়ায় ঢাকা বন্দি; তিনি ছিলেন এমন একজন মানুষ, যার সততা উপেক্ষা করা আর সম্ভব ছিল না।
 
-> "Indeed, you are today established and trusted."
-> - সূরা ইউসুফ, 12:54
+> "নিশ্চয় আজ আপনি আমাদের কাছে সম্মানিত ও বিশ্বস্ত।"
+> - সূরা ইউসুফ, ১২:৫৪
 
-What a sentence after so many years of confinement. Established and trusted. Allah can turn the same person people once dismissed into the one they now depend upon.
+এ বাক্যটি কত বড় পরিবর্তনের কথা বলে। যাকে একসময় সরিয়ে দেওয়া হয়েছিল, অপবাদ দেওয়া হয়েছিল, বন্দি করা হয়েছিল - তাকেই এখন বলা হচ্ছে, আপনি বিশ্বস্ত। আল্লাহ চাইলে মানুষের চোখে একজনের অবস্থান এভাবেই বদলে দিতে পারেন।
 
-Yusuf did not respond with vanity. He asked to be placed over the storehouses of the land because he knew the years ahead would require careful stewardship. Famine was coming. Plenty had to be managed before scarcity arrived.
+ইউসুফ আলাইহিস সালাম অহংকারে সাড়া দেননি। তিনি দেশের ভাণ্ডারের দায়িত্ব চাইলেন, কারণ তিনি জানতেন সামনে দুর্ভিক্ষ আসছে, আর মানুষের খাদ্যরসদের জন্য জ্ঞানী দেখভাল দরকার। এরপর কাহিনি আরও বিস্তৃত হলো - দুর্ভিক্ষ চারদিকে ছড়িয়ে পড়ল, আর একসময় তাঁর ভাইয়েরাও খাদ্যের জন্য মিসরে এলো।
 
-Then the story widened again. The famine spread, and eventually Yusuf's brothers came to Egypt seeking grain. They stood before him in need, but they did not recognize him. The boy they had thrown away now stood in a place of power over the very sustenance they needed.
-
-This is one of those moments where the decree of Allah feels almost overwhelming in its precision. The well, the market, the house, the prison, the court, the storehouses, the famine, the brothers. Every road that seemed disconnected was bending toward one meeting.
-
-And Yusuf was standing in the middle of it, not bitter, but ready.
+এখানে এসে আল্লাহর তাকদিরের নিখুঁততা প্রায় স্তব্ধ করে দেয়। কূপ, বাজার, আযীযের ঘর, কারাগার, রাজদরবার, ভাণ্ডার, দুর্ভিক্ষ, ভাইদের ফিরে আসা - সব রাস্তা এসে এক জায়গায় মিলল। আর ইউসুফ আলাইহিস সালাম সেই মাঝখানে দাঁড়িয়ে ছিলেন, bitterness নয়, প্রস্তুতি নিয়ে।

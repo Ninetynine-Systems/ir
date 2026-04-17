@@ -1,13 +1,13 @@
-Let's do a small check-in from the Yusuf arc before we move on.
+চলুন, ইউসুফ আলাইহিস সালামের কাহিনি থেকে ছোট্ট একটি মনে-করার বিরতি নিই, পরবর্তী দিকে যাওয়ার আগে। কখনও কখনও থেমে ফিরে দেখা গল্পটিকে আরও গভীরে বসিয়ে দেয়।
 
-1. When Yusuf finally revealed himself to his brothers, what did he center first: revenge or the grace of Allah?
-2. What were the words of pardon he gave them?
-3. At the end of the surah, what did Yusuf ask Allah for after reunion, honor, and restored family?
+১. ভাইদের সামনে নিজের পরিচয় প্রকাশ করার পর ইউসুফ আলাইহিস সালাম আগে কীকে কেন্দ্র করলেন - প্রতিশোধ, নাকি আল্লাহর অনুগ্রহ?
+২. তিনি ক্ষমার কোন বাক্যটি বলেছিলেন?
+৩. কাহিনির শেষে তিনি আল্লাহর কাছে কী দু'আ করেছিলেন?
 
-Pause for a moment before looking below.
+একটু থামুন, মনে করার চেষ্টা করুন, তারপর নিচে দেখুন।
 
-1. He centered the grace of Allah.
-2. `لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ` - "No blame will there be upon you today." (Surah Yusuf, 12:92)
-3. He asked to die in submission and to be joined with the righteous. (Surah Yusuf, 12:101)
+১. তিনি আগে আল্লাহর অনুগ্রহকেই সামনে আনেন।
+২. `لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ` - "আজ তোমাদের প্রতি কোনো দোষারোপ নেই।" (সূরা ইউসুফ, ১২:৯২)
+৩. তিনি মুসলিম অবস্থায় মৃত্যু এবং সৎকর্মশীলদের সঙ্গে যুক্ত হওয়ার দু'আ করেছিলেন। (সূরা ইউসুফ, ১২:১০১)
 
-The story teaches more than patience. It teaches what patience can grow into.
+ইউসুফ আলাইহিস সালামের কাহিনি শুধু সবরের শিক্ষা দেয় না। এটি দেখায়, আল্লাহর জন্য করা সবর মানুষকে ক্ষমা, কৃতজ্ঞতা, আর নরম অন্তরের জায়গায়ও নিয়ে যেতে পারে।

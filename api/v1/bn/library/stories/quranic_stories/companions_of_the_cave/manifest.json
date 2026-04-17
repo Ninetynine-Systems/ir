@@ -4,32 +4,27 @@
   "section": "stories",
   "group": "quranic_stories",
   "slug": "companions_of_the_cave",
-  "title": "গুহাবাসী তরুণরা",
-  "summary": "বিশ্বাসী যুবকদের একটি সংযত পুনরুত্থান যারা বিশ্বাস নিয়ে পালিয়েছিল, আল্লাহ এর আদেশে ঘুমিয়েছিল এবং পুনরুত্থানের চিহ্ন হয়ে উঠেছে।",
+  "title": "গুহাবাসী যুবকেরা",
+  "summary": "ঈমান রক্ষায় সরে যাওয়া যুবকদের কাহিনি, যাদের আল্লাহ নিদর্শন বানিয়েছেন।",
   "source_profile": "quran_and_accepted_authentic_reports_only",
   "primary_sources": [
-    "সূরা আল-কাহফ 18:9-26"
+    "সূরা আল-কাহফ ১৮:৯-২৬"
   ],
   "tags": [
-    "অবিচলতা",
-    "তরুণ",
-    "পুনরুত্থান"
-  ],
-  "keywords": [
-    "গুহাবাসী তরুণরা",
-    "অবিচলতা",
-    "তরুণ",
-    "পুনরুত্থান",
-    "ashab al kahf",
-    "people of the cave",
-    "surah kahf",
+    "steadfastness",
     "youth",
     "resurrection"
   ],
+  "keywords": [
+    "গুহাবাসী",
+    "আসহাবে কাহফ",
+    "আল-কাহফ",
+    "পুনরুত্থান",
+    "cave",
+    "ashab al kahf"
+  ],
   "aliases": [
-    "গুহাবাসী তরুণরা",
-    "People of the Cave",
-    "Ashab al-Kahf"
+    "আসহাবে কাহফ"
   ],
   "files": [
     {

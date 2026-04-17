@@ -7,21 +7,21 @@
     {
       "slug": "stories",
       "title": "কাহিনি",
-      "description": "নবী এবং কুরআনic বর্ণনা সংযত, উৎস-প্রথম বিশদ সহ বলা হয়েছে।",
+      "description": "কুরআন ও নির্ভরযোগ্য সহিহ সূত্রভিত্তিক কাহিনি, অযথা বাড়তি অলংকার ছাড়া।",
       "collections_url": "/api/v1/bn/library/stories/manifest.json",
       "item_count": 4
     },
     {
       "slug": "supplications",
-      "title": "দু'আসমূহ",
-      "description": "সঠিক টেক্সট, উৎস রেফারেন্স এবং সংক্ষিপ্ত প্রসঙ্গ সহ প্রমাণীকৃত দু'আs।",
+      "title": "দু'আ",
+      "description": "কুরআন ও সহিহ সূত্রের দু'আ, মূল আরবি, বাংলা উচ্চারণ, অনুবাদ ও সংক্ষিপ্ত প্রেক্ষাপটসহ।",
       "collections_url": "/api/v1/bn/library/supplications/manifest.json",
       "item_count": 6
     },
     {
       "slug": "topics",
-      "title": "বিষয়সমূহ",
-      "description": "কুরআন এবং খাঁটি সুন্নাহ-এ নোঙর করা সম্মত ইসলামিক ভিত্তির জন্য শিক্ষানবিস-নিরাপদ গাইড।",
+      "title": "বিষয়ভিত্তিক পাঠ",
+      "description": "কুরআন ও সহিহ সুন্নাহভিত্তিক ইসলামের মৌলিক বিষয়গুলো সহজ ও নিরাপদ ভাষায়।",
       "collections_url": "/api/v1/bn/library/topics/manifest.json",
       "item_count": 7
     }

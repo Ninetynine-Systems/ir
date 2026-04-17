@@ -1,16 +1,11 @@
-Night has come, and I'm still sitting with the image of that well. How the moments that feel like endings sometimes aren't. We don't see it when we're in it. But Allah knows.
+আজ রাতেও সেই কূপের ছবিটাই মনে ভাসছে। মানুষ অনেক সময় যে মুহূর্তটাকে শেষ বলে মনে করে, আল্লাহ সেটিকেই আরেক দরজার শুরু বানিয়ে দেন। কিন্তু ভেতরে থাকলে সেটি বোঝা যায় না। তখন কেবল অন্ধকারটাই বড় লাগে।
 
 > ﴿ قُل لَّن يُصِيبَنَا إِلَّا مَا كَتَبَ اللَّهُ لَنَا ﴾
-> *Qul lan yuseebana illa ma kataballahu lana*
-> "Say, 'Never will we be struck except by what Allah has decreed for us...'"
-> — আত-তাওবাহ, 9:51
+> "বলুন, আল্লাহ আমাদের জন্য যা লিখে রেখেছেন তা ছাড়া কখনো কিছুই আমাদের ওপর আপতিত হবে না।"
+> - সূরা আত-তাওবা, ৯:৫১
 
-This is the trust of the believer. What reaches us was never going to miss us. What misses us was never going to reach us. Every moment is written, measured, known. Not as a cold decree, but as a loving ordainment from the One who knows what you can carry and what would break you.
+এটি মুমিনের গভীর ভরসা। যা আমাদের কাছে এসেছে, তা এড়ানোর ছিল না। আর যা আমাদের এড়িয়ে গেছে, তা আমাদের জন্য ছিল না। এ কথাটি ঠান্ডা ভাগ্যবাদ নয়; বরং এমন এক রবের প্রতি আস্থা, যিনি জানেন আমরা কী বহন করতে পারি, আর কোন পথে আমাদের গড়ে তুলবেন।
 
-Yusuf عليه السلام spent that night in the well, and then was drawn into a new life. He didn't know the plan. He only knew he had to keep trusting. And that was enough.
+ইউসুফ আলাইহিস সালাম পরিকল্পনা জানতেন না। তিনি শুধু জানতেন, তাঁকে আল্লাহর ওপর ভরসা করতেই হবে। আর সেই ভরসাই তাঁকে কূপ থেকে বাজারে, বাজার থেকে ঘরে, ঘর থেকে কারাগারে, কারাগার থেকে রাজদরবারে নিয়ে গেছে।
 
-Tonight, whatever you're carrying, may you find peace in knowing the story isn't over. There are chapters ahead that you cannot yet see. The ending of one thing is always the beginning of something else, even when you can't name what that something else might be.
-
-May Allah grant you peace in the unknown.
-
-🌙
+আজ আপনার জীবনেও যদি কোনো কূপের মতো জায়গা থাকে - অন্ধকার, সংকীর্ণ, উত্তরহীন - মনে রাখুন, কাহিনি শেষ হয়ে যায়নি। আল্লাহ এখনও জানেন পরের অধ্যায় কোথায় খুলবে।

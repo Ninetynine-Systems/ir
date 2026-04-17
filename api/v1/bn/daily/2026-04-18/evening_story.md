@@ -1,14 +1,10 @@
-Yesterday we left Yusuf عليه السلام at the edge of release. The king had heard of him. The prison door was finally opening. But Yusuf did something remarkable: he did not rush out.
+রাজা ইউসুফ আলাইহিস সালামকে বের করে আনতে বললেন। কিন্তু এখানেই কাহিনির একটি গভীর সৌন্দর্য - তিনি তাড়াহুড়া করে বের হলেন না। বহু বছরের বন্দিত্বের পর সাধারণ মানুষ হয়তো যেকোনোভাবে বের হয়ে আসতেই চাইত। কিন্তু ইউসুফ আলাইহিস সালাম শুধু মুক্তি চাননি; সত্যেরও প্রকাশ চেয়েছিলেন।
 
-> "Return to your master and ask him what is the case of the women who cut their hands..."
-> - সূরা ইউসুফ, 12:50
+> "তোমার প্রভুর কাছে ফিরে যাও, এবং জিজ্ঞেস করো সেই নারীদের ব্যাপার কী, যারা নিজেদের হাত কেটেছিল।"
+> - সূরা ইউসুফ, ১২:৫০
 
-He wanted the truth brought into the light before he stepped into freedom. He had been imprisoned unjustly, and he refused to let the story close with silence hanging over his name.
+তিনি চাইলেন, তাঁর নামের ওপর চাপানো মিথ্যাটি পরিষ্কার হোক। এরপর বিষয়টি আবার খুলে দেখা হলো। নারীরা জিজ্ঞাসাবাদে সত্য বলল, আর আযীযের স্ত্রীও স্বীকার করল যে ইউসুফ আলাইহিস সালাম সত্যবাদী ছিলেন। এতদিন যা আড়ালে ছিল, তা আলোতে চলে এলো।
 
-So the matter was reopened. The women were questioned. The minister's wife was pressed. And what had been hidden for years finally surfaced in public. She admitted that she had sought to seduce him. The falsehood that buried him began to collapse under its own weight.
+এটি সূরার খুব সুন্দর একটি মোড়। আল্লাহ শুধু কারাগারের দরজা খুললেন না; তিনি অপবাদটিও সরালেন। মুক্তি শুধু শারীরিক হলো না, নৈতিকও হলো। সম্মানকে তিনি অসম্পূর্ণভাবে ফেরালেন না।
 
-This is one of the most beautiful turns in the surah. Allah did not merely bring Yusuf out of prison. He brought him out with vindication. The release was not only physical. It was moral. His dignity was restored before the people who needed to see it.
-
-There is something healing in that. Sometimes we ask only for a door to open. But Allah, in His wisdom, may open it in a way that also clears what was clouded, names what was twisted, and restores what was taken from you.
-
-Yusuf's waiting was not wasted. Even the delay before the door opened had meaning.
+অনেক সময় মানুষ শুধু বলে: দরজা খুলে যাক। কিন্তু আল্লাহ চাইলে দরজা এমনভাবে খোলেন, যাতে ভাঙা জিনিসও জোড়া লাগে, মেঘও সরে যায়, আর মানুষের নামও পরিষ্কার হয়ে ওঠে।

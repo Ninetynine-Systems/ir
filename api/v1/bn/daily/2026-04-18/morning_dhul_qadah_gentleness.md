@@ -1,10 +1,10 @@
-We crossed into Dhul-Qa'dah last night, and the pace already feels different. Some parts of the year arrive with obvious intensity. This month feels quieter. It asks for care more than noise, restraint more than display.
+গত রাতে আমরা যিলকদে ঢুকে পড়েছি। এ মাসের ভেতর এক ধরনের নীরবতা আছে। অন্য কিছু সময় যেমন জোরে এসে দাঁড়ায়, যিলকদ তেমন নয়। এটি মানুষকে আওয়াজ নয়, যত্ন শেখায়; তাড়াহুড়া নয়, সংযত পা ফেলা শেখায়।
 
-> "Indeed, the number of months with Allah is twelve months in the book of Allah on the day He created the heavens and the earth; of these, four are sacred..."
-> - আত-তাওবাহ, 9:36
+> "নিশ্চয় আল্লাহর কাছে মাসের সংখ্যা বারোটি; এর মধ্যে চারটি সম্মানিত।"
+> - সূরা আত-তাওবা, ৯:৩৬
 
-Sacred time does not always mean dramatic time. Sometimes it means speaking a little more carefully. Letting an argument pass. Guarding a prayer instead of rushing through it. Choosing not to harden your heart.
+সম্মানিত সময় সবসময় নাটকীয় হয় না। কখনও এর মানে হলো ঝগড়া এড়িয়ে যাওয়া। কখনও তার মানে সালাতকে আরেকটু যত্ন দিয়ে পড়া। কখনও শুধু অন্তরকে শক্ত না হতে দেওয়া। পবিত্রতার একটি ভাষা হলো কোমলতা।
 
-Yusuf عليه السلام was still waiting as this sacred month began. The prison doors had not opened for him on his own schedule, but Allah had not lost the thread. If you are entering Dhul-Qa'dah while something in your life still feels unfinished, do not mistake quiet for absence.
+ইউসুফ আলাইহিস সালামের কাহিনির এ পর্যায়েও দরজা খুলতে তখনও একটু সময় ছিল। সবকিছু তাঁর নিজস্ব সময়মতো হয়নি। কিন্তু আল্লাহ তাঁর কাহিনির সুতো হারাননি। আপনি যদি নতুন মাসে ঢুকেও জীবনের কিছু বিষয়কে অসমাপ্ত পান, তবে নীরবতাকে অনুপস্থিতি ভেবে বসবেন না।
 
-Perhaps the invitation for today is simply this: move more gently with what Allah has placed in front of you.
+আজকের আহ্বান খুব সহজ: আল্লাহ আজ আপনার সামনে যা রেখেছেন, তার সঙ্গে একটু নরম হয়ে চলুন।

@@ -1,20 +1,11 @@
-As this Friday draws to a close and we settle into the first night of Dhul-Qa'dah, I keep thinking about doors. How they open when the time is right, not a moment before and not a moment after.
-
-Yusuf عليه السلام spent years waiting. He interpreted dreams for others while his own dream remained unfulfilled. He served while he was confined. He gave while he had nothing.
-
-And then, the door opened.
+আজ রাতে দরজা খোলার কথা ভাবছি। ইউসুফ আলাইহিস সালামের স্বপ্ন পূরণ হতে অনেক সময় লেগেছে। তিনি অন্যদের স্বপ্নের ব্যাখ্যা দিয়েছেন, অথচ নিজের স্বপ্নের পূর্ণতা তখনও দূরে ছিল। এই অপেক্ষার মধ্যেও তিনি কাজ করে গেছেন, সেবা করে গেছেন, ভেঙে পড়েননি।
 
 > ﴿ قَالَ اجْعَلْنِي عَلَىٰ خَزَائِنِ الْأَرْضِ ۖ إِنِّي حَفِيظٌ عَلِيمٌ ﴾
-> *Qala ij'alni 'ala khaza'in al-ardi inni hafeethun aleem*
-> "He said, 'Appoint me over the storehouses of the land. Indeed, I am a knowing guardian.'"
-> — সূরা ইউসুফ, 12:55
+> "তিনি বললেন, আমাকে দেশের ভাণ্ডারগুলোর দায়িত্ব দিন; নিশ্চয় আমি সংরক্ষণকারী, জ্ঞানী।"
+> - সূরা ইউসুফ, ১২:৫৫
 
-From prisoner to treasurer. From the bottom of a well to the storehouses of Egypt. The same man, the same qualities — patience, integrity, knowledge — now given wider scope to serve.
+কূপ থেকে দেশের ভাণ্ডারের দায়িত্ব - এই পথের ভেতর একটিও ধাপ অপচয় হয়নি। ধৈর্য, সততা, জ্ঞান, সংযম - একই গুণগুলো একদিন সীমিত জায়গায় পরীক্ষা হয়েছিল, পরে বিস্তৃত জায়গায় দায়িত্ব পেল।
 
-When you're in the middle of something difficult, it's hard to see what it's doing to you. You just know it's hard. But Yusuf's story suggests that the time in prison wasn't wasted. It shaped him for what came after.
+যখন মানুষ কষ্টের মধ্যে থাকে, তখন বুঝতে পারে না কষ্ট তাকে কী বানাচ্ছে। শুধু কষ্টটুকুই বড় লাগে। কিন্তু ইউসুফ আলাইহিস সালামের কাহিনি ইশারা দেয় - মাঝের বছরগুলোও হিকমতে ভরা।
 
-As you enter this sacred month, perhaps there's something in your life that feels like a waiting place — something you've been carrying longer than you expected. There's no harm in hoping for the door to open. And if it hasn't opened yet, perhaps there's still something being worked in you that you can't see.
-
-May Allah open doors for you that you didn't even know existed.
-
-🌙
+আজ রাতে আপনার জীবনেও যদি কোনো অপেক্ষার ঘর থাকে, আল্লাহ যেন সেটিকে অর্থহীন না রাখেন। তিনি যেন এমন দরজা খুলে দেন, যার জন্য আপনাকে ধীরে ধীরে প্রস্তুত করা হচ্ছে।

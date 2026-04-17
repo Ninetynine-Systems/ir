@@ -5,249 +5,162 @@
   "item_count": 17,
   "entries": [
     {
-      "id": "stories:prophets_and_messengers:prophet_nuh",
-      "section": "stories",
-      "group": "prophets_and_messengers",
-      "slug": "prophet_nuh",
-      "title": "নবী নূহ (আ.)",
-      "summary": "একটি উত্স-প্রথম নুহের দীর্ঘ আহ্বান, জাহাজ, বন্যা, এবং শিক্ষা যে পরিত্রাণ বিশ্বাস অনুসরণ করে, বংশ নয়।",
-      "tags": [
-        "ধৈর্য",
-        "আল্লাহর দিকে আহ্বান",
-        "নাজাত"
-      ],
-      "keywords": [
-        "নবী নূহ (আ.)",
-        "ধৈর্য",
-        "আল্লাহর দিকে আহ্বান",
-        "নাজাত",
-        "nuh",
-        "noah",
-        "ark",
-        "flood",
-        "patience"
-      ],
-      "aliases": [
-        "নবী নূহ (আ.)",
-        "Prophet Noah"
-      ],
-      "difficulty": "beginner",
-      "occasion": null,
-      "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
-    },
-    {
       "id": "stories:prophets_and_messengers:prophet_yusuf",
       "section": "stories",
       "group": "prophets_and_messengers",
       "slug": "prophet_yusuf",
-      "title": "নবী ইউসুফ (আ.)",
-      "summary": "ঈর্ষা, বিচার, সততা, এবং পুনর্মিলনের মাধ্যমে ইউসুফের একটি আদর্শিকভাবে গ্রাউন্ডেড রিটেলিং।",
+      "title": "নবী ইউসুফ",
+      "summary": "হিংসা, পরীক্ষা, সততা ও পুনর্মিলনের ভেতর দিয়ে নবী ইউসুফ আলাইহিস সালামের কাহিনি।",
       "tags": [
-        "ধৈর্য",
-        "পরিবার",
-        "আল্লাহর ওপর ভরসা"
+        "patience",
+        "family",
+        "trust_in_allah"
       ],
       "keywords": [
-        "নবী ইউসুফ (আ.)",
-        "ধৈর্য",
-        "পরিবার",
-        "আল্লাহর ওপর ভরসা",
+        "ইউসুফ",
+        "সূরা ইউসুফ",
+        "স্বপ্ন",
+        "কূপ",
+        "সবর",
         "yusuf",
-        "joseph",
-        "surah yusuf",
-        "dreams",
-        "patience"
+        "joseph"
       ],
       "aliases": [
-        "নবী ইউসুফ (আ.)",
-        "Prophet Joseph"
+        "হযরত ইউসুফ",
+        "যোসেফ"
       ],
       "difficulty": "beginner",
-      "occasion": null,
       "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
     },
     {
-      "id": "stories:quranic_stories:companions_of_the_cave",
+      "id": "stories:prophets_and_messengers:prophet_nuh",
       "section": "stories",
-      "group": "quranic_stories",
-      "slug": "companions_of_the_cave",
-      "title": "গুহাবাসী তরুণরা",
-      "summary": "বিশ্বাসী যুবকদের একটি সংযত পুনরুত্থান যারা বিশ্বাস নিয়ে পালিয়েছিল, আল্লাহ এর আদেশে ঘুমিয়েছিল এবং পুনরুত্থানের চিহ্ন হয়ে উঠেছে।",
+      "group": "prophets_and_messengers",
+      "slug": "prophet_nuh",
+      "title": "নবী নুহ",
+      "summary": "দীর্ঘ দাওয়াত, নৌকা, প্লাবন ও ঈমানভিত্তিক নাজাতের শিক্ষা নিয়ে নবী নুহ আলাইহিস সালামের কাহিনি।",
       "tags": [
-        "অবিচলতা",
-        "তরুণ",
-        "পুনরুত্থান"
+        "patience",
+        "calling_to_allah",
+        "salvation"
       ],
       "keywords": [
-        "গুহাবাসী তরুণরা",
-        "অবিচলতা",
-        "তরুণ",
-        "পুনরুত্থান",
-        "ashab al kahf",
-        "people of the cave",
-        "surah kahf",
-        "youth",
-        "resurrection"
+        "নুহ",
+        "নৌকা",
+        "প্লাবন",
+        "সবর",
+        "nuh",
+        "noah",
+        "ark"
       ],
       "aliases": [
-        "গুহাবাসী তরুণরা",
-        "People of the Cave",
-        "Ashab al-Kahf"
+        "হযরত নুহ",
+        "নোয়াহ"
       ],
       "difficulty": "beginner",
-      "occasion": null,
-      "detail_url": "/api/v1/bn/library/stories/quranic_stories/companions_of_the_cave/manifest.json"
+      "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
     },
     {
       "id": "stories:quranic_stories:dhul_qarnayn",
       "section": "stories",
       "group": "quranic_stories",
       "slug": "dhul_qarnayn",
-      "title": "যুল-কারনাইন",
-      "summary": "ন্যায়বিচার এবং নম্রতার সাথে ভ্রমণকারী একজন শাসকের কুরআনic অ্যাকাউন্টের একটি সংযত পাঠ।",
+      "title": "যুলকারনাইন",
+      "summary": "ন্যায়, সামর্থ্য ও বিনয়ের সঙ্গে পথ চলা এক শাসকের কুরআনিক কাহিনি।",
       "tags": [
-        "ন্যায়বিচার",
-        "নেতৃত্ব",
-        "আখিরাত"
+        "justice",
+        "leadership",
+        "last_day"
       ],
       "keywords": [
-        "যুল-কারনাইন",
-        "ন্যায়বিচার",
-        "নেতৃত্ব",
-        "আখিরাত",
+        "যুলকারনাইন",
+        "ইয়াজুজ মাজুজ",
+        "আল-কাহফ",
+        "শাসন",
         "dhul qarnayn",
-        "zulqarnain",
-        "surah kahf",
-        "gog and magog",
-        "barrier"
+        "zulqarnain"
       ],
       "aliases": [
-        "যুল-কারনাইন",
-        "Zulqarnain"
+        "জুলকারনাইন"
       ],
       "difficulty": "beginner",
-      "occasion": null,
       "detail_url": "/api/v1/bn/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
     },
     {
-      "id": "supplications:distress_and_relief:dua_of_yunus",
-      "section": "supplications",
-      "group": "distress_and_relief",
-      "slug": "dua_of_yunus",
-      "title": "ইউনুস (আ.)-এর দু'আ",
-      "summary": "অন্ধকার ও দুরবস্থায় ইউনুসের মিনতি, তাওহিদ দ্বারা বাহিত এবং অনুতাপ।",
+      "id": "stories:quranic_stories:companions_of_the_cave",
+      "section": "stories",
+      "group": "quranic_stories",
+      "slug": "companions_of_the_cave",
+      "title": "গুহাবাসী যুবকেরা",
+      "summary": "ঈমান রক্ষায় সরে যাওয়া যুবকদের কাহিনি, যাদের আল্লাহ নিদর্শন বানিয়েছেন।",
       "tags": [
-        "তাওবাহ",
-        "সংকট",
-        "তাওহিদ"
+        "steadfastness",
+        "youth",
+        "resurrection"
       ],
       "keywords": [
-        "ইউনুস (আ.)-এর দু'আ",
-        "তাওবাহ",
-        "সংকট",
-        "তাওহিদ",
-        "21:87",
-        "yunus",
-        "distress",
-        "repentance",
-        "la ilaha illa anta"
+        "গুহাবাসী",
+        "আসহাবে কাহফ",
+        "আল-কাহফ",
+        "পুনরুত্থান",
+        "cave",
+        "ashab al kahf"
       ],
       "aliases": [
-        "ইউনুস (আ.)-এর দু'আ",
-        "Dua of Dhun-Nun"
+        "আসহাবে কাহফ"
       ],
       "difficulty": "beginner",
-      "occasion": "distress_and_repentance",
-      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+      "detail_url": "/api/v1/bn/library/stories/quranic_stories/companions_of_the_cave/manifest.json"
     },
     {
-      "id": "supplications:distress_and_relief:musa_plea_for_good",
+      "id": "supplications:quranic_duas:hearts_steadfast_after_guidance",
       "section": "supplications",
-      "group": "distress_and_relief",
-      "slug": "musa_plea_for_good",
-      "title": "প্রয়োজনে মুসা (আ.)-এর দু'আ",
-      "summary": "একটি সংক্ষিপ্ত কুরআনic দরখাস্ত মুসার দ্বারা বলা প্রয়োজন পরে পরিষেবা, ক্লান্তি, এবং পরবর্তী কী হবে সে সম্পর্কে অনিশ্চয়তা৷",
+      "group": "quranic_duas",
+      "slug": "hearts_steadfast_after_guidance",
+      "title": "হিদায়াতের পর অন্তর অটল রাখার দু'আ",
+      "summary": "হিদায়াতের পর অন্তর যেন বিচ্যুত না হয় - এ আবেদনভরা কুরআনিক দু'আ।",
       "tags": [
-        "প্রয়োজন",
-        "রিজিক",
-        "বিনয়"
+        "guidance",
+        "mercy",
+        "steadfastness"
       ],
       "keywords": [
-        "প্রয়োজনে মুসা (আ.)-এর দু'আ",
-        "প্রয়োজন",
-        "রিজিক",
-        "বিনয়",
-        "28:24",
-        "musa",
-        "need",
-        "provision",
-        "good"
-      ],
-      "aliases": [
-        "প্রয়োজনে মুসা (আ.)-এর দু'আ",
-        "Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
-      ],
-      "difficulty": "beginner",
-      "occasion": "need_and_provision",
-      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
-    },
-    {
-      "id": "supplications:forgiveness_and_tawbah:adam_repentance",
-      "section": "supplications",
-      "group": "forgiveness_and_tawbah",
-      "slug": "adam_repentance",
-      "title": "আদম (আ.)-এর তাওবার দু'আ",
-      "summary": "কুরআনic অনুতাপের আবেদনটি আদম এবং তার স্ত্রীর স্লিপের পরে বলা হয়েছে, যা স্বীকারোক্তি, ক্ষমা এবং আশা দ্বারা আকৃতির।",
-      "tags": [
-        "তাওবাহ",
-        "ক্ষমা",
-        "রহমত"
-      ],
-      "keywords": [
-        "আদম (আ.)-এর তাওবার দু'আ",
-        "তাওবাহ",
-        "ক্ষমা",
+        "হিদায়াত",
+        "অন্তর",
+        "অটলতা",
         "রহমত",
-        "7:23",
-        "adam",
-        "repentance",
-        "forgiveness",
-        "mercy"
+        "৩:৮",
+        "3:8"
       ],
       "aliases": [
-        "আদম (আ.)-এর তাওবার দু'আ",
-        "Rabbana Zalamna Anfusana"
+        "রব্বানা লা তুযিগ কুলুবানা"
       ],
       "difficulty": "beginner",
-      "occasion": "repentance_after_sin",
-      "detail_url": "/api/v1/bn/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
+      "occasion": "steadfastness_after_guidance",
+      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
     },
     {
       "id": "supplications:quranic_duas:dua_of_the_cave_youth",
       "section": "supplications",
       "group": "quranic_duas",
       "slug": "dua_of_the_cave_youth",
-      "title": "গুহাবাসী তরুণদের দু'আ",
-      "summary": "চাপের সময়ে করুণা এবং সঠিক নির্দেশনার জন্য একটি কুরআনic মিনতি।",
+      "title": "গুহাবাসী যুবকদের দু'আ",
+      "summary": "চাপের সময়ে রহমত ও সঠিক পথ চাওয়ার কুরআনিক দু'আ।",
       "tags": [
-        "হিদায়াত",
-        "রহমত",
-        "অবিচলতা"
+        "guidance",
+        "mercy",
+        "steadfastness"
       ],
       "keywords": [
-        "গুহাবাসী তরুণদের দু'আ",
-        "হিদায়াত",
         "রহমত",
-        "অবিচলতা",
+        "সঠিক পথ",
+        "আল-কাহফ",
+        "১৮:১০",
         "18:10",
-        "cave",
-        "surah kahf",
-        "guidance",
-        "mercy"
+        "গুহা"
       ],
       "aliases": [
-        "গুহাবাসী তরুণদের দু'আ",
-        "Rabbana Atina Min Ladunka Rahmah"
+        "রব্বানা আতিনা মিন লাদুনকা রহমাহ"
       ],
       "difficulty": "beginner",
       "occasion": "seeking_guidance_under_pressure",
@@ -258,244 +171,159 @@
       "section": "supplications",
       "group": "quranic_duas",
       "slug": "good_in_this_world_and_the_next",
-      "title": "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
-      "summary": "একটি বিস্তৃত কুরআনic মিনতি আল্লাহকে ইহকালের ভালো, পরকালে ভালো এবং আগুন থেকে সুরক্ষার জন্য জিজ্ঞাসা করা।",
+      "title": "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
+      "summary": "দুনিয়া, আখিরাত ও জাহান্নাম থেকে রক্ষার জন্য জামে' কুরআনিক দু'আ।",
       "tags": [
-        "কল্যাণ",
-        "আখিরাত",
-        "সুরক্ষা"
+        "goodness",
+        "hereafter",
+        "protection"
       ],
       "keywords": [
-        "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
         "কল্যাণ",
         "আখিরাত",
-        "সুরক্ষা",
+        "হাসানাহ",
+        "২:২০১",
         "2:201",
-        "hasanah",
-        "hereafter",
-        "fire",
-        "dua"
+        "দু'আ"
       ],
       "aliases": [
-        "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
-        "Rabbana Atina Fid-Dunya Hasanah"
+        "রব্বানা আতিনা ফিদ্দুনিয়া হাসানাহ"
       ],
       "difficulty": "beginner",
       "occasion": "comprehensive_goodness",
       "detail_url": "/api/v1/bn/library/supplications/quranic_duas/good_in_this_world_and_the_next/manifest.json"
     },
     {
-      "id": "supplications:quranic_duas:hearts_steadfast_after_guidance",
+      "id": "supplications:distress_and_relief:dua_of_yunus",
       "section": "supplications",
-      "group": "quranic_duas",
-      "slug": "hearts_steadfast_after_guidance",
-      "title": "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
-      "summary": "একটি কুরআনic অনুরোধ আল্লাহ কে নির্দেশনার পরে হৃদয় ঘুরতে না দেওয়ার জন্য।",
+      "group": "distress_and_relief",
+      "slug": "dua_of_yunus",
+      "title": "ইউনুস আলাইহিস সালামের দু'আ",
+      "summary": "অন্ধকার, কষ্ট ও তাওবার সময়ে পড়ার কুরআনিক দু'আ।",
       "tags": [
-        "হিদায়াত",
-        "রহমত",
-        "অবিচলতা"
+        "repentance",
+        "distress",
+        "tawhid"
       ],
       "keywords": [
-        "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
-        "হিদায়াত",
-        "রহমত",
-        "অবিচলতা",
-        "3:8",
-        "guidance",
-        "steadfastness",
-        "mercy",
-        "hearts"
+        "ইউনুস",
+        "কষ্ট",
+        "তাওবা",
+        "তাওহিদ",
+        "২১:৮৭",
+        "21:87"
       ],
       "aliases": [
-        "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
-        "Rabbana La Tuzigh Qulubana"
+        "লা ইলাহা ইল্লা আনতা সুবহানাকা"
       ],
       "difficulty": "beginner",
-      "occasion": "steadfastness_after_guidance",
-      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
+      "occasion": "distress_and_repentance",
+      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:taqwa_foundations",
-      "section": "topics",
-      "group": "heart_and_character",
-      "slug": "taqwa_foundations",
-      "title": "তাকওয়ার ভিত্তি",
-      "summary": "তাকওয়া-এর একটি ভূমিকা মনেপ্রাণ আনুগত্য, অভ্যন্তরীণ সতর্কতা, এবং আল্লাহ সম্পর্কে সচেতনতা দ্বারা আকৃতির একটি জীবন।",
+      "id": "supplications:distress_and_relief:musa_plea_for_good",
+      "section": "supplications",
+      "group": "distress_and_relief",
+      "slug": "musa_plea_for_good",
+      "title": "মূসা আলাইহিস সালামের প্রয়োজনের দু'আ",
+      "summary": "প্রয়োজন, ক্লান্তি ও অনিশ্চয়তার সময়ে মূসা আলাইহিস সালামের কুরআনিক প্রার্থনা।",
       "tags": [
-        "তাকওয়া",
-        "হৃদয়",
-        "আনুগত্য"
+        "need",
+        "provision",
+        "humility"
       ],
       "keywords": [
-        "তাকওয়ার ভিত্তি",
-        "তাকওয়া",
-        "হৃদয়",
-        "আনুগত্য",
-        "taqwa",
-        "god consciousness",
-        "mindful obedience",
-        "restraint",
-        "obedience"
+        "মূসা",
+        "প্রয়োজন",
+        "রিযিক",
+        "কল্যাণ",
+        "২৮:২৪",
+        "28:24"
       ],
       "aliases": [
-        "তাকওয়ার ভিত্তি",
-        "God-Consciousness Foundations"
+        "রব্বি ইন্নি লিমা আনযালতা ইলাইয়া"
       ],
       "difficulty": "beginner",
-      "occasion": null,
-      "detail_url": "/api/v1/bn/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+      "occasion": "need_and_provision",
+      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:tawbah_foundations",
-      "section": "topics",
-      "group": "heart_and_character",
-      "slug": "tawbah_foundations",
-      "title": "তাওবার ভিত্তি",
-      "summary": "সততা, আশা, এবং নতুন আনুগত্যের সাথে আল্লাহ এ ফিরে আসার জন্য অনুতাপের জন্য একটি শিক্ষানবিস-নিরাপদ নির্দেশিকা৷",
+      "id": "supplications:forgiveness_and_tawbah:adam_repentance",
+      "section": "supplications",
+      "group": "forgiveness_and_tawbah",
+      "slug": "adam_repentance",
+      "title": "আদম আলাইহিস সালামের তাওবার দু'আ",
+      "summary": "ভুলের পর স্বীকারোক্তি, ক্ষমা আর আশার ভাষায় কুরআনিক তাওবার দু'আ।",
       "tags": [
-        "tawbah",
-        "তাওবাহ",
-        "রহমত"
-      ],
-      "keywords": [
-        "তাওবার ভিত্তি",
-        "tawbah",
-        "তাওবাহ",
-        "রহমত",
         "repentance",
         "forgiveness",
-        "return to allah",
-        "hope"
+        "mercy"
+      ],
+      "keywords": [
+        "আদম",
+        "তাওবা",
+        "ক্ষমা",
+        "রহমত",
+        "৭:২৩",
+        "7:23"
       ],
       "aliases": [
-        "তাওবার ভিত্তি",
-        "Repentance Foundations"
+        "রব্বানা যলামনা আনফুসানা"
       ],
       "difficulty": "beginner",
-      "occasion": null,
-      "detail_url": "/api/v1/bn/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+      "occasion": "repentance_after_sin",
+      "detail_url": "/api/v1/bn/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
     },
     {
       "id": "topics:pillars_of_iman:iman_foundations",
       "section": "topics",
       "group": "pillars_of_iman",
       "slug": "iman_foundations",
-      "title": "ঈমানের ভিত্তি",
-      "summary": "বিশ্বাসের অর্থ কী, এতে কী অন্তর্ভুক্ত রয়েছে এবং একজন বিশ্বাসীর জীবনে এটি কীভাবে উপস্থিত হয় তার একটি সংক্ষিপ্ত নির্দেশিকা।",
+      "title": "ঈমানের মৌলিক ধারণা",
+      "summary": "ঈমান কী, কী কী এতে অন্তর্ভুক্ত, আর তা জীবনে কীভাবে প্রকাশ পায় - তার সংক্ষিপ্ত ভিত্তিগত পাঠ।",
       "tags": [
         "iman",
-        "বিশ্বাস",
-        "ভিত্তি"
+        "belief",
+        "foundations"
       ],
       "keywords": [
-        "ঈমানের ভিত্তি",
-        "iman",
-        "বিশ্বাস",
-        "ভিত্তি",
+        "ঈমান",
+        "আকিদা",
+        "জিবরিল হাদিস",
+        "তাকদির",
         "faith",
-        "hadith jibril",
-        "pillars of iman",
-        "qadr"
+        "iman"
       ],
       "aliases": [
-        "ঈমানের ভিত্তি",
-        "Pillars of Faith"
+        "ঈমানের স্তম্ভ"
       ],
       "difficulty": "beginner",
-      "occasion": null,
       "detail_url": "/api/v1/bn/library/topics/pillars_of_iman/iman_foundations/manifest.json"
-    },
-    {
-      "id": "topics:pillars_of_islam:hajj_foundations",
-      "section": "topics",
-      "group": "pillars_of_islam",
-      "slug": "hajj_foundations",
-      "title": "হজের ভিত্তি",
-      "summary": "তীর্থযাত্রার বাধ্যবাধকতা, অর্থ এবং প্রধান লক্ষ্যগুলির জন্য একটি শিক্ষানবিস-নিরাপদ গাইড।",
-      "tags": [
-        "হজ",
-        "তীর্থযাত্রা",
-        "মক্কা"
-      ],
-      "keywords": [
-        "হজের ভিত্তি",
-        "হজ",
-        "তীর্থযাত্রা",
-        "মক্কা",
-        "hajj",
-        "pilgrimage",
-        "arafah",
-        "mecca",
-        "umrah"
-      ],
-      "aliases": [
-        "হজের ভিত্তি",
-        "Pilgrimage Foundations"
-      ],
-      "difficulty": "beginner",
-      "occasion": null,
-      "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/hajj_foundations/manifest.json"
-    },
-    {
-      "id": "topics:pillars_of_islam:salah_foundations",
-      "section": "topics",
-      "group": "pillars_of_islam",
-      "slug": "salah_foundations",
-      "title": "সালাতের ভিত্তি",
-      "summary": "একটি স্তম্ভ হিসাবে প্রার্থনার জন্য একটি শিক্ষানবিস-নিরাপদ নির্দেশিকা, আল্লাহ এর সাথে একটি দৈনিক মিটিং, এবং একটি শৃঙ্খলা যা বাকি জীবনকে আকার দেয়৷",
-      "tags": [
-        "সালাত",
-        "সালাত",
-        "ইবাদত"
-      ],
-      "keywords": [
-        "সালাতের ভিত্তি",
-        "সালাত",
-        "ইবাদত",
-        "salah",
-        "prayer",
-        "five prayers",
-        "khushu",
-        "pillar of islam"
-      ],
-      "aliases": [
-        "সালাতের ভিত্তি",
-        "Prayer Foundations"
-      ],
-      "difficulty": "beginner",
-      "occasion": null,
-      "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/salah_foundations/manifest.json"
     },
     {
       "id": "topics:pillars_of_islam:sawm_foundations",
       "section": "topics",
       "group": "pillars_of_islam",
       "slug": "sawm_foundations",
-      "title": "সাওমের ভিত্তি",
-      "summary": "রমজান এ উপবাসের একটি সূচনা: এর উদ্দেশ্য, পাঠ্য এবং জীবন শৃঙ্খলা।",
+      "title": "রোজার মৌলিক ধারণা",
+      "summary": "রমাদানের রোজার উদ্দেশ্য, দলিল ও জীবন্ত চর্চা নিয়ে একটি ভিত্তিগত পাঠ।",
       "tags": [
-        "সাওম",
-        "রমজান",
-        "ইবাদত"
+        "sawm",
+        "ramadan",
+        "worship"
       ],
       "keywords": [
-        "সাওমের ভিত্তি",
-        "সাওম",
-        "রমজান",
-        "ইবাদত",
-        "fasting",
-        "ramadan",
+        "রোজা",
+        "রমাদান",
+        "তাকওয়া",
+        "লাইলাতুল কদর",
         "sawm",
-        "laylat al qadr",
-        "taqwa"
+        "fasting"
       ],
       "aliases": [
-        "সাওমের ভিত্তি",
-        "Fasting Foundations"
+        "সাওমের মৌলিক ধারণা"
       ],
       "difficulty": "beginner",
-      "occasion": null,
       "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
     },
     {
@@ -503,31 +331,129 @@
       "section": "topics",
       "group": "pillars_of_islam",
       "slug": "zakat_foundations",
-      "title": "যাকাতের ভিত্তি",
-      "summary": "শুদ্ধিকরণ, বাধ্যবাধকতা, এবং দুর্বলদের জন্য সহায়তা হিসাবে যাকাত-এর একটি ভিত্তি-স্তরের নির্দেশিকা।",
+      "title": "যাকাতের মৌলিক ধারণা",
+      "summary": "যাকাতকে ফরজ হক, পরিশুদ্ধি এবং অভাবগ্রস্তের সহায়তা হিসেবে বুঝতে সহায়ক পাঠ।",
       "tags": [
-        "যাকাত",
-        "সম্পদ",
-        "পবিত্রতা"
+        "zakat",
+        "wealth",
+        "purification"
       ],
       "keywords": [
-        "যাকাতের ভিত্তি",
         "যাকাত",
         "সম্পদ",
-        "পবিত্রতা",
+        "পরিশুদ্ধি",
+        "প্রাপক",
         "zakat",
-        "charity",
-        "wealth",
-        "purification",
-        "recipients"
+        "charity"
       ],
       "aliases": [
-        "যাকাতের ভিত্তি",
-        "Obligatory Charity Foundations"
+        "যাকাতের পাঠ"
       ],
       "difficulty": "beginner",
-      "occasion": null,
       "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
+    },
+    {
+      "id": "topics:pillars_of_islam:hajj_foundations",
+      "section": "topics",
+      "group": "pillars_of_islam",
+      "slug": "hajj_foundations",
+      "title": "হজের মৌলিক ধারণা",
+      "summary": "হজের ফরজ হওয়া, অর্থ ও প্রধান উদ্দেশ্য নিয়ে সহজ ভিত্তিগত গাইড।",
+      "tags": [
+        "hajj",
+        "pilgrimage",
+        "mecca"
+      ],
+      "keywords": [
+        "হজ",
+        "কা'বা",
+        "আরাফাহ",
+        "মক্কা",
+        "hajj",
+        "pilgrimage"
+      ],
+      "aliases": [
+        "হজের পাঠ"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/hajj_foundations/manifest.json"
+    },
+    {
+      "id": "topics:pillars_of_islam:salah_foundations",
+      "section": "topics",
+      "group": "pillars_of_islam",
+      "slug": "salah_foundations",
+      "title": "সালাতের মৌলিক ধারণা",
+      "summary": "সালাতকে স্তম্ভ, আল্লাহর স্মরণ, আর দিনের কেন্দ্র হিসেবে বোঝার ভিত্তিগত পাঠ।",
+      "tags": [
+        "salah",
+        "prayer",
+        "worship"
+      ],
+      "keywords": [
+        "সালাত",
+        "নামাজ",
+        "পাঁচ ওয়াক্ত",
+        "খুশু",
+        "salah",
+        "prayer"
+      ],
+      "aliases": [
+        "নামাজের মৌলিক ধারণা"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/salah_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:taqwa_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "taqwa_foundations",
+      "title": "তাকওয়ার মৌলিক ধারণা",
+      "summary": "আল্লাহ-সচেতন জীবন, সংযম, আর আনুগত্যের ভেতর তাকওয়াকে বোঝার সহজ পাঠ।",
+      "tags": [
+        "taqwa",
+        "heart",
+        "obedience"
+      ],
+      "keywords": [
+        "তাকওয়া",
+        "আল্লাহভীতি",
+        "সচেতনতা",
+        "সংযম",
+        "taqwa"
+      ],
+      "aliases": [
+        "তাকওয়ার পাঠ"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:tawbah_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "tawbah_foundations",
+      "title": "তাওবার মৌলিক ধারণা",
+      "summary": "সততা, আশা, আর নতুন আনুগত্য নিয়ে আল্লাহর দিকে ফিরে আসার ভিত্তিগত গাইড।",
+      "tags": [
+        "tawbah",
+        "repentance",
+        "mercy"
+      ],
+      "keywords": [
+        "তাওবা",
+        "ক্ষমা",
+        "ফিরে আসা",
+        "রহমত",
+        "tawbah",
+        "repentance"
+      ],
+      "aliases": [
+        "তাওবার পাঠ"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/heart_and_character/tawbah_foundations/manifest.json"
     }
   ]
 }

@@ -4,31 +4,27 @@
   "section": "supplications",
   "group": "quranic_duas",
   "slug": "dua_of_the_cave_youth",
-  "title": "গুহাবাসী তরুণদের দু'আ",
-  "summary": "চাপের সময়ে করুণা এবং সঠিক নির্দেশনার জন্য একটি কুরআনic মিনতি।",
+  "title": "গুহাবাসী যুবকদের দু'আ",
+  "summary": "চাপের সময়ে রহমত ও সঠিক পথ চাওয়ার কুরআনিক দু'আ।",
   "source_profile": "exact_text_only",
   "primary_sources": [
-    "সূরা আল-কাহফ 18:10"
+    "সূরা আল-কাহফ ১৮:১০"
   ],
   "tags": [
-    "হিদায়াত",
-    "রহমত",
-    "অবিচলতা"
+    "guidance",
+    "mercy",
+    "steadfastness"
   ],
   "keywords": [
-    "গুহাবাসী তরুণদের দু'আ",
-    "হিদায়াত",
     "রহমত",
-    "অবিচলতা",
+    "সঠিক পথ",
+    "আল-কাহফ",
+    "১৮:১০",
     "18:10",
-    "cave",
-    "surah kahf",
-    "guidance",
-    "mercy"
+    "গুহা"
   ],
   "aliases": [
-    "গুহাবাসী তরুণদের দু'আ",
-    "Rabbana Atina Min Ladunka Rahmah"
+    "রব্বানা আতিনা মিন লাদুনকা রহমাহ"
   ],
   "files": [
     {
@@ -40,15 +36,15 @@
   ],
   "difficulty": "beginner",
   "occasion": "seeking_guidance_under_pressure",
-  "repeat_guidance": "এই এন্ট্রিতে কোন নির্দিষ্ট পুনরাবৃত্তি গণনা সংযুক্ত করা হয় না।",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
   "supplications": [
     {
       "id": "supplication",
       "arabic": "رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا",
-      "transliteration": "Rabbana atina min ladunka rahmatan wa hayyi lana min amrina rashada.",
-      "translation": "হে আমাদের পালনকর্তা, আমাদেরকে আপনার নিজের কাছ থেকে রহমত দান করুন এবং আমাদের জন্য আমাদের কাজ থেকে সঠিক পথপ্রদর্শন করুন।",
+      "transliteration": "রব্বানা আতিনা মিল্লাদুনকা রহমাতাওঁ, ওয়া হাইয়ি' লানা মিন আমরিনা রাশাদা।",
+      "translation": "হে আমাদের রব, তোমার পক্ষ থেকে আমাদের জন্য রহমত দান করো এবং আমাদের কাজের জন্য সঠিক পথ প্রস্তুত করে দাও।",
       "source_type": "quran",
-      "source_ref": "সূরা আল-কাহফ 18:10"
+      "source_ref": "সূরা আল-কাহফ ১৮:১০"
     }
   ]
 }

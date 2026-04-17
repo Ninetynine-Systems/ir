@@ -1,12 +1,10 @@
-Some doors are worth waiting for because they open with truth attached to them.
+কিছু দরজা আছে, যেগুলো খুলতে একটু দেরি হলেও ভালো - কারণ সেগুলো সত্যকে সঙ্গে নিয়ে খোলে। ইউসুফ আলাইহিস সালামের কাহিনি আমাদের এমন একটি মুক্তির কথা শোনায়, যা শুধু স্বস্তির জন্য নয়, সত্যের জন্যও অপেক্ষা করেছিল।
 
-Yusuf عليه السلام could have taken the first path out of prison and disappeared into relief. Instead, he waited until the matter was brought into the open. That kind of patience is not passivity. It is trust.
+> "হে মুমিনগণ, তোমরা ন্যায়ের ওপর দৃঢ়ভাবে প্রতিষ্ঠিত থাকো, আল্লাহর জন্য সাক্ষ্যদাতা হয়ে।"
+> - সূরা আন-নিসা, ৪:১৩৫
 
-> "O you who have believed, be persistently standing firm in justice, witnesses for Allah..."
-> - আন-নিসা, 4:135
+ন্যায় সবসময় খুব উচ্চস্বরে আসে না। কখনও তা এমন দেখায় - আপনি এমন কোনো বের হওয়ার পথ নেন না, যা অন্তরকে অস্বস্তিতে ফেলে। আপনি এমন একটি ভবিষ্যৎ চান না, যার ভিত্তিতে অমীমাংসিত মিথ্যা পড়ে থাকে।
 
-Justice is not always loud. Sometimes it looks like refusing to build your future on a hidden lie. Sometimes it looks like letting Allah uncover what you do not have the power to uncover yourself.
+ইউসুফ আলাইহিস সালামের ধৈর্য নিষ্ক্রিয়তা ছিল না। তিনি সত্যটিকে আলোয় আসতে দিলেন। আর আল্লাহ নিজেই সেই আলো উন্মুক্ত করলেন। আমাদেরও জীবনে কখনও কখনও এমন প্রলোভন আসে - দ্রুত বের হয়ে যাই, যদিও কিছু ধোঁয়াশা রয়ে যায়।
 
-If you are tempted to settle for a shortcut that leaves your heart uneasy, remember Yusuf. Relief is a mercy, but not every quick exit is a clean one.
-
-Ask Allah this morning for openings that come with light in them.
+আজ সকালে আল্লাহর কাছে এ দু'আ করা যায়: হে আল্লাহ, এমন দরজা খোলো যার ভেতরে আলো আছে; এমন স্বস্তি দাও যা সত্যকে ঢেকে না রাখে।

@@ -7,58 +7,54 @@
     {
       "slug": "prophets_and_messengers",
       "title": "নবী ও রাসূল",
-      "description": "কুরআন থেকে ভবিষ্যদ্বাণীমূলক জীবন সম্পর্কে ক্যানোনিলি গ্রাউন্ডেড রিটেলিং এবং প্রামাণিক প্রতিবেদন গ্রহণ করা হয়েছে।",
+      "description": "কুরআন ও গ্রহণযোগ্য সহিহ বর্ণনার আলোকে নবী-রাসূলদের জীবনকাহিনি।",
       "items": [
         {
           "slug": "prophet_yusuf",
-          "title": "নবী ইউসুফ (আ.)",
-          "summary": "ঈর্ষা, বিচার, সততা, এবং পুনর্মিলনের মাধ্যমে ইউসুফের একটি আদর্শিকভাবে গ্রাউন্ডেড রিটেলিং।",
+          "title": "নবী ইউসুফ",
+          "summary": "হিংসা, পরীক্ষা, সততা ও পুনর্মিলনের ভেতর দিয়ে নবী ইউসুফ আলাইহিস সালামের কাহিনি।",
           "tags": [
-            "ধৈর্য",
-            "পরিবার",
-            "আল্লাহর ওপর ভরসা"
+            "patience",
+            "family",
+            "trust_in_allah"
           ],
           "keywords": [
-            "নবী ইউসুফ (আ.)",
-            "ধৈর্য",
-            "পরিবার",
-            "আল্লাহর ওপর ভরসা",
+            "ইউসুফ",
+            "সূরা ইউসুফ",
+            "স্বপ্ন",
+            "কূপ",
+            "সবর",
             "yusuf",
-            "joseph",
-            "surah yusuf",
-            "dreams",
-            "patience"
+            "joseph"
           ],
           "aliases": [
-            "নবী ইউসুফ (আ.)",
-            "Prophet Joseph"
+            "হযরত ইউসুফ",
+            "যোসেফ"
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
         },
         {
           "slug": "prophet_nuh",
-          "title": "নবী নূহ (আ.)",
-          "summary": "একটি উত্স-প্রথম নুহের দীর্ঘ আহ্বান, জাহাজ, বন্যা, এবং শিক্ষা যে পরিত্রাণ বিশ্বাস অনুসরণ করে, বংশ নয়।",
+          "title": "নবী নুহ",
+          "summary": "দীর্ঘ দাওয়াত, নৌকা, প্লাবন ও ঈমানভিত্তিক নাজাতের শিক্ষা নিয়ে নবী নুহ আলাইহিস সালামের কাহিনি।",
           "tags": [
-            "ধৈর্য",
-            "আল্লাহর দিকে আহ্বান",
-            "নাজাত"
+            "patience",
+            "calling_to_allah",
+            "salvation"
           ],
           "keywords": [
-            "নবী নূহ (আ.)",
-            "ধৈর্য",
-            "আল্লাহর দিকে আহ্বান",
-            "নাজাত",
+            "নুহ",
+            "নৌকা",
+            "প্লাবন",
+            "সবর",
             "nuh",
             "noah",
-            "ark",
-            "flood",
-            "patience"
+            "ark"
           ],
           "aliases": [
-            "নবী নূহ (আ.)",
-            "Prophet Noah"
+            "হযরত নুহ",
+            "নোয়াহ"
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
@@ -68,59 +64,50 @@
     {
       "slug": "quranic_stories",
       "title": "কুরআনিক কাহিনি",
-      "description": "কুরআন নামগুলি সরাসরি বর্ণনা করে, প্রকাশিত পাঠ্য এবং এর বিবৃত পাঠের কাছাকাছি রাখা হয়।",
+      "description": "কুরআনে সরাসরি উল্লেখিত কাহিনি, মূল শিক্ষা অক্ষুণ্ন রেখে।",
       "items": [
         {
           "slug": "dhul_qarnayn",
-          "title": "যুল-কারনাইন",
-          "summary": "ন্যায়বিচার এবং নম্রতার সাথে ভ্রমণকারী একজন শাসকের কুরআনic অ্যাকাউন্টের একটি সংযত পাঠ।",
+          "title": "যুলকারনাইন",
+          "summary": "ন্যায়, সামর্থ্য ও বিনয়ের সঙ্গে পথ চলা এক শাসকের কুরআনিক কাহিনি।",
           "tags": [
-            "ন্যায়বিচার",
-            "নেতৃত্ব",
-            "আখিরাত"
+            "justice",
+            "leadership",
+            "last_day"
           ],
           "keywords": [
-            "যুল-কারনাইন",
-            "ন্যায়বিচার",
-            "নেতৃত্ব",
-            "আখিরাত",
+            "যুলকারনাইন",
+            "ইয়াজুজ মাজুজ",
+            "আল-কাহফ",
+            "শাসন",
             "dhul qarnayn",
-            "zulqarnain",
-            "surah kahf",
-            "gog and magog",
-            "barrier"
+            "zulqarnain"
           ],
           "aliases": [
-            "যুল-কারনাইন",
-            "Zulqarnain"
+            "জুলকারনাইন"
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
         },
         {
           "slug": "companions_of_the_cave",
-          "title": "গুহাবাসী তরুণরা",
-          "summary": "বিশ্বাসী যুবকদের একটি সংযত পুনরুত্থান যারা বিশ্বাস নিয়ে পালিয়েছিল, আল্লাহ এর আদেশে ঘুমিয়েছিল এবং পুনরুত্থানের চিহ্ন হয়ে উঠেছে।",
+          "title": "গুহাবাসী যুবকেরা",
+          "summary": "ঈমান রক্ষায় সরে যাওয়া যুবকদের কাহিনি, যাদের আল্লাহ নিদর্শন বানিয়েছেন।",
           "tags": [
-            "অবিচলতা",
-            "তরুণ",
-            "পুনরুত্থান"
-          ],
-          "keywords": [
-            "গুহাবাসী তরুণরা",
-            "অবিচলতা",
-            "তরুণ",
-            "পুনরুত্থান",
-            "ashab al kahf",
-            "people of the cave",
-            "surah kahf",
+            "steadfastness",
             "youth",
             "resurrection"
           ],
+          "keywords": [
+            "গুহাবাসী",
+            "আসহাবে কাহফ",
+            "আল-কাহফ",
+            "পুনরুত্থান",
+            "cave",
+            "ashab al kahf"
+          ],
           "aliases": [
-            "গুহাবাসী তরুণরা",
-            "People of the Cave",
-            "Ashab al-Kahf"
+            "আসহাবে কাহফ"
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/stories/quranic_stories/companions_of_the_cave/manifest.json"

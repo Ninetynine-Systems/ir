@@ -1,8 +1,10 @@
-There is a particular kind of fatigue that comes from living in the space between promise and fulfillment. Yusuf عليه السلام knew it well. The truth had emerged, the prison had opened, honor had come, and still the story was not done. The years of separation from his family had not yet been healed.
+ওয়াদা আর পূরণের মাঝের সময়টায় এক ধরনের ক্লান্তি থাকে। যখন কষ্টের মধ্যে আছি, তখন এক রকম সবর লাগে। কিন্তু কষ্ট একটু হালকা হওয়ার পরও যদি কিছু অসম্পূর্ণ রয়ে যায়, তখন আরেক ধরনের সবর দরকার হয়। ইউসুফ আলাইহিস সালাম এ অনুভূতিটিকে খুব ভালো চিনতেন।
 
-> "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient."
-> - আল-বাকারাহ, 2:153
+> "হে মুমিনগণ, তোমরা সবর ও সালাতের মাধ্যমে সাহায্য চাও। নিশ্চয় আল্লাহ সবরকারীদের সঙ্গে আছেন।"
+> - সূরা আল-বাকারা, ২:১৫৩
 
-Patience is not only for the hardest part. Sometimes it is needed in the almost-there part, the part where you can see the shape of Allah's kindness but have not yet seen it complete.
+তাঁর নাম পরিষ্কার হয়েছে, কারাগারের দরজা খুলেছে, সম্মান এসেছে - তবু পরিবারের বিচ্ছেদ তখনও শেষ হয়নি। অর্থাৎ আল্লাহর দয়া দৃশ্যমান হয়েছে, কিন্তু গল্প পুরোপুরি শেষ হয়নি।
 
-If something in your life is still unfinished, even after signs of relief have appeared, do not lose heart. Allah does not abandon a story halfway through.
+আমাদের জীবনেও এমন হয়। কোনো দরজা খুলে যায়, কিন্তু সব দরজা নয়। কিছু উত্তর মেলে, কিছু প্রশ্ন তখনও থেকে যায়। তখন মনে হতে পারে - এতদূর এসে এখনও কেন? কিন্তু আল্লাহ কাহিনি মাঝপথে ফেলে রাখেন না।
+
+যদি আপনার জীবনে কিছু এখনও অসম্পূর্ণ থাকে, তবু ভেঙে পড়বেন না। কখনও কখনও প্রায় এসে পৌঁছানোর সময়টাতেও সবর দরকার হয়।

@@ -1,8 +1,11 @@
-Tonight I am thinking about recognition. About how Allah can return you to a place of old pain and let you stand there as someone different from the person who was once wounded there.
+আজ রাতে চিন্তার বিষয় - আল্লাহ মানুষকে পুরোনো আঘাতের জায়গায় ফিরিয়ে আনতে পারেন, কিন্তু আগের সেই ভেঙে পড়া মানুষ হিসেবে নয়। বরং এমন একজন হিসেবে, যার ভেতরে নতুন স্বচ্ছতা, নতুন দৃষ্টি, নতুন ভরসা তৈরি হয়েছে।
 
-> "Indeed, whoever fears Allah and is patient, then Allah does not allow the reward of those who do good to be lost."
-> - সূরা ইউসুফ, 12:90
+> ﴿ إِنَّهُ مَن يَتَّقِ وَيَصْبِرْ فَإِنَّ اللَّهَ لَا يُضِيعُ أَجْرَ الْمُحْسِنِينَ ﴾
+> "যে তাকওয়া অবলম্বন করে এবং সবর করে, আল্লাহ কখনো সৎকর্মশীলদের প্রতিদান নষ্ট করেন না।"
+> - সূরা ইউসুফ, ১২:৯০
 
-Yusuf عليه السلام did not say, "Look what I became." He said, in effect, look at what Allah did. That is the language of a heart that has been guarded from being consumed by its own history.
+ইউসুফ আলাইহিস সালাম বলেননি, 'দেখো আমি কী হলাম।' বরং বলেছেন, 'দেখো আল্লাহ কী করলেন।' এই ফারাকটি গভীর। কারণ প্রথম ভাষা মানুষকে নিজের দিকে টানে, দ্বিতীয় ভাষা মানুষকে রবের দিকে ফিরিয়ে দেয়।
 
-If Allah brings you back to an old room, an old memory, an old wound, may He bring you back with that kind of heart: clear enough to see His grace, strong enough not to collapse under what once defined you.
+আমাদেরও পুরোনো কষ্ট, পুরোনো ঘর, পুরোনো মুখের সামনে আবার দাঁড়াতে হতে পারে। সেই ফিরে যাওয়া সবসময় সহজ হয় না। কিন্তু আল্লাহ চাইলে মানুষকে এমন অন্তর দেন, যা অতীতকে চিনতে পারে, তবু তাতে ডুবে যায় না।
+
+আল্লাহ যদি আপনাকে কোনো পুরোনো ক্ষতের সামনে আবার দাঁড় করান, তিনি যেন আপনাকে নিজের রহমত দেখার মতো হৃদয়ও দেন।

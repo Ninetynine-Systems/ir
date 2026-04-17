@@ -1,10 +1,11 @@
-Yusuf عليه السلام spent years moving from one hard place to another: a well, a market, a house of trial, a prison, the ache of family separation. Yet when the story closed, the language on his tongue was gratitude.
+ইউসুফ আলাইহিস সালামের কাহিনি শেষ হয় কৃতজ্ঞতার ভাষায়। কূপ, বিচ্ছেদ, অপবাদ, কারাগার, দীর্ঘ অপেক্ষা - এত সবকিছুর পরও তাঁর জবানিতে তিক্ততা নয়, দু'আ ছিল। এই জায়গাটি সবসময় আমার মনে খুব গভীর রেখাপাত করে।
 
-> "Cause me to die a Muslim and join me with the righteous."
-> - সূরা ইউসুফ, 12:101
+> ﴿ تَوَفَّنِي مُسْلِمًا وَأَلْحِقْنِي بِالصَّالِحِينَ ﴾
+> "আমাকে মুসলিম অবস্থায় মৃত্যু দান করুন এবং আমাকে সৎকর্মশীলদের সঙ্গে মিলিয়ে দিন।"
+> - সূরা ইউসুফ, ১২:১০১
 
-That is a beautiful way to end a long trial. Not "I finally won." Not "Now everything is mine." Just a quiet return: keep me Muslim, my Lord. Keep me among the righteous.
+এটি দীর্ঘ পরীক্ষার খুব সুন্দর সমাপ্তি। 'আমি অবশেষে জিতেছি' - এ ভাষা নয়। 'এখন সব আমার' - এ ভাষা নয়। বরং: হে আল্লাহ, আমাকে তোমার দ্বীনের ওপর রেখো, আমাকে সৎদের সঙ্গ দাও।
 
-If you have walked through something difficult, perhaps this is the prayer to borrow tonight. Not only for the hardship to end, but for your heart to emerge still turned toward Allah.
+কষ্ট পেরিয়ে আসা মানুষ অনেক কিছু চাইতে পারে। কিন্তু ইউসুফ আলাইহিস সালামের দু'আ মনে করিয়ে দেয় - শেষ পর্যন্ত সবচেয়ে বড় চাওয়া হলো, আল্লাহর কাছেই ঠিকভাবে পৌঁছানো।
 
-May Allah let us read our lives the way Yusuf read his: with honesty about the pain, and even more honesty about the mercy.
+আজ রাতে যদি আপনি কোনো কঠিন পথ পেরিয়ে থাকেন, এ দু'আটি ধার নিতে পারেন। শুধু কষ্ট শেষ হওয়ার জন্য নয়; কষ্ট শেষে অন্তর ঠিক জায়গায় থাকার জন্যও।
