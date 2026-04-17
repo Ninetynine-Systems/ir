@@ -11,7 +11,7 @@ Islamic Reflections is designed to be privacy-light:
 - You do not need to create an account to use the app.
 - The current app code does not include in-app advertising SDKs.
 - The current app code does not include third-party analytics or crash-reporting SDKs.
-- Daily and library content is fetched from static files hosted at `https://raw.githubusercontent.com/Ninetynine-Systems/ir/main/api/v1`.
+- Daily and library content is fetched from static files hosted by the content infrastructure.
 - App preferences, reading state, and cached content are primarily stored locally on your device.
 - Notifications are optional and are currently scheduled locally on the device instead of through a remote push token service.
 
@@ -45,7 +45,7 @@ Notification content may include a short excerpt derived from the day's reflecti
 
 ### 4. Network requests for content delivery
 
-The app fetches reflection and library content from static GitHub-hosted endpoints. When those requests are made, GitHub and related network providers may receive standard technical request data such as your IP address, user agent, approximate time of request, and other normal web request metadata. That handling is governed by the privacy policies of those third parties, not by this app alone.
+The app fetches reflection and library content from static hosted endpoints. When those requests are made, the hosting platform and related network providers may receive standard technical request data such as your IP address, user agent, approximate time of request, and other normal web request metadata. That handling is governed by their own privacy policies, not by this app alone.
 
 ## How We Use Information
 
