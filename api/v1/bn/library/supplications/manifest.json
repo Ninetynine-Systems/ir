@@ -1,0 +1,191 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "title": "দু'আসমূহ",
+  "groups": [
+    {
+      "slug": "quranic_duas",
+      "title": "কুরআনিক দু'আ",
+      "description": "অনুরোধগুলি সরাসরি কুরআন এ উদ্ধৃত করা হয়েছে এবং সঠিক পাঠ্য এবং সংক্ষিপ্ত প্রসঙ্গ সহ এখানে প্রকাশিত হয়েছে।",
+      "items": [
+        {
+          "slug": "hearts_steadfast_after_guidance",
+          "title": "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
+          "summary": "একটি কুরআনic অনুরোধ আল্লাহ কে নির্দেশনার পরে হৃদয় ঘুরতে না দেওয়ার জন্য।",
+          "tags": [
+            "হিদায়াত",
+            "রহমত",
+            "অবিচলতা"
+          ],
+          "keywords": [
+            "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
+            "হিদায়াত",
+            "রহমত",
+            "অবিচলতা",
+            "3:8",
+            "guidance",
+            "steadfastness",
+            "mercy",
+            "hearts"
+          ],
+          "aliases": [
+            "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
+            "Rabbana La Tuzigh Qulubana"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
+        },
+        {
+          "slug": "dua_of_the_cave_youth",
+          "title": "গুহাবাসী তরুণদের দু'আ",
+          "summary": "চাপের সময়ে করুণা এবং সঠিক নির্দেশনার জন্য একটি কুরআনic মিনতি।",
+          "tags": [
+            "হিদায়াত",
+            "রহমত",
+            "অবিচলতা"
+          ],
+          "keywords": [
+            "গুহাবাসী তরুণদের দু'আ",
+            "হিদায়াত",
+            "রহমত",
+            "অবিচলতা",
+            "18:10",
+            "cave",
+            "surah kahf",
+            "guidance",
+            "mercy"
+          ],
+          "aliases": [
+            "গুহাবাসী তরুণদের দু'আ",
+            "Rabbana Atina Min Ladunka Rahmah"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/dua_of_the_cave_youth/manifest.json"
+        },
+        {
+          "slug": "good_in_this_world_and_the_next",
+          "title": "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
+          "summary": "একটি বিস্তৃত কুরআনic মিনতি আল্লাহকে ইহকালের ভালো, পরকালে ভালো এবং আগুন থেকে সুরক্ষার জন্য জিজ্ঞাসা করা।",
+          "tags": [
+            "কল্যাণ",
+            "আখিরাত",
+            "সুরক্ষা"
+          ],
+          "keywords": [
+            "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
+            "কল্যাণ",
+            "আখিরাত",
+            "সুরক্ষা",
+            "2:201",
+            "hasanah",
+            "hereafter",
+            "fire",
+            "dua"
+          ],
+          "aliases": [
+            "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
+            "Rabbana Atina Fid-Dunya Hasanah"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/good_in_this_world_and_the_next/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "distress_and_relief",
+      "title": "কষ্ট ও মুক্তি",
+      "description": "কষ্ট, ভয়, দুঃখ, এবং হৃদয়কে আল্লাহ-এ ফিরিয়ে নেওয়ার জন্য প্রমাণীকৃত মিনতি।",
+      "items": [
+        {
+          "slug": "dua_of_yunus",
+          "title": "ইউনুস (আ.)-এর দু'আ",
+          "summary": "অন্ধকার ও দুরবস্থায় ইউনুসের মিনতি, তাওহিদ দ্বারা বাহিত এবং অনুতাপ।",
+          "tags": [
+            "তাওবাহ",
+            "সংকট",
+            "তাওহিদ"
+          ],
+          "keywords": [
+            "ইউনুস (আ.)-এর দু'আ",
+            "তাওবাহ",
+            "সংকট",
+            "তাওহিদ",
+            "21:87",
+            "yunus",
+            "distress",
+            "repentance",
+            "la ilaha illa anta"
+          ],
+          "aliases": [
+            "ইউনুস (আ.)-এর দু'আ",
+            "Dua of Dhun-Nun"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+        },
+        {
+          "slug": "musa_plea_for_good",
+          "title": "প্রয়োজনে মুসা (আ.)-এর দু'আ",
+          "summary": "একটি সংক্ষিপ্ত কুরআনic দরখাস্ত মুসার দ্বারা বলা প্রয়োজন পরে পরিষেবা, ক্লান্তি, এবং পরবর্তী কী হবে সে সম্পর্কে অনিশ্চয়তা৷",
+          "tags": [
+            "প্রয়োজন",
+            "রিজিক",
+            "বিনয়"
+          ],
+          "keywords": [
+            "প্রয়োজনে মুসা (আ.)-এর দু'আ",
+            "প্রয়োজন",
+            "রিজিক",
+            "বিনয়",
+            "28:24",
+            "musa",
+            "need",
+            "provision",
+            "good"
+          ],
+          "aliases": [
+            "প্রয়োজনে মুসা (আ.)-এর দু'আ",
+            "Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "forgiveness_and_tawbah",
+      "title": "মাগফিরাত ও তাওবাহ",
+      "description": "অনুতাপ, ইস্তিগফার, এবং আন্তরিকভাবে আল্লাহ-এ পাপ এবং প্রবাহের পরে ফিরে আসার প্রার্থনা।",
+      "items": [
+        {
+          "slug": "adam_repentance",
+          "title": "আদম (আ.)-এর তাওবার দু'আ",
+          "summary": "কুরআনic অনুতাপের আবেদনটি আদম এবং তার স্ত্রীর স্লিপের পরে বলা হয়েছে, যা স্বীকারোক্তি, ক্ষমা এবং আশা দ্বারা আকৃতির।",
+          "tags": [
+            "তাওবাহ",
+            "ক্ষমা",
+            "রহমত"
+          ],
+          "keywords": [
+            "আদম (আ.)-এর তাওবার দু'আ",
+            "তাওবাহ",
+            "ক্ষমা",
+            "রহমত",
+            "7:23",
+            "adam",
+            "repentance",
+            "forgiveness",
+            "mercy"
+          ],
+          "aliases": [
+            "আদম (আ.)-এর তাওবার দু'আ",
+            "Rabbana Zalamna Anfusana"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
+        }
+      ]
+    }
+  ]
+}

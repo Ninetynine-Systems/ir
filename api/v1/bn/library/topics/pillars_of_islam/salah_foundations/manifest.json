@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "salah_foundations",
+  "title": "সালাতের ভিত্তি",
+  "summary": "একটি স্তম্ভ হিসাবে প্রার্থনার জন্য একটি শিক্ষানবিস-নিরাপদ নির্দেশিকা, আল্লাহ এর সাথে একটি দৈনিক মিটিং, এবং একটি শৃঙ্খলা যা বাকি জীবনকে আকার দেয়৷",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা ত্বাহা 20:14",
+    "সূরা আল-বাকারাহ 2:43",
+    "সূরা আল-বাকারাহ 2:238",
+    "সূরা আল-আনকাবুত 29:45",
+    "সূরা আল-মুমিনূন 23:1-2",
+    "সহিহ আল-বুখারি 1513",
+    "সহিহ মুসলিম 614",
+    "সুনান আবি দাউদ 864"
+  ],
+  "tags": [
+    "সালাত",
+    "সালাত",
+    "ইবাদত"
+  ],
+  "keywords": [
+    "সালাতের ভিত্তি",
+    "সালাত",
+    "ইবাদত",
+    "salah",
+    "prayer",
+    "five prayers",
+    "khushu",
+    "pillar of islam"
+  ],
+  "aliases": [
+    "সালাতের ভিত্তি",
+    "Prayer Foundations"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 105
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 100
+    }
+  ],
+  "difficulty": "beginner"
+}

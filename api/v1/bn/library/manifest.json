@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "generated_at": "2026-04-16T08:30:00Z",
+  "search_index_url": "/api/v1/bn/library/search.json",
+  "sections": [
+    {
+      "slug": "stories",
+      "title": "কাহিনি",
+      "description": "নবী এবং কুরআনic বর্ণনা সংযত, উৎস-প্রথম বিশদ সহ বলা হয়েছে।",
+      "collections_url": "/api/v1/bn/library/stories/manifest.json",
+      "item_count": 4
+    },
+    {
+      "slug": "supplications",
+      "title": "দু'আসমূহ",
+      "description": "সঠিক টেক্সট, উৎস রেফারেন্স এবং সংক্ষিপ্ত প্রসঙ্গ সহ প্রমাণীকৃত দু'আs।",
+      "collections_url": "/api/v1/bn/library/supplications/manifest.json",
+      "item_count": 6
+    },
+    {
+      "slug": "topics",
+      "title": "বিষয়সমূহ",
+      "description": "কুরআন এবং খাঁটি সুন্নাহ-এ নোঙর করা সম্মত ইসলামিক ভিত্তির জন্য শিক্ষানবিস-নিরাপদ গাইড।",
+      "collections_url": "/api/v1/bn/library/topics/manifest.json",
+      "item_count": 7
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "title": "বিষয়সমূহ",
+  "groups": [
+    {
+      "slug": "pillars_of_iman",
+      "title": "ঈমানের স্তম্ভ",
+      "description": "কুরআন এবং খাঁটি সুন্নাহ নামক বিশ্বাসের ভিত্তির উপর শিক্ষানবিস-নিরাপদ এন্ট্রি।",
+      "items": [
+        {
+          "slug": "iman_foundations",
+          "title": "ঈমানের ভিত্তি",
+          "summary": "বিশ্বাসের অর্থ কী, এতে কী অন্তর্ভুক্ত রয়েছে এবং একজন বিশ্বাসীর জীবনে এটি কীভাবে উপস্থিত হয় তার একটি সংক্ষিপ্ত নির্দেশিকা।",
+          "tags": [
+            "iman",
+            "বিশ্বাস",
+            "ভিত্তি"
+          ],
+          "keywords": [
+            "ঈমানের ভিত্তি",
+            "iman",
+            "বিশ্বাস",
+            "ভিত্তি",
+            "faith",
+            "hadith jibril",
+            "pillars of iman",
+            "qadr"
+          ],
+          "aliases": [
+            "ঈমানের ভিত্তি",
+            "Pillars of Faith"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/pillars_of_iman/iman_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "pillars_of_islam",
+      "title": "ইসলামের স্তম্ভ",
+      "description": "বিতর্কিত আইনি বিবরণ ছাড়াই সম্মত ভিত্তির স্তরে উপস্থাপিত মূল উপাসনা।",
+      "items": [
+        {
+          "slug": "sawm_foundations",
+          "title": "সাওমের ভিত্তি",
+          "summary": "রমজান এ উপবাসের একটি সূচনা: এর উদ্দেশ্য, পাঠ্য এবং জীবন শৃঙ্খলা।",
+          "tags": [
+            "সাওম",
+            "রমজান",
+            "ইবাদত"
+          ],
+          "keywords": [
+            "সাওমের ভিত্তি",
+            "সাওম",
+            "রমজান",
+            "ইবাদত",
+            "fasting",
+            "ramadan",
+            "sawm",
+            "laylat al qadr",
+            "taqwa"
+          ],
+          "aliases": [
+            "সাওমের ভিত্তি",
+            "Fasting Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
+        },
+        {
+          "slug": "zakat_foundations",
+          "title": "যাকাতের ভিত্তি",
+          "summary": "শুদ্ধিকরণ, বাধ্যবাধকতা, এবং দুর্বলদের জন্য সহায়তা হিসাবে যাকাত-এর একটি ভিত্তি-স্তরের নির্দেশিকা।",
+          "tags": [
+            "যাকাত",
+            "সম্পদ",
+            "পবিত্রতা"
+          ],
+          "keywords": [
+            "যাকাতের ভিত্তি",
+            "যাকাত",
+            "সম্পদ",
+            "পবিত্রতা",
+            "zakat",
+            "charity",
+            "wealth",
+            "purification",
+            "recipients"
+          ],
+          "aliases": [
+            "যাকাতের ভিত্তি",
+            "Obligatory Charity Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
+        },
+        {
+          "slug": "hajj_foundations",
+          "title": "হজের ভিত্তি",
+          "summary": "তীর্থযাত্রার বাধ্যবাধকতা, অর্থ এবং প্রধান লক্ষ্যগুলির জন্য একটি শিক্ষানবিস-নিরাপদ গাইড।",
+          "tags": [
+            "হজ",
+            "তীর্থযাত্রা",
+            "মক্কা"
+          ],
+          "keywords": [
+            "হজের ভিত্তি",
+            "হজ",
+            "তীর্থযাত্রা",
+            "মক্কা",
+            "hajj",
+            "pilgrimage",
+            "arafah",
+            "mecca",
+            "umrah"
+          ],
+          "aliases": [
+            "হজের ভিত্তি",
+            "Pilgrimage Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/hajj_foundations/manifest.json"
+        },
+        {
+          "slug": "salah_foundations",
+          "title": "সালাতের ভিত্তি",
+          "summary": "একটি স্তম্ভ হিসাবে প্রার্থনার জন্য একটি শিক্ষানবিস-নিরাপদ নির্দেশিকা, আল্লাহ এর সাথে একটি দৈনিক মিটিং, এবং একটি শৃঙ্খলা যা বাকি জীবনকে আকার দেয়৷",
+          "tags": [
+            "সালাত",
+            "সালাত",
+            "ইবাদত"
+          ],
+          "keywords": [
+            "সালাতের ভিত্তি",
+            "সালাত",
+            "ইবাদত",
+            "salah",
+            "prayer",
+            "five prayers",
+            "khushu",
+            "pillar of islam"
+          ],
+          "aliases": [
+            "সালাতের ভিত্তি",
+            "Prayer Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/salah_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "heart_and_character",
+      "title": "হৃদয় ও চরিত্র",
+      "description": "অভ্যন্তরীণ অবস্থা এবং দৈনন্দিন গুণাবলীর উপর ভিত্তিমূলক নির্দেশিকা যা উপাসনা, পছন্দ এবং অনুতাপকে আকার দেয়।",
+      "items": [
+        {
+          "slug": "taqwa_foundations",
+          "title": "তাকওয়ার ভিত্তি",
+          "summary": "তাকওয়া-এর একটি ভূমিকা মনেপ্রাণ আনুগত্য, অভ্যন্তরীণ সতর্কতা, এবং আল্লাহ সম্পর্কে সচেতনতা দ্বারা আকৃতির একটি জীবন।",
+          "tags": [
+            "তাকওয়া",
+            "হৃদয়",
+            "আনুগত্য"
+          ],
+          "keywords": [
+            "তাকওয়ার ভিত্তি",
+            "তাকওয়া",
+            "হৃদয়",
+            "আনুগত্য",
+            "taqwa",
+            "god consciousness",
+            "mindful obedience",
+            "restraint",
+            "obedience"
+          ],
+          "aliases": [
+            "তাকওয়ার ভিত্তি",
+            "God-Consciousness Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+        },
+        {
+          "slug": "tawbah_foundations",
+          "title": "তাওবার ভিত্তি",
+          "summary": "সততা, আশা, এবং নতুন আনুগত্যের সাথে আল্লাহ এ ফিরে আসার জন্য অনুতাপের জন্য একটি শিক্ষানবিস-নিরাপদ নির্দেশিকা৷",
+          "tags": [
+            "tawbah",
+            "তাওবাহ",
+            "রহমত"
+          ],
+          "keywords": [
+            "তাওবার ভিত্তি",
+            "tawbah",
+            "তাওবাহ",
+            "রহমত",
+            "repentance",
+            "forgiveness",
+            "return to allah",
+            "hope"
+          ],
+          "aliases": [
+            "তাওবার ভিত্তি",
+            "Repentance Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+        }
+      ]
+    }
+  ]
+}

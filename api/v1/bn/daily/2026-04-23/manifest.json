@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-23",
+  "locale": "bn",
+  "thread_id": "bn-2026-04-23",
+  "event_tags": [
+    "dhul_qadah"
+  ],
+  "story_refs": [],
+  "files": [
+    {
+      "name": "morning_honor_the_symbols.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "noon_sacred_months_quiz.md",
+      "kind": "quiz",
+      "time_of_day": "noon",
+      "priority": 2,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_preparing_before_the_journey.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 3,
+      "estimated_read_seconds": 170
+    },
+    {
+      "name": "night_reflection.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 4,
+      "estimated_read_seconds": 100
+    }
+  ]
+}

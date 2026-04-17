@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_iman",
+  "slug": "iman_foundations",
+  "title": "ঈমানের ভিত্তি",
+  "summary": "বিশ্বাসের অর্থ কী, এতে কী অন্তর্ভুক্ত রয়েছে এবং একজন বিশ্বাসীর জীবনে এটি কীভাবে উপস্থিত হয় তার একটি সংক্ষিপ্ত নির্দেশিকা।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আন-নিসা 4:136",
+    "সূরা আল-বাকারাহ 2:177",
+    "সূরা আল-কামার 54:49",
+    "সহিহ আল-বুখারি 50",
+    "সহিহ মুসলিম 8"
+  ],
+  "tags": [
+    "iman",
+    "বিশ্বাস",
+    "ভিত্তি"
+  ],
+  "keywords": [
+    "ঈমানের ভিত্তি",
+    "iman",
+    "বিশ্বাস",
+    "ভিত্তি",
+    "faith",
+    "hadith jibril",
+    "pillars of iman",
+    "qadr"
+  ],
+  "aliases": [
+    "ঈমানের ভিত্তি",
+    "Pillars of Faith"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 110
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 100
+    }
+  ],
+  "difficulty": "beginner"
+}

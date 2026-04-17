@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "heart_and_character",
+  "slug": "tawbah_foundations",
+  "title": "তাওবার ভিত্তি",
+  "summary": "সততা, আশা, এবং নতুন আনুগত্যের সাথে আল্লাহ এ ফিরে আসার জন্য অনুতাপের জন্য একটি শিক্ষানবিস-নিরাপদ নির্দেশিকা৷",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আয-যুমার 39:53",
+    "সূরা আল-বাকারাহ 2:222",
+    "সূরা আন-নিসা 4:17",
+    "সূরা আল-ফুরকান 25:70",
+    "সূরা আত-তাহরিম 66:8"
+  ],
+  "tags": [
+    "tawbah",
+    "তাওবাহ",
+    "রহমত"
+  ],
+  "keywords": [
+    "তাওবার ভিত্তি",
+    "tawbah",
+    "তাওবাহ",
+    "রহমত",
+    "repentance",
+    "forgiveness",
+    "return to allah",
+    "hope"
+  ],
+  "aliases": [
+    "তাওবার ভিত্তি",
+    "Repentance Foundations"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 105
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 95
+    }
+  ],
+  "difficulty": "beginner"
+}

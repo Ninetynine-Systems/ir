@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "stories",
+  "group": "prophets_and_messengers",
+  "slug": "prophet_nuh",
+  "title": "নবী নূহ (আ.)",
+  "summary": "একটি উত্স-প্রথম নুহের দীর্ঘ আহ্বান, জাহাজ, বন্যা, এবং শিক্ষা যে পরিত্রাণ বিশ্বাস অনুসরণ করে, বংশ নয়।",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "সূরা নূহ 71:1-28",
+    "সূরা হুদ 11:25-49",
+    "সূরা আল-মুমিনূন 23:23-30",
+    "সূরা আশ-শু'আরা 26:105-122",
+    "সূরা আল-কামার 54:9-16",
+    "সূরা আস-সাফফাত 37:75-82"
+  ],
+  "tags": [
+    "ধৈর্য",
+    "আল্লাহর দিকে আহ্বান",
+    "নাজাত"
+  ],
+  "keywords": [
+    "নবী নূহ (আ.)",
+    "ধৈর্য",
+    "আল্লাহর দিকে আহ্বান",
+    "নাজাত",
+    "nuh",
+    "noah",
+    "ark",
+    "flood",
+    "patience"
+  ],
+  "aliases": [
+    "নবী নূহ (আ.)",
+    "Prophet Noah"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_the_long_call.md",
+      "kind": "the_long_call",
+      "order": 1,
+      "estimated_read_seconds": 140
+    },
+    {
+      "name": "chapter_02_the_ark_on_dry_land.md",
+      "kind": "the_ark_on_dry_land",
+      "order": 2,
+      "estimated_read_seconds": 130
+    },
+    {
+      "name": "chapter_03_the_flood_and_the_separation.md",
+      "kind": "the_flood_and_the_separation",
+      "order": 3,
+      "estimated_read_seconds": 145
+    },
+    {
+      "name": "chapter_04_landing_and_the_lesson_left.md",
+      "kind": "landing_and_the_lesson_left",
+      "order": 4,
+      "estimated_read_seconds": 125
+    }
+  ],
+  "difficulty": "beginner"
+}

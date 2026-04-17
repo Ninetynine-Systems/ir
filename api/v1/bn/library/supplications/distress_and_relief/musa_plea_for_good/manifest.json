@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "distress_and_relief",
+  "slug": "musa_plea_for_good",
+  "title": "প্রয়োজনে মুসা (আ.)-এর দু'আ",
+  "summary": "একটি সংক্ষিপ্ত কুরআনic দরখাস্ত মুসার দ্বারা বলা প্রয়োজন পরে পরিষেবা, ক্লান্তি, এবং পরবর্তী কী হবে সে সম্পর্কে অনিশ্চয়তা৷",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-কাসাস 28:24"
+  ],
+  "tags": [
+    "প্রয়োজন",
+    "রিজিক",
+    "বিনয়"
+  ],
+  "keywords": [
+    "প্রয়োজনে মুসা (আ.)-এর দু'আ",
+    "প্রয়োজন",
+    "রিজিক",
+    "বিনয়",
+    "28:24",
+    "musa",
+    "need",
+    "provision",
+    "good"
+  ],
+  "aliases": [
+    "প্রয়োজনে মুসা (আ.)-এর দু'আ",
+    "Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 80
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "need_and_provision",
+  "repeat_guidance": "এই এন্ট্রিতে কোন নির্দিষ্ট পুনরাবৃত্তি গণনা সংযুক্ত করা হয় না।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍۢ فَقِيرٌۭ",
+      "transliteration": "Rabbi inni lima anzalta ilayya min khayrin faqir.",
+      "translation": "হে আমার পালনকর্তা, আপনি আমার প্রতি যা কিছু নাযিল করেন, আমি তারই প্রয়োজন।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-কাসাস 28:24"
+    }
+  ]
+}

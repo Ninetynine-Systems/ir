@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "good_in_this_world_and_the_next",
+  "title": "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
+  "summary": "একটি বিস্তৃত কুরআনic মিনতি আল্লাহকে ইহকালের ভালো, পরকালে ভালো এবং আগুন থেকে সুরক্ষার জন্য জিজ্ঞাসা করা।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-বাকারাহ 2:201"
+  ],
+  "tags": [
+    "কল্যাণ",
+    "আখিরাত",
+    "সুরক্ষা"
+  ],
+  "keywords": [
+    "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
+    "কল্যাণ",
+    "আখিরাত",
+    "সুরক্ষা",
+    "2:201",
+    "hasanah",
+    "hereafter",
+    "fire",
+    "dua"
+  ],
+  "aliases": [
+    "দুনিয়া ও আখিরাতের কল্যাণের দু'আ",
+    "Rabbana Atina Fid-Dunya Hasanah"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 80
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "comprehensive_goodness",
+  "repeat_guidance": "এই এন্ট্রিতে কোন নির্দিষ্ট পুনরাবৃত্তি গণনা সংযুক্ত করা হয় না।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ",
+      "transliteration": "Rabbana atina fi al-dunya hasanatan wa fi al-akhirati hasanatan wa qina adhaba al-nar.",
+      "translation": "হে আমাদের পালনকর্তা, আমাদের দুনিয়াতে কল্যাণ দান করুন এবং পরকালেও কল্যাণ দিন এবং আমাদেরকে আগুনের শাস্তি থেকে রক্ষা করুন।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-বাকারাহ 2:201"
+    }
+  ]
+}

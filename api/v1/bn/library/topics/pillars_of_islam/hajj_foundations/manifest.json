@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "hajj_foundations",
+  "title": "হজের ভিত্তি",
+  "summary": "তীর্থযাত্রার বাধ্যবাধকতা, অর্থ এবং প্রধান লক্ষ্যগুলির জন্য একটি শিক্ষানবিস-নিরাপদ গাইড।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আলে ইমরান 3:96-97",
+    "সূরা আল-হাজ্জ 22:26-37",
+    "সূরা আল-বাকারাহ 2:196-203",
+    "সহিহ আল-বুখারি 1513",
+    "সহিহ মুসলিম 1218"
+  ],
+  "tags": [
+    "হজ",
+    "তীর্থযাত্রা",
+    "মক্কা"
+  ],
+  "keywords": [
+    "হজের ভিত্তি",
+    "হজ",
+    "তীর্থযাত্রা",
+    "মক্কা",
+    "hajj",
+    "pilgrimage",
+    "arafah",
+    "mecca",
+    "umrah"
+  ],
+  "aliases": [
+    "হজের ভিত্তি",
+    "Pilgrimage Foundations"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 110
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 105
+    }
+  ],
+  "difficulty": "beginner"
+}

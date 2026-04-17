@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "hearts_steadfast_after_guidance",
+  "title": "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
+  "summary": "একটি কুরআনic অনুরোধ আল্লাহ কে নির্দেশনার পরে হৃদয় ঘুরতে না দেওয়ার জন্য।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আলে ইমরান 3:8"
+  ],
+  "tags": [
+    "হিদায়াত",
+    "রহমত",
+    "অবিচলতা"
+  ],
+  "keywords": [
+    "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
+    "হিদায়াত",
+    "রহমত",
+    "অবিচলতা",
+    "3:8",
+    "guidance",
+    "steadfastness",
+    "mercy",
+    "hearts"
+  ],
+  "aliases": [
+    "হিদায়াতের পর অন্তরকে অবিচল রাখার দু'আ",
+    "Rabbana La Tuzigh Qulubana"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "steadfastness_after_guidance",
+  "repeat_guidance": "এই এন্ট্রিতে কোন নির্দিষ্ট পুনরাবৃত্তি গণনা সংযুক্ত করা হয় না।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً ۚ إِنَّكَ أَنتَ الْوَهَّابُ",
+      "transliteration": "Rabbana la tuzigh qulubana baada idh hadaytana wa hab lana min ladunka rahmah. Innaka anta al-Wahhab.",
+      "translation": "হে আমাদের পালনকর্তা, আপনি আমাদেরকে পথ দেখানোর পর আমাদের অন্তরকে বিচ্যুত হতে দেবেন না এবং আমাদেরকে আপনার নিজের কাছ থেকে রহমত দান করুন। নিঃসন্দেহে তুমিই দাতা।",
+      "source_type": "quran",
+      "source_ref": "সূরা আলে ইমরান 3:8"
+    }
+  ]
+}

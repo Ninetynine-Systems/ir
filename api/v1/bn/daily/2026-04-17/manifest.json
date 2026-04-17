@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-17",
+  "locale": "bn",
+  "thread_id": "bn-2026-04-17",
+  "event_tags": [
+    "jumuah",
+    "shawwal_fasting",
+    "dhul_qadah"
+  ],
+  "story_refs": [
+    "prophet_yusuf_patience"
+  ],
+  "files": [
+    {
+      "name": "morning_jumuah_shawwal_closing.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_story.md",
+      "kind": "story",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_reflection.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 120
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "zakat_foundations",
+  "title": "যাকাতের ভিত্তি",
+  "summary": "শুদ্ধিকরণ, বাধ্যবাধকতা, এবং দুর্বলদের জন্য সহায়তা হিসাবে যাকাত-এর একটি ভিত্তি-স্তরের নির্দেশিকা।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আল-বাকারাহ 2:43",
+    "সূরা আত-তাওবাহ 9:60",
+    "সূরা আল-বাকারাহ 2:261",
+    "সহিহ আল-বুখারি 24",
+    "সহিহ আল-বুখারি 1403"
+  ],
+  "tags": [
+    "যাকাত",
+    "সম্পদ",
+    "পবিত্রতা"
+  ],
+  "keywords": [
+    "যাকাতের ভিত্তি",
+    "যাকাত",
+    "সম্পদ",
+    "পবিত্রতা",
+    "zakat",
+    "charity",
+    "wealth",
+    "purification",
+    "recipients"
+  ],
+  "aliases": [
+    "যাকাতের ভিত্তি",
+    "Obligatory Charity Foundations"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 105
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 100
+    }
+  ],
+  "difficulty": "beginner"
+}
