@@ -1,5 +1,9 @@
 Reverence often shows up before action does. You can tell what a heart respects by how it approaches, how it waits, how it prepares.
 
+> ﴿ ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ ﴾
+>
+> *Dhālika wa-man yuʿaẓẓim shaʿāira l-lāhi fa-innahā min taqwā l-qulūb*
+>
 > "And whoever honors the symbols of Allah, indeed it is from the piety of hearts."
 > - Al-Hajj, 22:32
 

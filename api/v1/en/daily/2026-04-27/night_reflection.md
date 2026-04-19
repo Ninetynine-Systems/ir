@@ -1,5 +1,9 @@
 As this ten-day stretch closes, I keep returning to a simple promise:
 
+> ﴿ فَاذْكُرُونِي أَذْكُرْكُمْ وَاشْكُرُوا لِي وَلَا تَكْفُرُونِ ﴾
+>
+> *Fa-dhkurūnī adhkur-kum wa-shkurū lī wa-lā takfurūn*
+>
 > "So remember Me; I will remember you..."
 > - Al-Baqarah, 2:152
 

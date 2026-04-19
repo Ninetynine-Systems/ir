@@ -1,6 +1,10 @@
 Yusuf was prepared in a prison. Yunus was heard in darkness. Not every place of confinement is empty with Allah.
 
-> "So We responded to him and saved him from the distress. And thus do We save the believers."
+> ﴿ فَاسْتَجَبْنَا لَهُ وَنَجَّيْنَاهُ مِنَ الْغَمِّ ۚ وَكَذَٰلِكَ نُنجِي الْمُؤْمِنِينَ ﴾
+>
+> *Fa-stajabnā lahu wa-najjaynāhu mina l-ghammi wa-kadhālika nunjī l-muʾminīn*
+>
+> "So We answered his prayer and rescued him from anguish. And so do We save the believers."
 > - Al-Anbiya, 21:88
 
 That promise does not erase pain, and it does not mean every rescue looks immediate. But it does teach us something essential: the hidden place is still under Allah's care.

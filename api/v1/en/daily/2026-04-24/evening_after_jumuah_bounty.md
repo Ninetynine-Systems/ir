@@ -1,5 +1,9 @@
 One of the mercies of Jumu'ah is that the Quran does not end the day at the masjid door.
 
+> ﴿ فَإِذَا قُضِيَتِ الصَّلَاةُ فَانتَشِرُوا فِي الْأَرْضِ وَابْتَغُوا مِن فَضْلِ اللَّهِ وَاذْكُرُوا اللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ ﴾
+>
+> *Fa-idhā quḍiyati l-ṣalātu fa-intashirū fī l-arḍi wa-btaghū min faḍli l-lāhi wa-dhkurū l-lāha kathīran laʿallakum tufliḥūn*
+>
 > "And when the prayer has been concluded, disperse within the land and seek from the bounty of Allah and remember Allah often that you may succeed."
 > - Al-Jumu'ah, 62:10
 

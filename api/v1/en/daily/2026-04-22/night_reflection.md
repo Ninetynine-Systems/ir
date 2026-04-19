@@ -1,5 +1,9 @@
 You do not need to be at the end of a journey to begin honoring it.
 
+> ﴿ ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ ﴾
+>
+> *Dhālika wa-man yuʿaẓẓim shaʿāira l-lāhi fa-innahā min taqwā l-qulūb*
+>
 > "And whoever honors the symbols of Allah, indeed it is from the piety of hearts."
 > - Al-Hajj, 22:32
 
