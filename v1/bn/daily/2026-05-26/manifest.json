@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-26",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-26",
+  "event_tags": [
+    "dhul_hijjah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_expected_arafah_stand_and_ask.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 110
+    },
+    {
+      "name": "noon_for_those_near_and_far.md",
+      "kind": "reflection",
+      "time_of_day": "noon",
+      "priority": 2,
+      "estimated_read_seconds": 110
+    },
+    {
+      "name": "evening_depart_with_forgiveness.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 3,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_remember_at_the_sacred_place.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 4,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

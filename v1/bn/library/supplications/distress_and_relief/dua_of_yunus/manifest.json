@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "distress_and_relief",
+  "slug": "dua_of_yunus",
+  "title": "ইউনুস আলাইহিস সালামের দু'আ",
+  "summary": "অন্ধকার, কষ্ট ও তাওবার সময়ে পড়ার কুরআনিক দু'আ।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-আম্বিয়া ২১:৮৭-৮৮",
+    "জামে আত-তিরমিযি ৩৫০৫"
+  ],
+  "tags": [
+    "repentance",
+    "distress",
+    "tawhid"
+  ],
+  "keywords": [
+    "ইউনুস",
+    "কষ্ট",
+    "তাওবা",
+    "তাওহিদ",
+    "২১:৮৭",
+    "21:87"
+  ],
+  "aliases": [
+    "লা ইলাহা ইল্লা আনতা সুবহানাকা"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 90
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "distress_and_repentance",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "لَّا إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "transliteration": "লা ইলাহা ইল্লা আনতা, সুবহানাকা, ইন্নি কুনতু মিনাজ-জালিমীন।",
+      "translation": "আপনি ছাড়া কোনো উপাস্য নেই। আপনি পবিত্র। নিশ্চয় আমি জালিমদের অন্তর্ভুক্ত ছিলাম।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-আম্বিয়া ২১:৮৭",
+      "repeat": null
+    }
+  ]
+}

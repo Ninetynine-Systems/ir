@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "group": "prophets_and_messengers",
+  "slug": "prophet_yusuf",
+  "title": "Prophet Yusuf",
+  "summary": "A canonically grounded retelling of Yusuf through jealousy, trial, integrity, and reunion.",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "Surah Yusuf 12:4-20",
+    "Surah Yusuf 12:21-35",
+    "Surah Yusuf 12:36-57",
+    "Surah Yusuf 12:58-101",
+    "Surah Yusuf 12:102-111"
+  ],
+  "tags": [
+    "patience",
+    "family",
+    "trust_in_allah"
+  ],
+  "keywords": [
+    "yusuf",
+    "joseph",
+    "surah yusuf",
+    "dreams",
+    "patience"
+  ],
+  "aliases": [
+    "Prophet Joseph"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_the_dream_and_the_well.md",
+      "kind": "the_dream_and_the_well",
+      "order": 1,
+      "estimated_read_seconds": 150
+    },
+    {
+      "name": "chapter_02_trial_in_the_house.md",
+      "kind": "trial_in_the_house",
+      "order": 2,
+      "estimated_read_seconds": 135
+    },
+    {
+      "name": "chapter_03_truth_in_prison.md",
+      "kind": "truth_in_prison",
+      "order": 3,
+      "estimated_read_seconds": 135
+    },
+    {
+      "name": "chapter_04_return_of_the_brothers.md",
+      "kind": "return_of_the_brothers",
+      "order": 4,
+      "estimated_read_seconds": 150
+    },
+    {
+      "name": "chapter_05_reunion_and_reading_the_trial.md",
+      "kind": "reunion_and_reading_the_trial",
+      "order": 5,
+      "estimated_read_seconds": 150
+    }
+  ],
+  "difficulty": "beginner"
+}

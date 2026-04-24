@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-14",
+  "locale": "en",
+  "thread_id": "en-2026-05-14",
+  "event_tags": [
+    "dhul_qadah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_pack_a_gentle_tongue.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_no_quarrel_on_sacred_road.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_taqwa_is_travel_light.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

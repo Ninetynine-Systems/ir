@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-16",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-16",
+  "event_tags": [
+    "dhul_qadah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_known_days_are_coming.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_mention_the_name_of_allah.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_prepare_with_dhikr.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

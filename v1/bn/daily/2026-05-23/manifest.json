@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-23",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-23",
+  "event_tags": [
+    "dhul_hijjah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_leave_room_for_simplicity.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_before_mina_learn_restraint.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_sleep_with_less_weight.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

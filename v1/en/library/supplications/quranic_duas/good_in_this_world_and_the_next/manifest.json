@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "good_in_this_world_and_the_next",
+  "title": "Good in This World and the Next",
+  "summary": "A comprehensive Quranic supplication asking Allah for good in this life, good in the Hereafter, and protection from the Fire.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Baqarah 2:201"
+  ],
+  "tags": [
+    "goodness",
+    "hereafter",
+    "protection"
+  ],
+  "keywords": [
+    "2:201",
+    "hasanah",
+    "hereafter",
+    "fire",
+    "dua"
+  ],
+  "aliases": [
+    "Rabbana Atina Fid-Dunya Hasanah"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 80
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "comprehensive_goodness",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةًۭ وَفِى ٱلْـَٔاخِرَةِ حَسَنَةًۭ وَقِنَا عَذَابَ ٱلنَّارِ",
+      "transliteration": "Rabbana atina fi al-dunya hasanatan wa fi al-akhirati hasanatan wa qina adhaba al-nar.",
+      "translation": "Our Lord, give us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Baqarah 2:201",
+      "repeat": null
+    }
+  ]
+}

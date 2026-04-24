@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "hajj_foundations",
+  "title": "হজের মৌলিক ধারণা",
+  "summary": "হজের ফরজ হওয়া, অর্থ ও প্রধান উদ্দেশ্য নিয়ে সহজ ভিত্তিগত গাইড।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আলে ইমরান ৩:৯৬-৯৭",
+    "সূরা আল-হাজ্জ ২২:২৬-৩৭",
+    "সূরা আল-বাকারা ২:১৯৬-২০৩",
+    "সহিহ আল-বুখারি ১৫১৩",
+    "সহিহ মুসলিম ১২১৮"
+  ],
+  "tags": [
+    "hajj",
+    "pilgrimage",
+    "mecca"
+  ],
+  "keywords": [
+    "হজ",
+    "কা'বা",
+    "আরাফাহ",
+    "মক্কা",
+    "hajj",
+    "pilgrimage"
+  ],
+  "aliases": [
+    "হজের পাঠ"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 110
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 105
+    }
+  ],
+  "difficulty": "beginner"
+}

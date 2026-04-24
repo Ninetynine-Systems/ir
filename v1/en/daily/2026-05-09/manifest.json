@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-09",
+  "locale": "en",
+  "thread_id": "en-2026-05-09",
+  "event_tags": [
+    "dhul_qadah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_surrender_before_understanding.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_a_family_built_on_submission.md",
+      "kind": "story",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 190
+    },
+    {
+      "name": "night_place_one_dear_thing_before_allah.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "salah_foundations",
+  "title": "সালাতের মৌলিক ধারণা",
+  "summary": "সালাতকে স্তম্ভ, আল্লাহর স্মরণ, আর দিনের কেন্দ্র হিসেবে বোঝার ভিত্তিগত পাঠ।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা ত্ব-হা ২০:১৪",
+    "সূরা আল-বাকারা ২:৪৩",
+    "সূরা আল-বাকারা ২:২৩৮",
+    "সূরা আল-আনকাবুত ২৯:৪৫",
+    "সূরা আল-মু'মিনুন ২৩:১-২",
+    "সহিহ আল-বুখারি ১৫১৩",
+    "সহিহ মুসলিম ৬১৪",
+    "সুনান আবি দাউদ ৮৬৪"
+  ],
+  "tags": [
+    "salah",
+    "prayer",
+    "worship"
+  ],
+  "keywords": [
+    "সালাত",
+    "নামাজ",
+    "পাঁচ ওয়াক্ত",
+    "খুশু",
+    "salah",
+    "prayer"
+  ],
+  "aliases": [
+    "নামাজের মৌলিক ধারণা"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 105
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 100
+    }
+  ],
+  "difficulty": "beginner"
+}

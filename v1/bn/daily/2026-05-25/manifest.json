@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-25",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-25",
+  "event_tags": [
+    "dhul_hijjah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_expected_tarwiyah_the_answer_begins.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "noon_guard_the_hajj.md",
+      "kind": "adhkar",
+      "time_of_day": "noon",
+      "priority": 2,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_mina_and_the_smallness_of_the_self.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 3,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_rest_inside_labbayk.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 4,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

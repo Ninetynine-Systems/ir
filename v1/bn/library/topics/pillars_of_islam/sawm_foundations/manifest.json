@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "sawm_foundations",
+  "title": "রোজার মৌলিক ধারণা",
+  "summary": "রমাদানের রোজার উদ্দেশ্য, দলিল ও জীবন্ত চর্চা নিয়ে একটি ভিত্তিগত পাঠ।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আল-বাকারা ২:১৮৩-১৮৫",
+    "সূরা আল-কদর ৯৭",
+    "সহিহ আল-বুখারি ২০১৪",
+    "সহিহ আল-বুখারি ৩৮",
+    "সহিহ মুসলিম ১১৬১"
+  ],
+  "tags": [
+    "sawm",
+    "ramadan",
+    "worship"
+  ],
+  "keywords": [
+    "রোজা",
+    "রমাদান",
+    "তাকওয়া",
+    "লাইলাতুল কদর",
+    "sawm",
+    "fasting"
+  ],
+  "aliases": [
+    "সাওমের মৌলিক ধারণা"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 105
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 100
+    }
+  ],
+  "difficulty": "beginner"
+}

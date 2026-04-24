@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "increase_me_in_knowledge",
+  "title": "Increase Me in Knowledge",
+  "summary": "The Quranic command to ask Allah for increase in beneficial knowledge.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Ta-Ha 20:114"
+  ],
+  "tags": [
+    "knowledge",
+    "learning",
+    "humility"
+  ],
+  "keywords": [
+    "20:114",
+    "knowledge",
+    "learning",
+    "ilm",
+    "rabbi zidni"
+  ],
+  "aliases": [
+    "Rabbi Zidni Ilma"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 65
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "seeking_beneficial_knowledge",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَّبِّ زِدْنِى عِلْمًۭا",
+      "transliteration": "Rabbi zidni ilma.",
+      "translation": "My Lord, increase me in knowledge.",
+      "source_type": "quran",
+      "source_ref": "Surah Ta-Ha 20:114",
+      "repeat": null
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-20",
+  "locale": "en",
+  "thread_id": "en-2026-05-20",
+  "event_tags": [
+    "dhul_hijjah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_remember_when_you_depart.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_arafah_is_already_teaching.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_where_memory_will_gather.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

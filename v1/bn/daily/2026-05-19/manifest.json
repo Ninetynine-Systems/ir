@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-19",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-19",
+  "event_tags": [
+    "dhul_hijjah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_labbayk_on_the_tongue.md",
+      "kind": "adhkar",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "evening_answering_the_call.md",
+      "kind": "story",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_say_yes_quietly.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

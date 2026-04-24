@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "accept_from_us",
+  "title": "আমাদের পক্ষ থেকে কবুল করো",
+  "summary": "নেক কাজ কবুলের জন্য ইবরাহিম ও ইসমাঈল আলাইহিমাস সালামের কুরআনিক দু'আ।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-বাকারাহ ২:১২৭"
+  ],
+  "tags": [
+    "acceptance",
+    "sincerity",
+    "worship"
+  ],
+  "keywords": [
+    "কবুলিয়াত",
+    "ইবরাহিম",
+    "ইসমাঈল",
+    "তাকাব্বাল",
+    "২:১২৭",
+    "2:127"
+  ],
+  "aliases": [
+    "রব্বানা তাকাব্বাল মিন্না"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 70
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "seeking_acceptance_after_worship",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا تَقَبَّلْ مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "transliteration": "রব্বানা তাকাব্বাল মিন্না। ইন্নাকা আন্তাস সামীউল আলীম।",
+      "translation": "হে আমাদের রব, আমাদের পক্ষ থেকে কবুল করো। নিশ্চয়ই তুমিই সর্বশ্রোতা, সর্বজ্ঞ।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-বাকারাহ ২:১২৭",
+      "repeat": null
+    }
+  ]
+}

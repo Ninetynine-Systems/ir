@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "group": "prophets_and_messengers",
+  "slug": "prophet_ibrahim",
+  "title": "Prophet Ibrahim",
+  "summary": "A restrained Quran-grounded retelling of Ibrahim's call to tawhid, his tests, and his prayers around the Sacred House.",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "Surah Al-An'am 6:74-83",
+    "Surah Maryam 19:41-50",
+    "Surah Al-Anbiya 21:51-73",
+    "Surah As-Saffat 37:83-113",
+    "Surah Al-Baqarah 2:124-129",
+    "Surah Ibrahim 14:35-41"
+  ],
+  "tags": [
+    "tawhid",
+    "trust",
+    "hajj"
+  ],
+  "keywords": [
+    "ibrahim",
+    "abraham",
+    "tawhid",
+    "kaaba",
+    "hajj",
+    "sacrifice"
+  ],
+  "aliases": [
+    "Prophet Abraham",
+    "Khalilullah"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_calling_to_tawhid.md",
+      "kind": "calling_to_tawhid",
+      "order": 1,
+      "estimated_read_seconds": 125
+    },
+    {
+      "name": "chapter_02_tests_and_surrender.md",
+      "kind": "tests_and_surrender",
+      "order": 2,
+      "estimated_read_seconds": 130
+    },
+    {
+      "name": "chapter_03_house_and_acceptance.md",
+      "kind": "house_and_acceptance",
+      "order": 3,
+      "estimated_read_seconds": 125
+    }
+  ],
+  "difficulty": "beginner"
+}

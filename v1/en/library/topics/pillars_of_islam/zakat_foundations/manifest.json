@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "zakat_foundations",
+  "title": "Zakat Foundations",
+  "summary": "A foundations-level guide to zakat as purification, obligation, and support for the vulnerable.",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "Surah Al-Baqarah 2:43",
+    "Surah At-Tawbah 9:60",
+    "Surah Al-Baqarah 2:261",
+    "Sahih al-Bukhari 24",
+    "Sahih al-Bukhari 1403"
+  ],
+  "tags": [
+    "zakat",
+    "wealth",
+    "purification"
+  ],
+  "keywords": [
+    "zakat",
+    "charity",
+    "wealth",
+    "purification",
+    "recipients"
+  ],
+  "aliases": [
+    "Obligatory Charity Foundations"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 105
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 100
+    }
+  ],
+  "difficulty": "beginner"
+}

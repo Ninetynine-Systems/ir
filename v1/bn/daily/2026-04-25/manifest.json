@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-25",
+  "locale": "bn",
+  "thread_id": "bn-2026-04-25",
+  "event_tags": [
+    "dhul_qadah"
+  ],
+  "story_refs": [],
+  "files": [
+    {
+      "name": "morning_small_steps_toward_hajj.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "noon_preparation_challenge.md",
+      "kind": "challenge",
+      "time_of_day": "noon",
+      "priority": 2,
+      "estimated_read_seconds": 70
+    },
+    {
+      "name": "night_reflection.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 100
+    }
+  ]
+}

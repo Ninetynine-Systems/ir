@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "dua_of_the_cave_youth",
+  "title": "Dua of the Cave Youth",
+  "summary": "A Quranic supplication asking for mercy and right guidance in a time of pressure.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Kahf 18:10"
+  ],
+  "tags": [
+    "guidance",
+    "mercy",
+    "steadfastness"
+  ],
+  "keywords": [
+    "18:10",
+    "cave",
+    "surah kahf",
+    "guidance",
+    "mercy"
+  ],
+  "aliases": [
+    "Rabbana Atina Min Ladunka Rahmah"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "seeking_guidance_under_pressure",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَآ ءَاتِنَا مِن لَّدُنكَ رَحْمَةًۭ وَهَيِّئْ لَنَا مِنْ أَمْرِنَا رَشَدًۭا",
+      "transliteration": "Rabbana atina min ladunka rahmatan wa hayyi lana min amrina rashada.",
+      "translation": "Our Lord, grant us from Yourself mercy and prepare for us from our affair right guidance.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Kahf 18:10",
+      "repeat": null
+    }
+  ]
+}

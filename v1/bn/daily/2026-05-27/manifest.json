@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-27",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-27",
+  "event_tags": [
+    "eid_al_adha",
+    "dhul_hijjah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_eid_what_reaches_allah.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 110
+    },
+    {
+      "name": "noon_gratitude_after_mercy.md",
+      "kind": "reflection",
+      "time_of_day": "noon",
+      "priority": 2,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "evening_the_sacrifice_and_the_heart.md",
+      "kind": "story",
+      "time_of_day": "evening",
+      "priority": 3,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_eid_without_forgetting.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 4,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

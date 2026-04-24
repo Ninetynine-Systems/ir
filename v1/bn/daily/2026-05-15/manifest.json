@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-15",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-15",
+  "event_tags": [
+    "jumuah",
+    "dhul_qadah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_jumuah_before_the_greater_call.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "evening_weekly_call_ancient_call.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 170
+    },
+    {
+      "name": "night_keep_kahf_close.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

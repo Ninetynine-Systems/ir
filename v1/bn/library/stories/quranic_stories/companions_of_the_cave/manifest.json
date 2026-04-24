@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "stories",
+  "group": "quranic_stories",
+  "slug": "companions_of_the_cave",
+  "title": "গুহাবাসী যুবকেরা",
+  "summary": "ঈমান রক্ষায় সরে যাওয়া যুবকদের কাহিনি, যাদের আল্লাহ নিদর্শন বানিয়েছেন।",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "সূরা আল-কাহফ ১৮:৯-২৬"
+  ],
+  "tags": [
+    "steadfastness",
+    "youth",
+    "resurrection"
+  ],
+  "keywords": [
+    "গুহাবাসী",
+    "আসহাবে কাহফ",
+    "আল-কাহফ",
+    "পুনরুত্থান",
+    "cave",
+    "ashab al kahf"
+  ],
+  "aliases": [
+    "আসহাবে কাহফ"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_when_the_youth_withdrew.md",
+      "kind": "when_the_youth_withdrew",
+      "order": 1,
+      "estimated_read_seconds": 120
+    },
+    {
+      "name": "chapter_02_sheltered_under_divine_care.md",
+      "kind": "sheltered_under_divine_care",
+      "order": 2,
+      "estimated_read_seconds": 115
+    },
+    {
+      "name": "chapter_03_a_sign_for_later_people.md",
+      "kind": "a_sign_for_later_people",
+      "order": 3,
+      "estimated_read_seconds": 125
+    }
+  ],
+  "difficulty": "beginner"
+}

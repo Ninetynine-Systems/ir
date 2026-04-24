@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "generated_at": "2026-04-24T12:00:00Z",
+  "search_index_url": "/api/v1/bn/library/search.json",
+  "sections": [
+    {
+      "slug": "stories",
+      "title": "কাহিনি",
+      "description": "নবী-রাসূল ও কুরআনিক কাহিনি, সংযত ও সূত্রভিত্তিক বর্ণনা।",
+      "collections_url": "/api/v1/bn/library/stories/manifest.json",
+      "item_count": 6
+    },
+    {
+      "slug": "supplications",
+      "title": "দু'আ",
+      "description": "নির্ভরযোগ্য দু'আ, যথাযথ আরবি পাঠ, সূত্র, ও সংক্ষিপ্ত প্রেক্ষাপটসহ।",
+      "collections_url": "/api/v1/bn/library/supplications/manifest.json",
+      "item_count": 8
+    },
+    {
+      "slug": "topics",
+      "title": "বিষয়ভিত্তিক পাঠ",
+      "description": "কুরআন ও সহিহ সুন্নাহভিত্তিক, beginner-safe মৌলিক ইসলামী বিষয়।",
+      "collections_url": "/api/v1/bn/library/topics/manifest.json",
+      "item_count": 7
+    }
+  ]
+}

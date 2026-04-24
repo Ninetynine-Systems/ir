@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-04-30",
+  "locale": "bn",
+  "thread_id": "bn-2026-04-30",
+  "event_tags": [
+    "dhul_qadah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_take_provision_take_taqwa.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_the_call_was_made_for_people.md",
+      "kind": "story",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 180
+    },
+    {
+      "name": "night_answer_before_you_arrive.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

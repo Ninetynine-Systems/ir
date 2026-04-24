@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "accept_from_us",
+  "title": "Accept From Us",
+  "summary": "The Quranic plea of Ibrahim and Ismail asking Allah to accept righteous work.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Baqarah 2:127"
+  ],
+  "tags": [
+    "acceptance",
+    "sincerity",
+    "worship"
+  ],
+  "keywords": [
+    "2:127",
+    "acceptance",
+    "ibrahim",
+    "ismail",
+    "taqabbal"
+  ],
+  "aliases": [
+    "Rabbana Taqabbal Minna"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 70
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "seeking_acceptance_after_worship",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا تَقَبَّلْ مِنَّآ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلْعَلِيمُ",
+      "transliteration": "Rabbana taqabbal minna. Innaka anta as-Sami al-Alim.",
+      "translation": "Our Lord, accept from us. Indeed, You are the All-Hearing, the All-Knowing.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Baqarah 2:127",
+      "repeat": null
+    }
+  ]
+}

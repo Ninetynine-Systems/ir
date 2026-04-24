@@ -1,0 +1,617 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "generated_at": "2026-04-23T12:00:00Z",
+  "latest_date": "2026-05-27",
+  "days": [
+    {
+      "date": "2026-05-27",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-27/manifest.json",
+      "thread_id": "en-2026-05-27",
+      "event_tags": [
+        "eid_al_adha",
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 4
+    },
+    {
+      "date": "2026-05-26",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-26/manifest.json",
+      "thread_id": "en-2026-05-26",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 4
+    },
+    {
+      "date": "2026-05-25",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-25/manifest.json",
+      "thread_id": "en-2026-05-25",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 4
+    },
+    {
+      "date": "2026-05-24",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-24/manifest.json",
+      "thread_id": "en-2026-05-24",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-23",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-23/manifest.json",
+      "thread_id": "en-2026-05-23",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-22",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-22/manifest.json",
+      "thread_id": "en-2026-05-22",
+      "event_tags": [
+        "jumuah",
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-21",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-21/manifest.json",
+      "thread_id": "en-2026-05-21",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-20",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-20/manifest.json",
+      "thread_id": "en-2026-05-20",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-19",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-19/manifest.json",
+      "thread_id": "en-2026-05-19",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-18",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-18/manifest.json",
+      "thread_id": "en-2026-05-18",
+      "event_tags": [
+        "dhul_hijjah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-17",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-17/manifest.json",
+      "thread_id": "en-2026-05-17",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-16",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-16/manifest.json",
+      "thread_id": "en-2026-05-16",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-15",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-15/manifest.json",
+      "thread_id": "en-2026-05-15",
+      "event_tags": [
+        "jumuah",
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-14",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-14/manifest.json",
+      "thread_id": "en-2026-05-14",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-13",
+      "updated_at": "2026-04-23T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-13/manifest.json",
+      "thread_id": "en-2026-05-13",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-12",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-12/manifest.json",
+      "thread_id": "en-2026-05-12",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-11",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-11/manifest.json",
+      "thread_id": "en-2026-05-11",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-10",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-10/manifest.json",
+      "thread_id": "en-2026-05-10",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-09",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-09/manifest.json",
+      "thread_id": "en-2026-05-09",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-08",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-08/manifest.json",
+      "thread_id": "en-2026-05-08",
+      "event_tags": [
+        "jumuah",
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-07",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-07/manifest.json",
+      "thread_id": "en-2026-05-07",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-06",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-06/manifest.json",
+      "thread_id": "en-2026-05-06",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-05",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-05/manifest.json",
+      "thread_id": "en-2026-05-05",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-04",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-04/manifest.json",
+      "thread_id": "en-2026-05-04",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-03",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-03/manifest.json",
+      "thread_id": "en-2026-05-03",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-02",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-02/manifest.json",
+      "thread_id": "en-2026-05-02",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-05-01",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-05-01/manifest.json",
+      "thread_id": "en-2026-05-01",
+      "event_tags": [
+        "jumuah",
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-30",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-30/manifest.json",
+      "thread_id": "en-2026-04-30",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-29",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-29/manifest.json",
+      "thread_id": "en-2026-04-29",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-28",
+      "updated_at": "2026-04-22T12:42:03Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-28/manifest.json",
+      "thread_id": "en-2026-04-28",
+      "event_tags": [
+        "dhul_qadah",
+        "hajj"
+      ],
+      "story_refs": [
+        "prophet_ibrahim_hajj_call"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-27",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-27/manifest.json",
+      "thread_id": "en-2026-04-27",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-26",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-26/manifest.json",
+      "thread_id": "en-2026-04-26",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-25",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-25/manifest.json",
+      "thread_id": "en-2026-04-25",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-24",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-24/manifest.json",
+      "thread_id": "en-2026-04-24",
+      "event_tags": [
+        "jumuah",
+        "dhul_qadah"
+      ],
+      "story_refs": [],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-23",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-23/manifest.json",
+      "thread_id": "en-2026-04-23",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-22",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-22/manifest.json",
+      "thread_id": "en-2026-04-22",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-21",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-21/manifest.json",
+      "thread_id": "en-2026-04-21",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-20",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-20/manifest.json",
+      "thread_id": "en-2026-04-20",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-19",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-19/manifest.json",
+      "thread_id": "en-2026-04-19",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 4
+    },
+    {
+      "date": "2026-04-18",
+      "updated_at": "2026-04-16T12:00:00Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-18/manifest.json",
+      "thread_id": "en-2026-04-18",
+      "event_tags": [
+        "dhul_qadah"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-17",
+      "updated_at": "2026-04-15T08:01:51Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-17/manifest.json",
+      "thread_id": "en-2026-04-17",
+      "event_tags": [
+        "jumuah",
+        "shawwal_fasting",
+        "dhul_qadah"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-16",
+      "updated_at": "2026-04-15T08:01:51Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-16/manifest.json",
+      "thread_id": "en-2026-04-16",
+      "event_tags": [
+        "shawwal_fasting"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-15",
+      "updated_at": "2026-04-15T03:47:53Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-15/manifest.json",
+      "thread_id": "en-2026-04-15",
+      "event_tags": [
+        "shawwal_fasting"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-14",
+      "updated_at": "2026-04-15T03:47:53Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-14/manifest.json",
+      "thread_id": "en-2026-04-14",
+      "event_tags": [
+        "shawwal_fasting"
+      ],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-04-13",
+      "updated_at": "2026-04-15T03:47:53Z",
+      "manifest_url": "/api/v1/en/daily/2026-04-13/manifest.json",
+      "thread_id": "en-2026-04-13",
+      "event_tags": [],
+      "story_refs": [
+        "prophet_yusuf_patience"
+      ],
+      "file_count": 3
+    }
+  ]
+}

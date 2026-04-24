@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-01",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-01",
+  "event_tags": [
+    "jumuah",
+    "dhul_qadah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_jumuah_and_the_open_road.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "evening_small_gatherings_prepare_the_heart.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 170
+    },
+    {
+      "name": "night_leave_space_for_the_next_call.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

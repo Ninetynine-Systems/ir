@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "distress_and_relief",
+  "slug": "musa_plea_for_good",
+  "title": "মূসা আলাইহিস সালামের প্রয়োজনের দু'আ",
+  "summary": "প্রয়োজন, ক্লান্তি ও অনিশ্চয়তার সময়ে মূসা আলাইহিস সালামের কুরআনিক প্রার্থনা।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-কাসাস ২৮:২৪"
+  ],
+  "tags": [
+    "need",
+    "provision",
+    "humility"
+  ],
+  "keywords": [
+    "মূসা",
+    "প্রয়োজন",
+    "রিযিক",
+    "কল্যাণ",
+    "২৮:২৪",
+    "28:24"
+  ],
+  "aliases": [
+    "রব্বি ইন্নি লিমা আনযালতা ইলাইয়া"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 80
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "need_and_provision",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبِّ إِنِّى لِمَآ أَنزَلْتَ إِلَىَّ مِنْ خَيْرٍۢ فَقِيرٌۭ",
+      "transliteration": "রব্বি ইন্নি লিমা আনযালতা ইলাইয়া মিন খাইরিন ফাকির।",
+      "translation": "হে আমার রব, তুমি আমার প্রতি যে কল্যাণই নাজিল করবে, আমি তারই মুখাপেক্ষী।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-কাসাস ২৮:২৪",
+      "repeat": null
+    }
+  ]
+}

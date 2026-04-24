@@ -1,0 +1,37 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-22",
+  "locale": "bn",
+  "thread_id": "bn-2026-05-22",
+  "event_tags": [
+    "jumuah",
+    "dhul_hijjah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_jumuah_near_the_hajj_days.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 100
+    },
+    {
+      "name": "evening_friday_before_the_rites.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 170
+    },
+    {
+      "name": "night_hold_the_weekly_light.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

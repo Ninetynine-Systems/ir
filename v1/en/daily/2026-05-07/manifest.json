@@ -1,0 +1,36 @@
+{
+  "schema_version": 1,
+  "date": "2026-05-07",
+  "locale": "en",
+  "thread_id": "en-2026-05-07",
+  "event_tags": [
+    "dhul_qadah",
+    "hajj"
+  ],
+  "story_refs": [
+    "prophet_ibrahim_hajj_call"
+  ],
+  "files": [
+    {
+      "name": "morning_more_salawat_on_the_road.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_love_the_messenger_more_than_the_route.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 170
+    },
+    {
+      "name": "night_keep_your_tongue_gentle.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 110
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "pillars_of_islam",
+  "slug": "zakat_foundations",
+  "title": "যাকাতের মৌলিক ধারণা",
+  "summary": "যাকাতকে ফরজ হক, পরিশুদ্ধি এবং অভাবগ্রস্তের সহায়তা হিসেবে বুঝতে সহায়ক পাঠ।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আল-বাকারা ২:৪৩",
+    "সূরা আত-তাওবা ৯:৬০",
+    "সূরা আল-বাকারা ২:২৬১",
+    "সহিহ আল-বুখারি ২৪",
+    "সহিহ আল-বুখারি ১৪০৩"
+  ],
+  "tags": [
+    "zakat",
+    "wealth",
+    "purification"
+  ],
+  "keywords": [
+    "যাকাত",
+    "সম্পদ",
+    "পরিশুদ্ধি",
+    "প্রাপক",
+    "zakat",
+    "charity"
+  ],
+  "aliases": [
+    "যাকাতের পাঠ"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 95
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 105
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 100
+    }
+  ],
+  "difficulty": "beginner"
+}

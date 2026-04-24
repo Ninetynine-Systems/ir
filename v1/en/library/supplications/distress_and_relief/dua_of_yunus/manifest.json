@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "distress_and_relief",
+  "slug": "dua_of_yunus",
+  "title": "Dua of Yunus",
+  "summary": "The supplication of Yunus in darkness and distress, carried by tawhid and repentance.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Anbiya 21:87-88",
+    "Jami at-Tirmidhi 3505"
+  ],
+  "tags": [
+    "repentance",
+    "distress",
+    "tawhid"
+  ],
+  "keywords": [
+    "21:87",
+    "yunus",
+    "distress",
+    "repentance",
+    "la ilaha illa anta"
+  ],
+  "aliases": [
+    "Dua of Dhun-Nun"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 90
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "distress_and_repentance",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "لَّا إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "transliteration": "La ilaha illa anta subhanaka inni kuntu min al-zalimin.",
+      "translation": "There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Anbiya 21:87",
+      "repeat": null
+    }
+  ]
+}

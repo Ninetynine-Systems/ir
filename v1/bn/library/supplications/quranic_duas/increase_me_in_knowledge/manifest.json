@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "increase_me_in_knowledge",
+  "title": "আমার জ্ঞান বাড়িয়ে দাও",
+  "summary": "উপকারী জ্ঞান বাড়ানোর জন্য আল্লাহর কাছে চাওয়ার কুরআনিক দু'আ।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা ত্বহা ২০:১১৪"
+  ],
+  "tags": [
+    "knowledge",
+    "learning",
+    "humility"
+  ],
+  "keywords": [
+    "জ্ঞান",
+    "ইলম",
+    "শেখা",
+    "রব্বি যিদনি",
+    "২০:১১৪",
+    "20:114"
+  ],
+  "aliases": [
+    "রব্বি যিদনি ইলমা"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 65
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "seeking_beneficial_knowledge",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَّبِّ زِدْنِى عِلْمًۭا",
+      "transliteration": "রব্বি যিদনি ইলমা।",
+      "translation": "হে আমার রব, আমার জ্ঞান বাড়িয়ে দাও।",
+      "source_type": "quran",
+      "source_ref": "সূরা ত্বহা ২০:১১৪",
+      "repeat": null
+    }
+  ]
+}

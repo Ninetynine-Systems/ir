@@ -1,0 +1,159 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "title": "Stories",
+  "groups": [
+    {
+      "slug": "prophets_and_messengers",
+      "title": "Prophets & Messengers",
+      "description": "Canonically grounded retellings of prophetic lives from Quran and accepted authentic reports.",
+      "items": [
+        {
+          "slug": "prophet_ibrahim",
+          "title": "Prophet Ibrahim",
+          "summary": "A restrained Quran-grounded retelling of Ibrahim's call to tawhid, his tests, and his prayers around the Sacred House.",
+          "tags": [
+            "tawhid",
+            "trust",
+            "hajj"
+          ],
+          "keywords": [
+            "ibrahim",
+            "abraham",
+            "tawhid",
+            "kaaba",
+            "hajj",
+            "sacrifice"
+          ],
+          "aliases": [
+            "Prophet Abraham",
+            "Khalilullah"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_ibrahim/manifest.json"
+        },
+        {
+          "slug": "prophet_nuh",
+          "title": "Prophet Nuh",
+          "summary": "A source-first retelling of Nuh's long call, the ark, the flood, and the lesson that salvation follows faith, not lineage.",
+          "tags": [
+            "patience",
+            "calling_to_allah",
+            "salvation"
+          ],
+          "keywords": [
+            "nuh",
+            "noah",
+            "ark",
+            "flood",
+            "patience"
+          ],
+          "aliases": [
+            "Prophet Noah"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
+        },
+        {
+          "slug": "prophet_yunus",
+          "title": "Prophet Yunus",
+          "summary": "A concise Quran-grounded retelling of Yunus, his distress, his dua in darkness, and Allah's rescue and mercy.",
+          "tags": [
+            "repentance",
+            "distress",
+            "mercy"
+          ],
+          "keywords": [
+            "yunus",
+            "jonah",
+            "dhun nun",
+            "whale",
+            "distress",
+            "dua"
+          ],
+          "aliases": [
+            "Prophet Jonah",
+            "Dhun-Nun"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yunus/manifest.json"
+        },
+        {
+          "slug": "prophet_yusuf",
+          "title": "Prophet Yusuf",
+          "summary": "A canonically grounded retelling of Yusuf through jealousy, trial, integrity, and reunion.",
+          "tags": [
+            "patience",
+            "family",
+            "trust_in_allah"
+          ],
+          "keywords": [
+            "yusuf",
+            "joseph",
+            "surah yusuf",
+            "dreams",
+            "patience"
+          ],
+          "aliases": [
+            "Prophet Joseph"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "quranic_stories",
+      "title": "Quranic Stories",
+      "description": "Narratives the Quran names directly, kept close to the revealed text and its stated lessons.",
+      "items": [
+        {
+          "slug": "companions_of_the_cave",
+          "title": "Companions of the Cave",
+          "summary": "A restrained retelling of the believing youth who fled with faith, slept by Allah's command, and became a sign of resurrection.",
+          "tags": [
+            "steadfastness",
+            "youth",
+            "resurrection"
+          ],
+          "keywords": [
+            "ashab al kahf",
+            "people of the cave",
+            "surah kahf",
+            "youth",
+            "resurrection"
+          ],
+          "aliases": [
+            "People of the Cave",
+            "Ashab al-Kahf"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/quranic_stories/companions_of_the_cave/manifest.json"
+        },
+        {
+          "slug": "dhul_qarnayn",
+          "title": "Dhul-Qarnayn",
+          "summary": "A restrained reading of the Quranic account of a ruler who traveled with justice and humility.",
+          "tags": [
+            "justice",
+            "leadership",
+            "last_day"
+          ],
+          "keywords": [
+            "dhul qarnayn",
+            "zulqarnain",
+            "surah kahf",
+            "gog and magog",
+            "barrier"
+          ],
+          "aliases": [
+            "Zulqarnain"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
+        }
+      ]
+    }
+  ]
+}
