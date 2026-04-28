@@ -10,26 +10,26 @@
       "description": "Supplications quoted directly in the Quran and published here with exact text and concise context.",
       "items": [
         {
-          "slug": "hearts_steadfast_after_guidance",
-          "title": "Hearts Steadfast After Guidance",
-          "summary": "A Quranic plea asking Allah not to let the heart turn after guidance.",
+          "slug": "accept_from_us",
+          "title": "Accept From Us",
+          "summary": "The Quranic plea of Ibrahim and Ismail asking Allah to accept righteous work.",
           "tags": [
-            "guidance",
-            "mercy",
-            "steadfastness"
+            "acceptance",
+            "sincerity",
+            "worship"
           ],
           "keywords": [
-            "3:8",
-            "guidance",
-            "steadfastness",
-            "mercy",
-            "hearts"
+            "2:127",
+            "acceptance",
+            "ibrahim",
+            "ismail",
+            "taqabbal"
           ],
           "aliases": [
-            "Rabbana La Tuzigh Qulubana"
+            "Rabbana Taqabbal Minna"
           ],
           "difficulty": "beginner",
-          "detail_url": "/api/v1/en/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/accept_from_us/manifest.json"
         },
         {
           "slug": "dua_of_the_cave_youth",
@@ -74,6 +74,50 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/supplications/quranic_duas/good_in_this_world_and_the_next/manifest.json"
+        },
+        {
+          "slug": "hearts_steadfast_after_guidance",
+          "title": "Hearts Steadfast After Guidance",
+          "summary": "A Quranic plea asking Allah not to let the heart turn after guidance.",
+          "tags": [
+            "guidance",
+            "mercy",
+            "steadfastness"
+          ],
+          "keywords": [
+            "3:8",
+            "guidance",
+            "steadfastness",
+            "mercy",
+            "hearts"
+          ],
+          "aliases": [
+            "Rabbana La Tuzigh Qulubana"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
+        },
+        {
+          "slug": "increase_me_in_knowledge",
+          "title": "Increase Me in Knowledge",
+          "summary": "The Quranic command to ask Allah for increase in beneficial knowledge.",
+          "tags": [
+            "knowledge",
+            "learning",
+            "humility"
+          ],
+          "keywords": [
+            "20:114",
+            "knowledge",
+            "learning",
+            "ilm",
+            "rabbi zidni"
+          ],
+          "aliases": [
+            "Rabbi Zidni Ilma"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/increase_me_in_knowledge/manifest.json"
         }
       ]
     },

@@ -40,52 +40,6 @@
       "description": "ইসলামের মূল ইবাদতগুলো, মতভেদপূর্ণ খুঁটিনাটি বাদ দিয়ে মৌলিক পর্যায়ে।",
       "items": [
         {
-          "slug": "sawm_foundations",
-          "title": "রোজার মৌলিক ধারণা",
-          "summary": "রমাদানের রোজার উদ্দেশ্য, দলিল ও জীবন্ত চর্চা নিয়ে একটি ভিত্তিগত পাঠ।",
-          "tags": [
-            "sawm",
-            "ramadan",
-            "worship"
-          ],
-          "keywords": [
-            "রোজা",
-            "রমাদান",
-            "তাকওয়া",
-            "লাইলাতুল কদর",
-            "sawm",
-            "fasting"
-          ],
-          "aliases": [
-            "সাওমের মৌলিক ধারণা"
-          ],
-          "difficulty": "beginner",
-          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
-        },
-        {
-          "slug": "zakat_foundations",
-          "title": "যাকাতের মৌলিক ধারণা",
-          "summary": "যাকাতকে ফরজ হক, পরিশুদ্ধি এবং অভাবগ্রস্তের সহায়তা হিসেবে বুঝতে সহায়ক পাঠ।",
-          "tags": [
-            "zakat",
-            "wealth",
-            "purification"
-          ],
-          "keywords": [
-            "যাকাত",
-            "সম্পদ",
-            "পরিশুদ্ধি",
-            "প্রাপক",
-            "zakat",
-            "charity"
-          ],
-          "aliases": [
-            "যাকাতের পাঠ"
-          ],
-          "difficulty": "beginner",
-          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
-        },
-        {
           "slug": "hajj_foundations",
           "title": "হজের মৌলিক ধারণা",
           "summary": "হজের ফরজ হওয়া, অর্থ ও প্রধান উদ্দেশ্য নিয়ে সহজ ভিত্তিগত গাইড।",
@@ -130,6 +84,52 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/salah_foundations/manifest.json"
+        },
+        {
+          "slug": "sawm_foundations",
+          "title": "রোজার মৌলিক ধারণা",
+          "summary": "রমাদানের রোজার উদ্দেশ্য, দলিল ও জীবন্ত চর্চা নিয়ে একটি ভিত্তিগত পাঠ।",
+          "tags": [
+            "sawm",
+            "ramadan",
+            "worship"
+          ],
+          "keywords": [
+            "রোজা",
+            "রমাদান",
+            "তাকওয়া",
+            "লাইলাতুল কদর",
+            "sawm",
+            "fasting"
+          ],
+          "aliases": [
+            "সাওমের মৌলিক ধারণা"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
+        },
+        {
+          "slug": "zakat_foundations",
+          "title": "যাকাতের মৌলিক ধারণা",
+          "summary": "যাকাতকে ফরজ হক, পরিশুদ্ধি এবং অভাবগ্রস্তের সহায়তা হিসেবে বুঝতে সহায়ক পাঠ।",
+          "tags": [
+            "zakat",
+            "wealth",
+            "purification"
+          ],
+          "keywords": [
+            "যাকাত",
+            "সম্পদ",
+            "পরিশুদ্ধি",
+            "প্রাপক",
+            "zakat",
+            "charity"
+          ],
+          "aliases": [
+            "যাকাতের পাঠ"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
         }
       ]
     },

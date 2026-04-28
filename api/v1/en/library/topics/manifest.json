@@ -39,50 +39,6 @@
       "description": "Core acts of worship presented at the level of agreed foundations, without disputed legal detail.",
       "items": [
         {
-          "slug": "sawm_foundations",
-          "title": "Sawm Foundations",
-          "summary": "An introduction to fasting in Ramadan: its purpose, texts, and lived discipline.",
-          "tags": [
-            "sawm",
-            "ramadan",
-            "worship"
-          ],
-          "keywords": [
-            "fasting",
-            "ramadan",
-            "sawm",
-            "laylat al qadr",
-            "taqwa"
-          ],
-          "aliases": [
-            "Fasting Foundations"
-          ],
-          "difficulty": "beginner",
-          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
-        },
-        {
-          "slug": "zakat_foundations",
-          "title": "Zakat Foundations",
-          "summary": "A foundations-level guide to zakat as purification, obligation, and support for the vulnerable.",
-          "tags": [
-            "zakat",
-            "wealth",
-            "purification"
-          ],
-          "keywords": [
-            "zakat",
-            "charity",
-            "wealth",
-            "purification",
-            "recipients"
-          ],
-          "aliases": [
-            "Obligatory Charity Foundations"
-          ],
-          "difficulty": "beginner",
-          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
-        },
-        {
           "slug": "hajj_foundations",
           "title": "Hajj Foundations",
           "summary": "A beginner-safe guide to the obligation, meaning, and major aims of the pilgrimage.",
@@ -125,6 +81,50 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/topics/pillars_of_islam/salah_foundations/manifest.json"
+        },
+        {
+          "slug": "sawm_foundations",
+          "title": "Sawm Foundations",
+          "summary": "An introduction to fasting in Ramadan: its purpose, texts, and lived discipline.",
+          "tags": [
+            "sawm",
+            "ramadan",
+            "worship"
+          ],
+          "keywords": [
+            "fasting",
+            "ramadan",
+            "sawm",
+            "laylat al qadr",
+            "taqwa"
+          ],
+          "aliases": [
+            "Fasting Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
+        },
+        {
+          "slug": "zakat_foundations",
+          "title": "Zakat Foundations",
+          "summary": "A foundations-level guide to zakat as purification, obligation, and support for the vulnerable.",
+          "tags": [
+            "zakat",
+            "wealth",
+            "purification"
+          ],
+          "keywords": [
+            "zakat",
+            "charity",
+            "wealth",
+            "purification",
+            "recipients"
+          ],
+          "aliases": [
+            "Obligatory Charity Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
         }
       ]
     },

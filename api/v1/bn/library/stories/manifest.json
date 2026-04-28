@@ -10,29 +10,28 @@
       "description": "কুরআন ও গ্রহণযোগ্য সহিহ বর্ণনার আলোকে নবী-রাসূলদের জীবনকাহিনি।",
       "items": [
         {
-          "slug": "prophet_yusuf",
-          "title": "নবী ইউসুফ",
-          "summary": "হিংসা, পরীক্ষা, সততা ও পুনর্মিলনের ভেতর দিয়ে নবী ইউসুফ আলাইহিস সালামের কাহিনি।",
+          "slug": "prophet_ibrahim",
+          "title": "নবী ইবরাহিম",
+          "summary": "তাওহিদের ডাক, পরীক্ষা, আত্মসমর্পণ, এবং পবিত্র ঘরকে ঘিরে ইবরাহিম আলাইহিস সালামের দু'আ নিয়ে সংযত কুরআনভিত্তিক বর্ণনা।",
           "tags": [
-            "patience",
-            "family",
-            "trust_in_allah"
+            "tawhid",
+            "trust",
+            "hajj"
           ],
           "keywords": [
-            "ইউসুফ",
-            "সূরা ইউসুফ",
-            "স্বপ্ন",
-            "কূপ",
-            "সবর",
-            "yusuf",
-            "joseph"
+            "ইবরাহিম",
+            "তাওহিদ",
+            "কা'বা",
+            "হজ",
+            "কুরবানি",
+            "আত্মসমর্পণ"
           ],
           "aliases": [
-            "হযরত ইউসুফ",
-            "যোসেফ"
+            "নবী ইবরাহিম আলাইহিস সালাম",
+            "খলীলুল্লাহ"
           ],
           "difficulty": "beginner",
-          "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
+          "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_ibrahim/manifest.json"
         },
         {
           "slug": "prophet_nuh",
@@ -58,6 +57,55 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
+        },
+        {
+          "slug": "prophet_yunus",
+          "title": "নবী ইউনুস",
+          "summary": "ইউনুস আলাইহিস সালামের বিপদ, অন্ধকারের দু'আ, আল্লাহর উদ্ধার ও রহমত নিয়ে সংক্ষিপ্ত কুরআনভিত্তিক বর্ণনা।",
+          "tags": [
+            "repentance",
+            "distress",
+            "mercy"
+          ],
+          "keywords": [
+            "ইউনুস",
+            "যুননূন",
+            "মাছ",
+            "অন্ধকার",
+            "দু'আ",
+            "তাওবা"
+          ],
+          "aliases": [
+            "নবী ইউনুস আলাইহিস সালাম",
+            "যুননূন"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_yunus/manifest.json"
+        },
+        {
+          "slug": "prophet_yusuf",
+          "title": "নবী ইউসুফ",
+          "summary": "হিংসা, পরীক্ষা, সততা ও পুনর্মিলনের ভেতর দিয়ে নবী ইউসুফ আলাইহিস সালামের কাহিনি।",
+          "tags": [
+            "patience",
+            "family",
+            "trust_in_allah"
+          ],
+          "keywords": [
+            "ইউসুফ",
+            "সূরা ইউসুফ",
+            "স্বপ্ন",
+            "কূপ",
+            "সবর",
+            "yusuf",
+            "joseph"
+          ],
+          "aliases": [
+            "হযরত ইউসুফ",
+            "যোসেফ"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
         }
       ]
     },
@@ -66,29 +114,6 @@
       "title": "কুরআনিক কাহিনি",
       "description": "কুরআনে সরাসরি উল্লেখিত কাহিনি, মূল শিক্ষা অক্ষুণ্ন রেখে।",
       "items": [
-        {
-          "slug": "dhul_qarnayn",
-          "title": "যুলকারনাইন",
-          "summary": "ন্যায়, সামর্থ্য ও বিনয়ের সঙ্গে পথ চলা এক শাসকের কুরআনিক কাহিনি।",
-          "tags": [
-            "justice",
-            "leadership",
-            "last_day"
-          ],
-          "keywords": [
-            "যুলকারনাইন",
-            "ইয়াজুজ মাজুজ",
-            "আল-কাহফ",
-            "শাসন",
-            "dhul qarnayn",
-            "zulqarnain"
-          ],
-          "aliases": [
-            "জুলকারনাইন"
-          ],
-          "difficulty": "beginner",
-          "detail_url": "/api/v1/bn/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
-        },
         {
           "slug": "companions_of_the_cave",
           "title": "গুহাবাসী যুবকেরা",
@@ -111,6 +136,29 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/stories/quranic_stories/companions_of_the_cave/manifest.json"
+        },
+        {
+          "slug": "dhul_qarnayn",
+          "title": "যুলকারনাইন",
+          "summary": "ন্যায়, সামর্থ্য ও বিনয়ের সঙ্গে পথ চলা এক শাসকের কুরআনিক কাহিনি।",
+          "tags": [
+            "justice",
+            "leadership",
+            "last_day"
+          ],
+          "keywords": [
+            "যুলকারনাইন",
+            "ইয়াজুজ মাজুজ",
+            "আল-কাহফ",
+            "শাসন",
+            "dhul qarnayn",
+            "zulqarnain"
+          ],
+          "aliases": [
+            "জুলকারনাইন"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
         }
       ]
     }

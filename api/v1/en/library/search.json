@@ -1,33 +1,35 @@
 {
   "schema_version": 1,
   "locale": "en",
-  "generated_at": "2026-04-16T08:30:00Z",
-  "item_count": 17,
+  "generated_at": "2026-04-24T12:00:00Z",
+  "item_count": 21,
   "entries": [
     {
-      "id": "stories:prophets_and_messengers:prophet_yusuf",
+      "id": "stories:prophets_and_messengers:prophet_ibrahim",
       "section": "stories",
       "group": "prophets_and_messengers",
-      "slug": "prophet_yusuf",
-      "title": "Prophet Yusuf",
-      "summary": "A canonically grounded retelling of Yusuf through jealousy, trial, integrity, and reunion.",
+      "slug": "prophet_ibrahim",
+      "title": "Prophet Ibrahim",
+      "summary": "A restrained Quran-grounded retelling of Ibrahim's call to tawhid, his tests, and his prayers around the Sacred House.",
       "tags": [
-        "patience",
-        "family",
-        "trust_in_allah"
+        "tawhid",
+        "trust",
+        "hajj"
       ],
       "keywords": [
-        "yusuf",
-        "joseph",
-        "surah yusuf",
-        "dreams",
-        "patience"
+        "ibrahim",
+        "abraham",
+        "tawhid",
+        "kaaba",
+        "hajj",
+        "sacrifice"
       ],
       "aliases": [
-        "Prophet Joseph"
+        "Prophet Abraham",
+        "Khalilullah"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
+      "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_ibrahim/manifest.json"
     },
     {
       "id": "stories:prophets_and_messengers:prophet_nuh",
@@ -55,29 +57,56 @@
       "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_nuh/manifest.json"
     },
     {
-      "id": "stories:quranic_stories:dhul_qarnayn",
+      "id": "stories:prophets_and_messengers:prophet_yunus",
       "section": "stories",
-      "group": "quranic_stories",
-      "slug": "dhul_qarnayn",
-      "title": "Dhul-Qarnayn",
-      "summary": "A restrained reading of the Quranic account of a ruler who traveled with justice and humility.",
+      "group": "prophets_and_messengers",
+      "slug": "prophet_yunus",
+      "title": "Prophet Yunus",
+      "summary": "A concise Quran-grounded retelling of Yunus, his distress, his dua in darkness, and Allah's rescue and mercy.",
       "tags": [
-        "justice",
-        "leadership",
-        "last_day"
+        "repentance",
+        "distress",
+        "mercy"
       ],
       "keywords": [
-        "dhul qarnayn",
-        "zulqarnain",
-        "surah kahf",
-        "gog and magog",
-        "barrier"
+        "yunus",
+        "jonah",
+        "dhun nun",
+        "whale",
+        "distress",
+        "dua"
       ],
       "aliases": [
-        "Zulqarnain"
+        "Prophet Jonah",
+        "Dhun-Nun"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
+      "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yunus/manifest.json"
+    },
+    {
+      "id": "stories:prophets_and_messengers:prophet_yusuf",
+      "section": "stories",
+      "group": "prophets_and_messengers",
+      "slug": "prophet_yusuf",
+      "title": "Prophet Yusuf",
+      "summary": "A canonically grounded retelling of Yusuf through jealousy, trial, integrity, and reunion.",
+      "tags": [
+        "patience",
+        "family",
+        "trust_in_allah"
+      ],
+      "keywords": [
+        "yusuf",
+        "joseph",
+        "surah yusuf",
+        "dreams",
+        "patience"
+      ],
+      "aliases": [
+        "Prophet Joseph"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/stories/prophets_and_messengers/prophet_yusuf/manifest.json"
     },
     {
       "id": "stories:quranic_stories:companions_of_the_cave",
@@ -106,82 +135,29 @@
       "detail_url": "/api/v1/en/library/stories/quranic_stories/companions_of_the_cave/manifest.json"
     },
     {
-      "id": "supplications:quranic_duas:hearts_steadfast_after_guidance",
-      "section": "supplications",
-      "group": "quranic_duas",
-      "slug": "hearts_steadfast_after_guidance",
-      "title": "Hearts Steadfast After Guidance",
-      "summary": "A Quranic plea asking Allah not to let the heart turn after guidance.",
+      "id": "stories:quranic_stories:dhul_qarnayn",
+      "section": "stories",
+      "group": "quranic_stories",
+      "slug": "dhul_qarnayn",
+      "title": "Dhul-Qarnayn",
+      "summary": "A restrained reading of the Quranic account of a ruler who traveled with justice and humility.",
       "tags": [
-        "guidance",
-        "mercy",
-        "steadfastness"
+        "justice",
+        "leadership",
+        "last_day"
       ],
       "keywords": [
-        "3:8",
-        "guidance",
-        "steadfastness",
-        "mercy",
-        "hearts"
-      ],
-      "aliases": [
-        "Rabbana La Tuzigh Qulubana"
-      ],
-      "difficulty": "beginner",
-      "occasion": "steadfastness_after_guidance",
-      "detail_url": "/api/v1/en/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
-    },
-    {
-      "id": "supplications:quranic_duas:dua_of_the_cave_youth",
-      "section": "supplications",
-      "group": "quranic_duas",
-      "slug": "dua_of_the_cave_youth",
-      "title": "Dua of the Cave Youth",
-      "summary": "A Quranic supplication asking for mercy and right guidance in a time of pressure.",
-      "tags": [
-        "guidance",
-        "mercy",
-        "steadfastness"
-      ],
-      "keywords": [
-        "18:10",
-        "cave",
+        "dhul qarnayn",
+        "zulqarnain",
         "surah kahf",
-        "guidance",
-        "mercy"
+        "gog and magog",
+        "barrier"
       ],
       "aliases": [
-        "Rabbana Atina Min Ladunka Rahmah"
+        "Zulqarnain"
       ],
       "difficulty": "beginner",
-      "occasion": "seeking_guidance_under_pressure",
-      "detail_url": "/api/v1/en/library/supplications/quranic_duas/dua_of_the_cave_youth/manifest.json"
-    },
-    {
-      "id": "supplications:quranic_duas:good_in_this_world_and_the_next",
-      "section": "supplications",
-      "group": "quranic_duas",
-      "slug": "good_in_this_world_and_the_next",
-      "title": "Good in This World and the Next",
-      "summary": "A comprehensive Quranic supplication asking Allah for good in this life, good in the Hereafter, and protection from the Fire.",
-      "tags": [
-        "goodness",
-        "hereafter",
-        "protection"
-      ],
-      "keywords": [
-        "2:201",
-        "hasanah",
-        "hereafter",
-        "fire",
-        "dua"
-      ],
-      "aliases": [
-        "Rabbana Atina Fid-Dunya Hasanah"
-      ],
-      "difficulty": "beginner",
-      "occasion": "comprehensive_goodness",
-      "detail_url": "/api/v1/en/library/supplications/quranic_duas/good_in_this_world_and_the_next/manifest.json"
+      "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
     },
     {
       "id": "supplications:distress_and_relief:dua_of_yunus",
@@ -262,6 +238,186 @@
       "detail_url": "/api/v1/en/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
     },
     {
+      "id": "supplications:quranic_duas:accept_from_us",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "accept_from_us",
+      "title": "Accept From Us",
+      "summary": "The Quranic plea of Ibrahim and Ismail asking Allah to accept righteous work.",
+      "tags": [
+        "acceptance",
+        "sincerity",
+        "worship"
+      ],
+      "keywords": [
+        "2:127",
+        "acceptance",
+        "ibrahim",
+        "ismail",
+        "taqabbal"
+      ],
+      "aliases": [
+        "Rabbana Taqabbal Minna"
+      ],
+      "difficulty": "beginner",
+      "occasion": "seeking_acceptance_after_worship",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/accept_from_us/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:dua_of_the_cave_youth",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "dua_of_the_cave_youth",
+      "title": "Dua of the Cave Youth",
+      "summary": "A Quranic supplication asking for mercy and right guidance in a time of pressure.",
+      "tags": [
+        "guidance",
+        "mercy",
+        "steadfastness"
+      ],
+      "keywords": [
+        "18:10",
+        "cave",
+        "surah kahf",
+        "guidance",
+        "mercy"
+      ],
+      "aliases": [
+        "Rabbana Atina Min Ladunka Rahmah"
+      ],
+      "difficulty": "beginner",
+      "occasion": "seeking_guidance_under_pressure",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/dua_of_the_cave_youth/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:good_in_this_world_and_the_next",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "good_in_this_world_and_the_next",
+      "title": "Good in This World and the Next",
+      "summary": "A comprehensive Quranic supplication asking Allah for good in this life, good in the Hereafter, and protection from the Fire.",
+      "tags": [
+        "goodness",
+        "hereafter",
+        "protection"
+      ],
+      "keywords": [
+        "2:201",
+        "hasanah",
+        "hereafter",
+        "fire",
+        "dua"
+      ],
+      "aliases": [
+        "Rabbana Atina Fid-Dunya Hasanah"
+      ],
+      "difficulty": "beginner",
+      "occasion": "comprehensive_goodness",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/good_in_this_world_and_the_next/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:hearts_steadfast_after_guidance",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "hearts_steadfast_after_guidance",
+      "title": "Hearts Steadfast After Guidance",
+      "summary": "A Quranic plea asking Allah not to let the heart turn after guidance.",
+      "tags": [
+        "guidance",
+        "mercy",
+        "steadfastness"
+      ],
+      "keywords": [
+        "3:8",
+        "guidance",
+        "steadfastness",
+        "mercy",
+        "hearts"
+      ],
+      "aliases": [
+        "Rabbana La Tuzigh Qulubana"
+      ],
+      "difficulty": "beginner",
+      "occasion": "steadfastness_after_guidance",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/hearts_steadfast_after_guidance/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:increase_me_in_knowledge",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "increase_me_in_knowledge",
+      "title": "Increase Me in Knowledge",
+      "summary": "The Quranic command to ask Allah for increase in beneficial knowledge.",
+      "tags": [
+        "knowledge",
+        "learning",
+        "humility"
+      ],
+      "keywords": [
+        "20:114",
+        "knowledge",
+        "learning",
+        "ilm",
+        "rabbi zidni"
+      ],
+      "aliases": [
+        "Rabbi Zidni Ilma"
+      ],
+      "difficulty": "beginner",
+      "occasion": "seeking_beneficial_knowledge",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/increase_me_in_knowledge/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:taqwa_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "taqwa_foundations",
+      "title": "Taqwa Foundations",
+      "summary": "An introduction to taqwa as mindful obedience, inward caution, and a life shaped by awareness of Allah.",
+      "tags": [
+        "taqwa",
+        "heart",
+        "obedience"
+      ],
+      "keywords": [
+        "taqwa",
+        "god consciousness",
+        "mindful obedience",
+        "restraint",
+        "obedience"
+      ],
+      "aliases": [
+        "God-Consciousness Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:tawbah_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "tawbah_foundations",
+      "title": "Tawbah Foundations",
+      "summary": "A beginner-safe guide to repentance as returning to Allah with honesty, hope, and renewed obedience.",
+      "tags": [
+        "tawbah",
+        "repentance",
+        "mercy"
+      ],
+      "keywords": [
+        "tawbah",
+        "repentance",
+        "forgiveness",
+        "return to allah",
+        "hope"
+      ],
+      "aliases": [
+        "Repentance Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+    },
+    {
       "id": "topics:pillars_of_iman:iman_foundations",
       "section": "topics",
       "group": "pillars_of_iman",
@@ -285,56 +441,6 @@
       ],
       "difficulty": "beginner",
       "detail_url": "/api/v1/en/library/topics/pillars_of_iman/iman_foundations/manifest.json"
-    },
-    {
-      "id": "topics:pillars_of_islam:sawm_foundations",
-      "section": "topics",
-      "group": "pillars_of_islam",
-      "slug": "sawm_foundations",
-      "title": "Sawm Foundations",
-      "summary": "An introduction to fasting in Ramadan: its purpose, texts, and lived discipline.",
-      "tags": [
-        "sawm",
-        "ramadan",
-        "worship"
-      ],
-      "keywords": [
-        "fasting",
-        "ramadan",
-        "sawm",
-        "laylat al qadr",
-        "taqwa"
-      ],
-      "aliases": [
-        "Fasting Foundations"
-      ],
-      "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
-    },
-    {
-      "id": "topics:pillars_of_islam:zakat_foundations",
-      "section": "topics",
-      "group": "pillars_of_islam",
-      "slug": "zakat_foundations",
-      "title": "Zakat Foundations",
-      "summary": "A foundations-level guide to zakat as purification, obligation, and support for the vulnerable.",
-      "tags": [
-        "zakat",
-        "wealth",
-        "purification"
-      ],
-      "keywords": [
-        "zakat",
-        "charity",
-        "wealth",
-        "purification",
-        "recipients"
-      ],
-      "aliases": [
-        "Obligatory Charity Foundations"
-      ],
-      "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
     },
     {
       "id": "topics:pillars_of_islam:hajj_foundations",
@@ -387,54 +493,54 @@
       "detail_url": "/api/v1/en/library/topics/pillars_of_islam/salah_foundations/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:taqwa_foundations",
+      "id": "topics:pillars_of_islam:sawm_foundations",
       "section": "topics",
-      "group": "heart_and_character",
-      "slug": "taqwa_foundations",
-      "title": "Taqwa Foundations",
-      "summary": "An introduction to taqwa as mindful obedience, inward caution, and a life shaped by awareness of Allah.",
+      "group": "pillars_of_islam",
+      "slug": "sawm_foundations",
+      "title": "Sawm Foundations",
+      "summary": "An introduction to fasting in Ramadan: its purpose, texts, and lived discipline.",
       "tags": [
-        "taqwa",
-        "heart",
-        "obedience"
+        "sawm",
+        "ramadan",
+        "worship"
       ],
       "keywords": [
-        "taqwa",
-        "god consciousness",
-        "mindful obedience",
-        "restraint",
-        "obedience"
+        "fasting",
+        "ramadan",
+        "sawm",
+        "laylat al qadr",
+        "taqwa"
       ],
       "aliases": [
-        "God-Consciousness Foundations"
+        "Fasting Foundations"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+      "detail_url": "/api/v1/en/library/topics/pillars_of_islam/sawm_foundations/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:tawbah_foundations",
+      "id": "topics:pillars_of_islam:zakat_foundations",
       "section": "topics",
-      "group": "heart_and_character",
-      "slug": "tawbah_foundations",
-      "title": "Tawbah Foundations",
-      "summary": "A beginner-safe guide to repentance as returning to Allah with honesty, hope, and renewed obedience.",
+      "group": "pillars_of_islam",
+      "slug": "zakat_foundations",
+      "title": "Zakat Foundations",
+      "summary": "A foundations-level guide to zakat as purification, obligation, and support for the vulnerable.",
       "tags": [
-        "tawbah",
-        "repentance",
-        "mercy"
+        "zakat",
+        "wealth",
+        "purification"
       ],
       "keywords": [
-        "tawbah",
-        "repentance",
-        "forgiveness",
-        "return to allah",
-        "hope"
+        "zakat",
+        "charity",
+        "wealth",
+        "purification",
+        "recipients"
       ],
       "aliases": [
-        "Repentance Foundations"
+        "Obligatory Charity Foundations"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+      "detail_url": "/api/v1/en/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
     }
   ]
 }
