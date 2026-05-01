@@ -178,6 +178,119 @@
           "detail_url": "/api/v1/en/library/topics/heart_and_character/tawbah_foundations/manifest.json"
         }
       ]
+    },
+    {
+      "slug": "hereafter",
+      "title": "Hereafter",
+      "description": "Quran-grounded reminders about resurrection, accountability, and the final return to Allah.",
+      "items": [
+        {
+          "slug": "last_day_reckoning_foundations",
+          "title": "Last Day & Reckoning Foundations",
+          "summary": "A Quran-grounded introduction to resurrection, records, scales, and accountability without speculative timelines.",
+          "tags": [
+            "last_day",
+            "reckoning",
+            "accountability"
+          ],
+          "keywords": [
+            "resurrection",
+            "scales",
+            "records",
+            "qiyamah",
+            "reckoning",
+            "hereafter"
+          ],
+          "aliases": [
+            "Day of Judgment Foundations"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/hereafter/last_day_reckoning_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "signs_and_creation",
+      "title": "Signs & Creation",
+      "description": "Beginner-safe guides to creation, cosmic signs, and the purpose those signs awaken.",
+      "items": [
+        {
+          "slug": "cosmic_signs_foundations",
+          "title": "Cosmic Signs Foundations",
+          "summary": "A beginner-safe guide to the sun, moon, stars, and ordered heavens as signs that point back to Allah.",
+          "tags": [
+            "cosmos",
+            "signs",
+            "reflection"
+          ],
+          "keywords": [
+            "sun",
+            "moon",
+            "stars",
+            "orbit",
+            "heavens",
+            "signs"
+          ],
+          "aliases": [
+            "Sun and Moon Signs",
+            "Signs in the Heavens"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/signs_and_creation/cosmic_signs_foundations/manifest.json"
+        },
+        {
+          "slug": "creation_and_purpose_foundations",
+          "title": "Creation & Purpose Foundations",
+          "summary": "A concise guide to creation as a sign, human life as a test, and worship as the purpose named by revelation.",
+          "tags": [
+            "creation",
+            "purpose",
+            "worship"
+          ],
+          "keywords": [
+            "creation",
+            "purpose",
+            "worship",
+            "life test",
+            "water"
+          ],
+          "aliases": [
+            "Purpose of Creation"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/signs_and_creation/creation_and_purpose_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "unseen_world",
+      "title": "Unseen World",
+      "description": "Foundational entries on unseen created beings and realities taught by revelation.",
+      "items": [
+        {
+          "slug": "angels_jinn_and_iblis_foundations",
+          "title": "Angels, Jinn & Iblis Foundations",
+          "summary": "A restrained foundations guide to unseen created beings, their limits, and the lessons revelation gives about obedience and pride.",
+          "tags": [
+            "unseen",
+            "angels",
+            "jinn"
+          ],
+          "keywords": [
+            "angels",
+            "jinn",
+            "iblis",
+            "adam",
+            "unseen",
+            "obedience"
+          ],
+          "aliases": [
+            "Unseen Created Beings"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/topics/unseen_world/angels_jinn_and_iblis_foundations/manifest.json"
+        }
+      ]
     }
   ]
 }

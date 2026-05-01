@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "group": "seerah_moments",
+  "slug": "badr_help_and_gratitude",
+  "title": "Badr: Help and Gratitude",
+  "summary": "A Quran-grounded seerah moment on Badr, Allah's help, and the humility victory should leave behind.",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "Surah Al-Anfal 8:5-19",
+    "Surah Al-Anfal 8:41-44",
+    "Surah Aal Imran 3:123-127"
+  ],
+  "tags": [
+    "badr",
+    "help",
+    "gratitude"
+  ],
+  "keywords": [
+    "badr",
+    "battle of badr",
+    "angels",
+    "victory",
+    "gratitude"
+  ],
+  "aliases": [
+    "Battle of Badr"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_brought_out_for_truth.md",
+      "kind": "brought_out_for_truth",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_help_from_allah.md",
+      "kind": "help_from_allah",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_after_victory.md",
+      "kind": "after_victory",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

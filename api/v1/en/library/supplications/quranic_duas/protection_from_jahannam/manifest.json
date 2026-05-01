@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "protection_from_jahannam",
+  "title": "Protection From Jahannam",
+  "summary": "A supplication of the servants of Ar-Rahman asking Allah to turn away the punishment of Jahannam.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Furqan 25:65-66"
+  ],
+  "tags": [
+    "protection",
+    "hereafter",
+    "fear"
+  ],
+  "keywords": [
+    "25:65",
+    "25:66",
+    "jahannam",
+    "fire",
+    "protection"
+  ],
+  "aliases": [
+    "Rabbana Isrif Anna Adhaba Jahannam"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "seeking_protection_from_the_fire",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا",
+      "transliteration": "Rabbana isrif anna adhaba Jahannam. Inna adhabaha kana gharama. Innaha sa'at mustaqarran wa muqama.",
+      "translation": "Our Lord, turn away from us the punishment of Hell. Indeed, its punishment is clinging; indeed, it is evil as a settlement and residence.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Furqan 25:65-66",
+      "repeat": null
+    }
+  ]
+}

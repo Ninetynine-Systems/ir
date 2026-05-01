@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "patience_firmness_and_help",
+  "title": "ধৈর্য, দৃঢ়তা, ও সাহায্য",
+  "summary": "ধৈর্য বর্ষণ, পা দৃঢ় রাখা, এবং কুফরের বিরুদ্ধে সাহায্যের জন্য মুমিনদের কুরআনিক দু'আ।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-বাকারাহ ২:২৫০"
+  ],
+  "tags": [
+    "patience",
+    "steadfastness",
+    "help"
+  ],
+  "keywords": [
+    "ধৈর্য",
+    "দৃঢ়তা",
+    "সাহায্য",
+    "তালুত",
+    "জালুত",
+    "২:২৫০",
+    "2:250"
+  ],
+  "aliases": [
+    "রব্বানা আফরিগ আলাইনা সাবরান"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_patience_steadfastness_and_help",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "transliteration": "রব্বানা আফরিগ আলাইনা সাবরাওঁ, ওয়া সাব্বিত আকদামানা, ওয়ানসুরনা আলাল কাওমিল কাফিরীন।",
+      "translation": "হে আমাদের রব, আমাদের ওপর ধৈর্য বর্ষণ করো, আমাদের পা দৃঢ় রাখো, এবং কাফির সম্প্রদায়ের বিরুদ্ধে আমাদের সাহায্য করো।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-বাকারাহ ২:২৫০",
+      "repeat": null
+    }
+  ]
+}

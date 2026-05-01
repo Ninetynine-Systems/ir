@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "complete_our_light",
+  "title": "Complete Our Light",
+  "summary": "A Quranic plea for completed light and forgiveness on the Day when believers seek Allah's mercy.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah At-Tahrim 66:8"
+  ],
+  "tags": [
+    "light",
+    "forgiveness",
+    "hereafter"
+  ],
+  "keywords": [
+    "66:8",
+    "light",
+    "forgiveness",
+    "nur",
+    "hereafter"
+  ],
+  "aliases": [
+    "Rabbana Atmim Lana Nurana"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_light_and_forgiveness",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "Rabbana atmim lana nurana waghfir lana. Innaka ala kulli shay'in qadir.",
+      "translation": "Our Lord, complete for us our light and forgive us. Indeed, You are over all things powerful.",
+      "source_type": "quran",
+      "source_ref": "Surah At-Tahrim 66:8",
+      "repeat": null
+    }
+  ]
+}

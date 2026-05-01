@@ -152,6 +152,101 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
+        },
+        {
+          "slug": "talut_and_jalut",
+          "title": "Talut and Jalut",
+          "summary": "A restrained Quranic retelling of Talut, the river test, patient believers, and Allah granting victory through Dawud.",
+          "tags": [
+            "patience",
+            "leadership",
+            "trust_in_allah"
+          ],
+          "keywords": [
+            "talut",
+            "jalut",
+            "dawud",
+            "river test",
+            "patience"
+          ],
+          "aliases": [
+            "Saul and Goliath",
+            "Talut and Goliath"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/quranic_stories/talut_and_jalut/manifest.json"
+        },
+        {
+          "slug": "owners_of_the_garden",
+          "title": "Owners of the Garden",
+          "summary": "A Quranic story about withheld charity, sudden loss, and the return from self-reliance to Allah.",
+          "tags": [
+            "gratitude",
+            "charity",
+            "accountability"
+          ],
+          "keywords": [
+            "owners of the garden",
+            "surah qalam",
+            "charity",
+            "gratitude"
+          ],
+          "aliases": [
+            "Companions of the Garden"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/quranic_stories/owners_of_the_garden/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "seerah_moments",
+      "title": "Seerah Moments",
+      "description": "Carefully scoped moments from the Prophet's life, anchored in Quranic passages and authentic reports.",
+      "items": [
+        {
+          "slug": "badr_help_and_gratitude",
+          "title": "Badr: Help and Gratitude",
+          "summary": "A Quran-grounded seerah moment on Badr, Allah's help, and the humility victory should leave behind.",
+          "tags": [
+            "badr",
+            "help",
+            "gratitude"
+          ],
+          "keywords": [
+            "badr",
+            "battle of badr",
+            "angels",
+            "victory",
+            "gratitude"
+          ],
+          "aliases": [
+            "Battle of Badr"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/seerah_moments/badr_help_and_gratitude/manifest.json"
+        },
+        {
+          "slug": "uhud_trial_and_return",
+          "title": "Uhud: Trial and Return",
+          "summary": "A restrained Quran-grounded reading of Uhud as a lesson in obedience, trial, mercy, and renewal after loss.",
+          "tags": [
+            "uhud",
+            "obedience",
+            "trial"
+          ],
+          "keywords": [
+            "uhud",
+            "battle of uhud",
+            "obedience",
+            "trial",
+            "mercy"
+          ],
+          "aliases": [
+            "Battle of Uhud"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/stories/seerah_moments/uhud_trial_and_return/manifest.json"
         }
       ]
     }

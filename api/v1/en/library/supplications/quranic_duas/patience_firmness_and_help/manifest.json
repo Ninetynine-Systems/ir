@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "patience_firmness_and_help",
+  "title": "Patience, Firmness, and Help",
+  "summary": "The Quranic dua of believers asking Allah for poured patience, firm feet, and help against disbelief.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Baqarah 2:250"
+  ],
+  "tags": [
+    "patience",
+    "steadfastness",
+    "help"
+  ],
+  "keywords": [
+    "2:250",
+    "patience",
+    "firmness",
+    "talut",
+    "jalut"
+  ],
+  "aliases": [
+    "Rabbana Afrigh Alayna Sabran"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_patience_steadfastness_and_help",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ",
+      "transliteration": "Rabbana afrigh alayna sabran, wa thabbit aqdamana, wansurna alal-qawmil-kafirin.",
+      "translation": "Our Lord, pour upon us patience, make firm our feet, and grant us help against the disbelieving people.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Baqarah 2:250",
+      "repeat": null
+    }
+  ]
+}

@@ -6,8 +6,8 @@
   "groups": [
     {
       "slug": "quranic_duas",
-      "title": "কুরআনের দু'আ",
-      "description": "কুরআনে উদ্ধৃত দু'আ, নির্ভুল আরবি, বাংলা উচ্চারণ ও সংক্ষিপ্ত প্রেক্ষাপটসহ।",
+      "title": "কুরআনিক দু'আ",
+      "description": "কুরআনে সরাসরি উদ্ধৃত দু'আ, নির্ভুল আরবি পাঠ ও সংক্ষিপ্ত প্রেক্ষাপটসহ।",
       "items": [
         {
           "slug": "accept_from_us",
@@ -123,13 +123,153 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/supplications/quranic_duas/increase_me_in_knowledge/manifest.json"
+        },
+        {
+          "slug": "complete_our_light",
+          "title": "আমাদের আলো পূর্ণ করো",
+          "summary": "যেদিন মুমিনরা আল্লাহর রহমত চাইবে, সেদিনের আলো পূর্ণতা ও ক্ষমার জন্য কুরআনিক দু'আ।",
+          "tags": [
+            "light",
+            "forgiveness",
+            "hereafter"
+          ],
+          "keywords": [
+            "আলো",
+            "ক্ষমা",
+            "আখিরাত",
+            "নূর",
+            "৬৬:৮",
+            "66:8"
+          ],
+          "aliases": [
+            "রব্বানা আতমিম লানা নূরানা"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/complete_our_light/manifest.json"
+        },
+        {
+          "slug": "protection_from_jahannam",
+          "title": "জাহান্নাম থেকে রক্ষা",
+          "summary": "আর-রহমানের বান্দাদের দু'আ, যাতে তারা আল্লাহর কাছে জাহান্নামের শাস্তি সরিয়ে দেওয়ার প্রার্থনা করে।",
+          "tags": [
+            "protection",
+            "hereafter",
+            "fear"
+          ],
+          "keywords": [
+            "জাহান্নাম",
+            "আগুন",
+            "রক্ষা",
+            "আখিরাত",
+            "২৫:৬৫",
+            "25:65"
+          ],
+          "aliases": [
+            "রব্বানা ইসরিফ আন্না আযাবা জাহান্নাম"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/protection_from_jahannam/manifest.json"
+        },
+        {
+          "slug": "righteous_family_and_leadership",
+          "title": "নেক পরিবার ও নেতৃত্ব",
+          "summary": "পরিবারে চোখের শীতলতা এবং মুত্তাকীদের জন্য উত্তম উদাহরণ হওয়ার কুরআনিক দু'আ।",
+          "tags": [
+            "family",
+            "righteousness",
+            "leadership"
+          ],
+          "keywords": [
+            "পরিবার",
+            "সন্তান",
+            "মুত্তাকি",
+            "নেতৃত্ব",
+            "২৫:৭৪",
+            "25:74"
+          ],
+          "aliases": [
+            "রব্বানা হাব লানা মিন আযওয়াজিনা"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/righteous_family_and_leadership/manifest.json"
+        },
+        {
+          "slug": "forgive_us_and_our_brothers",
+          "title": "আমাদের ও আমাদের ভাইদের ক্ষমা করো",
+          "summary": "মুমিনদের জন্য ক্ষমা এবং অন্তর থেকে বিদ্বেষ দূর করার কুরআনিক দু'আ।",
+          "tags": [
+            "forgiveness",
+            "brotherhood",
+            "heart"
+          ],
+          "keywords": [
+            "ক্ষমা",
+            "মুমিন",
+            "ভাই",
+            "বিদ্বেষ",
+            "অন্তর",
+            "৫৯:১০",
+            "59:10"
+          ],
+          "aliases": [
+            "রব্বানাগফির লানা ওয়া লি-ইখওয়ানিনা"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/forgive_us_and_our_brothers/manifest.json"
+        },
+        {
+          "slug": "patience_firmness_and_help",
+          "title": "ধৈর্য, দৃঢ়তা, ও সাহায্য",
+          "summary": "ধৈর্য বর্ষণ, পা দৃঢ় রাখা, এবং কুফরের বিরুদ্ধে সাহায্যের জন্য মুমিনদের কুরআনিক দু'আ।",
+          "tags": [
+            "patience",
+            "steadfastness",
+            "help"
+          ],
+          "keywords": [
+            "ধৈর্য",
+            "দৃঢ়তা",
+            "সাহায্য",
+            "তালুত",
+            "জালুত",
+            "২:২৫০",
+            "2:250"
+          ],
+          "aliases": [
+            "রব্বানা আফরিগ আলাইনা সাবরান"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/patience_firmness_and_help/manifest.json"
+        },
+        {
+          "slug": "expand_my_chest",
+          "title": "আমার বক্ষ প্রশস্ত করো",
+          "summary": "মূসা আলাইহিস সালামের কুরআনিক প্রার্থনা: অন্তরের প্রশস্ততা, কাজের সহজতা, এবং বোঝার মতো বক্তব্য।",
+          "tags": [
+            "ease",
+            "speech",
+            "calling_to_allah"
+          ],
+          "keywords": [
+            "মূসা",
+            "কথা",
+            "সহজতা",
+            "দাওয়াহ",
+            "২০:২৫",
+            "20:25"
+          ],
+          "aliases": [
+            "রব্বিশরাহ লী সদরী"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/supplications/quranic_duas/expand_my_chest/manifest.json"
         }
       ]
     },
     {
       "slug": "distress_and_relief",
       "title": "কষ্ট ও মুক্তি",
-      "description": "কষ্ট, দুশ্চিন্তা, চাপ ও আল্লাহর দিকে ফিরে আসার সময়ে পড়ার দু'আ।",
+      "description": "কষ্ট, ভয়, দুঃখ, এবং আল্লাহর দিকে ফিরে আসার জন্য প্রমাণিত দু'আ।",
       "items": [
         {
           "slug": "dua_of_yunus",
@@ -182,7 +322,7 @@
     {
       "slug": "forgiveness_and_tawbah",
       "title": "ক্ষমা ও তাওবা",
-      "description": "গুনাহের পর তাওবা, ক্ষমা প্রার্থনা ও অন্তর ফেরানোর দু'আ।",
+      "description": "গুনাহের পর ক্ষমা, ইস্তিগফার, এবং আল্লাহর দিকে আন্তরিক ফিরে আসার দু'আ।",
       "items": [
         {
           "slug": "adam_repentance",

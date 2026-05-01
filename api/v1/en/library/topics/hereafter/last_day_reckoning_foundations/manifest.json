@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "topics",
+  "group": "hereafter",
+  "slug": "last_day_reckoning_foundations",
+  "title": "Last Day & Reckoning Foundations",
+  "summary": "A Quran-grounded introduction to resurrection, records, scales, and accountability without speculative timelines.",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "Surah Az-Zumar 39:68",
+    "Surah Al-Anbiya 21:47",
+    "Surah Al-Inshiqaq 84:7-12",
+    "Surah Az-Zalzalah 99:1-8",
+    "Surah Al-Qari'ah 101:6-11"
+  ],
+  "tags": [
+    "last_day",
+    "reckoning",
+    "accountability"
+  ],
+  "keywords": [
+    "resurrection",
+    "scales",
+    "records",
+    "qiyamah",
+    "reckoning",
+    "hereafter"
+  ],
+  "aliases": [
+    "Day of Judgment Foundations"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

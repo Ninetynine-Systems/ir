@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "complete_our_light",
+  "title": "আমাদের আলো পূর্ণ করো",
+  "summary": "যেদিন মুমিনরা আল্লাহর রহমত চাইবে, সেদিনের আলো পূর্ণতা ও ক্ষমার জন্য কুরআনিক দু'আ।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আত-তাহরীম ৬৬:৮"
+  ],
+  "tags": [
+    "light",
+    "forgiveness",
+    "hereafter"
+  ],
+  "keywords": [
+    "আলো",
+    "ক্ষমা",
+    "আখিরাত",
+    "নূর",
+    "৬৬:৮",
+    "66:8"
+  ],
+  "aliases": [
+    "রব্বানা আতমিম লানা নূরানা"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_light_and_forgiveness",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا أَتْمِمْ لَنَا نُورَنَا وَاغْفِرْ لَنَا إِنَّكَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+      "transliteration": "রব্বানা আতমিম লানা নূরানা ওয়াগফির লানা। ইন্নাকা আলা কুল্লি শাইইন কাদীর।",
+      "translation": "হে আমাদের রব, আমাদের জন্য আমাদের আলো পূর্ণ করে দাও এবং আমাদের ক্ষমা করো। নিশ্চয়ই তুমি সব কিছুর ওপর ক্ষমতাবান।",
+      "source_type": "quran",
+      "source_ref": "সূরা আত-তাহরীম ৬৬:৮",
+      "repeat": null
+    }
+  ]
+}

@@ -2,12 +2,12 @@
   "schema_version": 1,
   "locale": "bn",
   "section": "stories",
-  "title": "কাহিনি",
+  "title": "গল্প",
   "groups": [
     {
       "slug": "prophets_and_messengers",
-      "title": "নবী ও রাসূল",
-      "description": "কুরআন ও গ্রহণযোগ্য সহিহ বর্ণনার আলোকে নবী-রাসূলদের জীবনকাহিনি।",
+      "title": "নবী ও রাসূলগণ",
+      "description": "কুরআন ও গ্রহণযোগ্য সহিহ বর্ণনার আলোকে নবীদের জীবন থেকে সংযত, সূত্রভিত্তিক পাঠ।",
       "items": [
         {
           "slug": "prophet_ibrahim",
@@ -111,8 +111,8 @@
     },
     {
       "slug": "quranic_stories",
-      "title": "কুরআনিক কাহিনি",
-      "description": "কুরআনে সরাসরি উল্লেখিত কাহিনি, মূল শিক্ষা অক্ষুণ্ন রেখে।",
+      "title": "কুরআনিক গল্প",
+      "description": "কুরআনে সরাসরি উল্লেখিত ঘটনাগুলো, ওহির ভাষ্য ও শিক্ষার কাছাকাছি রেখে উপস্থাপন।",
       "items": [
         {
           "slug": "companions_of_the_cave",
@@ -159,6 +159,104 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
+        },
+        {
+          "slug": "talut_and_jalut",
+          "title": "তালুত ও জালুত",
+          "summary": "তালুত, নদীর পরীক্ষা, ধৈর্যশীল মুমিন, এবং দাউদের মাধ্যমে আল্লাহর বিজয়দান নিয়ে সংযত কুরআনিক বর্ণনা।",
+          "tags": [
+            "patience",
+            "leadership",
+            "trust_in_allah"
+          ],
+          "keywords": [
+            "তালুত",
+            "জালুত",
+            "দাউদ",
+            "নদীর পরীক্ষা",
+            "ধৈর্য",
+            "2:250"
+          ],
+          "aliases": [
+            "তালুত ও গোলিয়াথ"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/stories/quranic_stories/talut_and_jalut/manifest.json"
+        },
+        {
+          "slug": "owners_of_the_garden",
+          "title": "বাগানের মালিকেরা",
+          "summary": "দান আটকে রাখা, হঠাৎ ক্ষতি, এবং নিজের ভরসা থেকে আল্লাহর দিকে ফিরে আসা নিয়ে কুরআনিক গল্প।",
+          "tags": [
+            "gratitude",
+            "charity",
+            "accountability"
+          ],
+          "keywords": [
+            "বাগানের মালিক",
+            "সূরা কলম",
+            "দান",
+            "কৃতজ্ঞতা",
+            "68:17"
+          ],
+          "aliases": [
+            "বাগানওয়ালারা"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/stories/quranic_stories/owners_of_the_garden/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "seerah_moments",
+      "title": "সীরাতের মুহূর্ত",
+      "description": "রাসূলুল্লাহ ﷺ-এর জীবনের নির্দিষ্ট মুহূর্ত, কুরআনিক আয়াত ও গ্রহণযোগ্য সহিহ সূত্রে সীমাবদ্ধ রেখে।",
+      "items": [
+        {
+          "slug": "badr_help_and_gratitude",
+          "title": "বদর: সাহায্য ও কৃতজ্ঞতা",
+          "summary": "বদর, আল্লাহর সাহায্য, এবং বিজয়ের পর অন্তরে যে বিনয় থাকা উচিত - এ নিয়ে কুরআনভিত্তিক সীরাত মুহূর্ত।",
+          "tags": [
+            "badr",
+            "help",
+            "gratitude"
+          ],
+          "keywords": [
+            "বদর",
+            "বদরের যুদ্ধ",
+            "ফিরিশতা",
+            "বিজয়",
+            "কৃতজ্ঞতা",
+            "3:123"
+          ],
+          "aliases": [
+            "বদরের যুদ্ধ"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/stories/seerah_moments/badr_help_and_gratitude/manifest.json"
+        },
+        {
+          "slug": "uhud_trial_and_return",
+          "title": "উহুদ: পরীক্ষা ও ফিরে আসা",
+          "summary": "আনুগত্য, পরীক্ষা, রহমত, এবং ক্ষতির পর নবায়ন নিয়ে উহুদের কুরআনভিত্তিক সংযত পাঠ।",
+          "tags": [
+            "uhud",
+            "obedience",
+            "trial"
+          ],
+          "keywords": [
+            "উহুদ",
+            "উহুদের যুদ্ধ",
+            "আনুগত্য",
+            "পরীক্ষা",
+            "রহমত",
+            "3:152"
+          ],
+          "aliases": [
+            "উহুদের যুদ্ধ"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/stories/seerah_moments/uhud_trial_and_return/manifest.json"
         }
       ]
     }

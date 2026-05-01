@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "signs_and_creation",
+  "slug": "creation_and_purpose_foundations",
+  "title": "সৃষ্টি ও উদ্দেশ্যের ভিত্তি",
+  "summary": "সৃষ্টিকে নিদর্শন, জীবনকে পরীক্ষা, এবং ইবাদতকে ওহিতে বর্ণিত উদ্দেশ্য হিসেবে বোঝার সংক্ষিপ্ত আলোচনা।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আল-আম্বিয়া ২১:৩০",
+    "সূরা আল-মু'মিনুন ২৩:১২-১৬",
+    "সূরা আয-যারিয়াত ৫১:৫৬",
+    "সূরা আল-মুলক ৬৭:২"
+  ],
+  "tags": [
+    "creation",
+    "purpose",
+    "worship"
+  ],
+  "keywords": [
+    "সৃষ্টি",
+    "উদ্দেশ্য",
+    "ইবাদত",
+    "জীবনের পরীক্ষা",
+    "পানি",
+    "51:56"
+  ],
+  "aliases": [
+    "সৃষ্টির উদ্দেশ্য"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

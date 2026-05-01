@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "group": "quranic_stories",
+  "slug": "owners_of_the_garden",
+  "title": "Owners of the Garden",
+  "summary": "A Quranic story about withheld charity, sudden loss, and the return from self-reliance to Allah.",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "Surah Al-Qalam 68:17-33"
+  ],
+  "tags": [
+    "gratitude",
+    "charity",
+    "accountability"
+  ],
+  "keywords": [
+    "owners of the garden",
+    "surah qalam",
+    "charity",
+    "gratitude"
+  ],
+  "aliases": [
+    "Companions of the Garden"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_a_plan_without_exception.md",
+      "kind": "a_plan_without_exception",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_the_garden_changed.md",
+      "kind": "the_garden_changed",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_learning_after_loss.md",
+      "kind": "learning_after_loss",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

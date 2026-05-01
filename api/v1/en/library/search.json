@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "locale": "en",
-  "generated_at": "2026-04-24T12:00:00Z",
-  "item_count": 21,
+  "generated_at": "2026-05-01T00:00:00Z",
+  "item_count": 35,
   "entries": [
     {
       "id": "stories:prophets_and_messengers:prophet_ibrahim",
@@ -160,82 +160,104 @@
       "detail_url": "/api/v1/en/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
     },
     {
-      "id": "supplications:distress_and_relief:dua_of_yunus",
-      "section": "supplications",
-      "group": "distress_and_relief",
-      "slug": "dua_of_yunus",
-      "title": "Dua of Yunus",
-      "summary": "The supplication of Yunus in darkness and distress, carried by tawhid and repentance.",
+      "id": "stories:quranic_stories:talut_and_jalut",
+      "section": "stories",
+      "group": "quranic_stories",
+      "slug": "talut_and_jalut",
+      "title": "Talut and Jalut",
+      "summary": "A restrained Quranic retelling of Talut, the river test, patient believers, and Allah granting victory through Dawud.",
       "tags": [
-        "repentance",
-        "distress",
-        "tawhid"
+        "patience",
+        "leadership",
+        "trust_in_allah"
       ],
       "keywords": [
-        "21:87",
-        "yunus",
-        "distress",
-        "repentance",
-        "la ilaha illa anta"
+        "talut",
+        "jalut",
+        "dawud",
+        "river test",
+        "patience"
       ],
       "aliases": [
-        "Dua of Dhun-Nun"
+        "Saul and Goliath",
+        "Talut and Goliath"
       ],
       "difficulty": "beginner",
-      "occasion": "distress_and_repentance",
-      "detail_url": "/api/v1/en/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+      "detail_url": "/api/v1/en/library/stories/quranic_stories/talut_and_jalut/manifest.json"
     },
     {
-      "id": "supplications:distress_and_relief:musa_plea_for_good",
-      "section": "supplications",
-      "group": "distress_and_relief",
-      "slug": "musa_plea_for_good",
-      "title": "Musa's Plea in Need",
-      "summary": "A brief Quranic plea spoken by Musa in need after service, fatigue, and uncertainty about what would come next.",
+      "id": "stories:quranic_stories:owners_of_the_garden",
+      "section": "stories",
+      "group": "quranic_stories",
+      "slug": "owners_of_the_garden",
+      "title": "Owners of the Garden",
+      "summary": "A Quranic story about withheld charity, sudden loss, and the return from self-reliance to Allah.",
       "tags": [
-        "need",
-        "provision",
-        "humility"
+        "gratitude",
+        "charity",
+        "accountability"
       ],
       "keywords": [
-        "28:24",
-        "musa",
-        "need",
-        "provision",
-        "good"
+        "owners of the garden",
+        "surah qalam",
+        "charity",
+        "gratitude"
       ],
       "aliases": [
-        "Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
+        "Companions of the Garden"
       ],
       "difficulty": "beginner",
-      "occasion": "need_and_provision",
-      "detail_url": "/api/v1/en/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
+      "detail_url": "/api/v1/en/library/stories/quranic_stories/owners_of_the_garden/manifest.json"
     },
     {
-      "id": "supplications:forgiveness_and_tawbah:adam_repentance",
-      "section": "supplications",
-      "group": "forgiveness_and_tawbah",
-      "slug": "adam_repentance",
-      "title": "Adam's Repentance",
-      "summary": "The Quranic repentance plea spoken after the slip of Adam and his wife, shaped by confession, forgiveness, and hope.",
+      "id": "stories:seerah_moments:badr_help_and_gratitude",
+      "section": "stories",
+      "group": "seerah_moments",
+      "slug": "badr_help_and_gratitude",
+      "title": "Badr: Help and Gratitude",
+      "summary": "A Quran-grounded seerah moment on Badr, Allah's help, and the humility victory should leave behind.",
       "tags": [
-        "repentance",
-        "forgiveness",
-        "mercy"
+        "badr",
+        "help",
+        "gratitude"
       ],
       "keywords": [
-        "7:23",
-        "adam",
-        "repentance",
-        "forgiveness",
+        "badr",
+        "battle of badr",
+        "angels",
+        "victory",
+        "gratitude"
+      ],
+      "aliases": [
+        "Battle of Badr"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/stories/seerah_moments/badr_help_and_gratitude/manifest.json"
+    },
+    {
+      "id": "stories:seerah_moments:uhud_trial_and_return",
+      "section": "stories",
+      "group": "seerah_moments",
+      "slug": "uhud_trial_and_return",
+      "title": "Uhud: Trial and Return",
+      "summary": "A restrained Quran-grounded reading of Uhud as a lesson in obedience, trial, mercy, and renewal after loss.",
+      "tags": [
+        "uhud",
+        "obedience",
+        "trial"
+      ],
+      "keywords": [
+        "uhud",
+        "battle of uhud",
+        "obedience",
+        "trial",
         "mercy"
       ],
       "aliases": [
-        "Rabbana Zalamna Anfusana"
+        "Battle of Uhud"
       ],
       "difficulty": "beginner",
-      "occasion": "repentance_after_sin",
-      "detail_url": "/api/v1/en/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
+      "detail_url": "/api/v1/en/library/stories/seerah_moments/uhud_trial_and_return/manifest.json"
     },
     {
       "id": "supplications:quranic_duas:accept_from_us",
@@ -368,54 +390,238 @@
       "detail_url": "/api/v1/en/library/supplications/quranic_duas/increase_me_in_knowledge/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:taqwa_foundations",
-      "section": "topics",
-      "group": "heart_and_character",
-      "slug": "taqwa_foundations",
-      "title": "Taqwa Foundations",
-      "summary": "An introduction to taqwa as mindful obedience, inward caution, and a life shaped by awareness of Allah.",
+      "id": "supplications:quranic_duas:complete_our_light",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "complete_our_light",
+      "title": "Complete Our Light",
+      "summary": "A Quranic plea for completed light and forgiveness on the Day when believers seek Allah's mercy.",
       "tags": [
-        "taqwa",
-        "heart",
-        "obedience"
+        "light",
+        "forgiveness",
+        "hereafter"
       ],
       "keywords": [
-        "taqwa",
-        "god consciousness",
-        "mindful obedience",
-        "restraint",
-        "obedience"
+        "66:8",
+        "light",
+        "forgiveness",
+        "nur",
+        "hereafter"
       ],
       "aliases": [
-        "God-Consciousness Foundations"
+        "Rabbana Atmim Lana Nurana"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+      "occasion": "asking_for_light_and_forgiveness",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/complete_our_light/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:tawbah_foundations",
-      "section": "topics",
-      "group": "heart_and_character",
-      "slug": "tawbah_foundations",
-      "title": "Tawbah Foundations",
-      "summary": "A beginner-safe guide to repentance as returning to Allah with honesty, hope, and renewed obedience.",
+      "id": "supplications:quranic_duas:protection_from_jahannam",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "protection_from_jahannam",
+      "title": "Protection From Jahannam",
+      "summary": "A supplication of the servants of Ar-Rahman asking Allah to turn away the punishment of Jahannam.",
       "tags": [
-        "tawbah",
+        "protection",
+        "hereafter",
+        "fear"
+      ],
+      "keywords": [
+        "25:65",
+        "25:66",
+        "jahannam",
+        "fire",
+        "protection"
+      ],
+      "aliases": [
+        "Rabbana Isrif Anna Adhaba Jahannam"
+      ],
+      "difficulty": "beginner",
+      "occasion": "seeking_protection_from_the_fire",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/protection_from_jahannam/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:righteous_family_and_leadership",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "righteous_family_and_leadership",
+      "title": "Righteous Family and Leadership",
+      "summary": "A Quranic dua asking Allah for comfort in family and to make believers an example for the righteous.",
+      "tags": [
+        "family",
+        "righteousness",
+        "leadership"
+      ],
+      "keywords": [
+        "25:74",
+        "family",
+        "children",
+        "muttaqin",
+        "leadership"
+      ],
+      "aliases": [
+        "Rabbana Hab Lana Min Azwajina"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_for_righteous_family_and_guided_example",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/righteous_family_and_leadership/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:forgive_us_and_our_brothers",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "forgive_us_and_our_brothers",
+      "title": "Forgive Us and Our Brothers",
+      "summary": "A Quranic dua asking forgiveness for believers and asking Allah to remove rancor from the heart.",
+      "tags": [
+        "forgiveness",
+        "brotherhood",
+        "heart"
+      ],
+      "keywords": [
+        "59:10",
+        "forgiveness",
+        "believers",
+        "rancor",
+        "hearts"
+      ],
+      "aliases": [
+        "Rabbana-ghfir Lana Wa Li-Ikhwanina"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_forgiveness_and_purification_from_rancor",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/forgive_us_and_our_brothers/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:patience_firmness_and_help",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "patience_firmness_and_help",
+      "title": "Patience, Firmness, and Help",
+      "summary": "The Quranic dua of believers asking Allah for poured patience, firm feet, and help against disbelief.",
+      "tags": [
+        "patience",
+        "steadfastness",
+        "help"
+      ],
+      "keywords": [
+        "2:250",
+        "patience",
+        "firmness",
+        "talut",
+        "jalut"
+      ],
+      "aliases": [
+        "Rabbana Afrigh Alayna Sabran"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_for_patience_steadfastness_and_help",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/patience_firmness_and_help/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:expand_my_chest",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "expand_my_chest",
+      "title": "Expand My Chest",
+      "summary": "The Quranic plea of Musa asking Allah for openness, ease, and speech that people can understand.",
+      "tags": [
+        "ease",
+        "speech",
+        "calling_to_allah"
+      ],
+      "keywords": [
+        "20:25",
+        "20:28",
+        "musa",
+        "speech",
+        "ease"
+      ],
+      "aliases": [
+        "Rabbi Ishrah Li Sadri"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_for_ease_clarity_and_understood_speech",
+      "detail_url": "/api/v1/en/library/supplications/quranic_duas/expand_my_chest/manifest.json"
+    },
+    {
+      "id": "supplications:distress_and_relief:dua_of_yunus",
+      "section": "supplications",
+      "group": "distress_and_relief",
+      "slug": "dua_of_yunus",
+      "title": "Dua of Yunus",
+      "summary": "The supplication of Yunus in darkness and distress, carried by tawhid and repentance.",
+      "tags": [
         "repentance",
+        "distress",
+        "tawhid"
+      ],
+      "keywords": [
+        "21:87",
+        "yunus",
+        "distress",
+        "repentance",
+        "la ilaha illa anta"
+      ],
+      "aliases": [
+        "Dua of Dhun-Nun"
+      ],
+      "difficulty": "beginner",
+      "occasion": "distress_and_repentance",
+      "detail_url": "/api/v1/en/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+    },
+    {
+      "id": "supplications:distress_and_relief:musa_plea_for_good",
+      "section": "supplications",
+      "group": "distress_and_relief",
+      "slug": "musa_plea_for_good",
+      "title": "Musa's Plea in Need",
+      "summary": "A brief Quranic plea spoken by Musa in need after service, fatigue, and uncertainty about what would come next.",
+      "tags": [
+        "need",
+        "provision",
+        "humility"
+      ],
+      "keywords": [
+        "28:24",
+        "musa",
+        "need",
+        "provision",
+        "good"
+      ],
+      "aliases": [
+        "Rabbi Inni Lima Anzalta Ilayya Min Khayrin Faqir"
+      ],
+      "difficulty": "beginner",
+      "occasion": "need_and_provision",
+      "detail_url": "/api/v1/en/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
+    },
+    {
+      "id": "supplications:forgiveness_and_tawbah:adam_repentance",
+      "section": "supplications",
+      "group": "forgiveness_and_tawbah",
+      "slug": "adam_repentance",
+      "title": "Adam's Repentance",
+      "summary": "The Quranic repentance plea spoken after the slip of Adam and his wife, shaped by confession, forgiveness, and hope.",
+      "tags": [
+        "repentance",
+        "forgiveness",
         "mercy"
       ],
       "keywords": [
-        "tawbah",
+        "7:23",
+        "adam",
         "repentance",
         "forgiveness",
-        "return to allah",
-        "hope"
+        "mercy"
       ],
       "aliases": [
-        "Repentance Foundations"
+        "Rabbana Zalamna Anfusana"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/en/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+      "occasion": "repentance_after_sin",
+      "detail_url": "/api/v1/en/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
     },
     {
       "id": "topics:pillars_of_iman:iman_foundations",
@@ -541,6 +747,160 @@
       ],
       "difficulty": "beginner",
       "detail_url": "/api/v1/en/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:taqwa_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "taqwa_foundations",
+      "title": "Taqwa Foundations",
+      "summary": "An introduction to taqwa as mindful obedience, inward caution, and a life shaped by awareness of Allah.",
+      "tags": [
+        "taqwa",
+        "heart",
+        "obedience"
+      ],
+      "keywords": [
+        "taqwa",
+        "god consciousness",
+        "mindful obedience",
+        "restraint",
+        "obedience"
+      ],
+      "aliases": [
+        "God-Consciousness Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:tawbah_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "tawbah_foundations",
+      "title": "Tawbah Foundations",
+      "summary": "A beginner-safe guide to repentance as returning to Allah with honesty, hope, and renewed obedience.",
+      "tags": [
+        "tawbah",
+        "repentance",
+        "mercy"
+      ],
+      "keywords": [
+        "tawbah",
+        "repentance",
+        "forgiveness",
+        "return to allah",
+        "hope"
+      ],
+      "aliases": [
+        "Repentance Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+    },
+    {
+      "id": "topics:hereafter:last_day_reckoning_foundations",
+      "section": "topics",
+      "group": "hereafter",
+      "slug": "last_day_reckoning_foundations",
+      "title": "Last Day & Reckoning Foundations",
+      "summary": "A Quran-grounded introduction to resurrection, records, scales, and accountability without speculative timelines.",
+      "tags": [
+        "last_day",
+        "reckoning",
+        "accountability"
+      ],
+      "keywords": [
+        "resurrection",
+        "scales",
+        "records",
+        "qiyamah",
+        "reckoning",
+        "hereafter"
+      ],
+      "aliases": [
+        "Day of Judgment Foundations"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/hereafter/last_day_reckoning_foundations/manifest.json"
+    },
+    {
+      "id": "topics:signs_and_creation:cosmic_signs_foundations",
+      "section": "topics",
+      "group": "signs_and_creation",
+      "slug": "cosmic_signs_foundations",
+      "title": "Cosmic Signs Foundations",
+      "summary": "A beginner-safe guide to the sun, moon, stars, and ordered heavens as signs that point back to Allah.",
+      "tags": [
+        "cosmos",
+        "signs",
+        "reflection"
+      ],
+      "keywords": [
+        "sun",
+        "moon",
+        "stars",
+        "orbit",
+        "heavens",
+        "signs"
+      ],
+      "aliases": [
+        "Sun and Moon Signs",
+        "Signs in the Heavens"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/signs_and_creation/cosmic_signs_foundations/manifest.json"
+    },
+    {
+      "id": "topics:signs_and_creation:creation_and_purpose_foundations",
+      "section": "topics",
+      "group": "signs_and_creation",
+      "slug": "creation_and_purpose_foundations",
+      "title": "Creation & Purpose Foundations",
+      "summary": "A concise guide to creation as a sign, human life as a test, and worship as the purpose named by revelation.",
+      "tags": [
+        "creation",
+        "purpose",
+        "worship"
+      ],
+      "keywords": [
+        "creation",
+        "purpose",
+        "worship",
+        "life test",
+        "water"
+      ],
+      "aliases": [
+        "Purpose of Creation"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/signs_and_creation/creation_and_purpose_foundations/manifest.json"
+    },
+    {
+      "id": "topics:unseen_world:angels_jinn_and_iblis_foundations",
+      "section": "topics",
+      "group": "unseen_world",
+      "slug": "angels_jinn_and_iblis_foundations",
+      "title": "Angels, Jinn & Iblis Foundations",
+      "summary": "A restrained foundations guide to unseen created beings, their limits, and the lessons revelation gives about obedience and pride.",
+      "tags": [
+        "unseen",
+        "angels",
+        "jinn"
+      ],
+      "keywords": [
+        "angels",
+        "jinn",
+        "iblis",
+        "adam",
+        "unseen",
+        "obedience"
+      ],
+      "aliases": [
+        "Unseen Created Beings"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/en/library/topics/unseen_world/angels_jinn_and_iblis_foundations/manifest.json"
     }
   ]
 }

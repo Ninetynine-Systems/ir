@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "righteous_family_and_leadership",
+  "title": "Righteous Family and Leadership",
+  "summary": "A Quranic dua asking Allah for comfort in family and to make believers an example for the righteous.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Furqan 25:74"
+  ],
+  "tags": [
+    "family",
+    "righteousness",
+    "leadership"
+  ],
+  "keywords": [
+    "25:74",
+    "family",
+    "children",
+    "muttaqin",
+    "leadership"
+  ],
+  "aliases": [
+    "Rabbana Hab Lana Min Azwajina"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_righteous_family_and_guided_example",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "transliteration": "Rabbana hab lana min azwajina wa dhurriyyatina qurrata a'yunin waj'alna lil-muttaqina imama.",
+      "translation": "Our Lord, grant us from our spouses and offspring comfort of eyes, and make us an example for the righteous.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Furqan 25:74",
+      "repeat": null
+    }
+  ]
+}

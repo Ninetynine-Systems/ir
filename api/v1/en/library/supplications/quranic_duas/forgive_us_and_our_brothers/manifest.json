@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "forgive_us_and_our_brothers",
+  "title": "Forgive Us and Our Brothers",
+  "summary": "A Quranic dua asking forgiveness for believers and asking Allah to remove rancor from the heart.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Al-Hashr 59:10"
+  ],
+  "tags": [
+    "forgiveness",
+    "brotherhood",
+    "heart"
+  ],
+  "keywords": [
+    "59:10",
+    "forgiveness",
+    "believers",
+    "rancor",
+    "hearts"
+  ],
+  "aliases": [
+    "Rabbana-ghfir Lana Wa Li-Ikhwanina"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_forgiveness_and_purification_from_rancor",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَحِيمٌ",
+      "transliteration": "Rabbanaghfir lana wa li-ikhwanina alladhina sabaquna bil-iman, wa la taj'al fi qulubina ghillan lilladhina amanu. Rabbana innaka ra'ufur-rahim.",
+      "translation": "Our Lord, forgive us and our brothers who preceded us in faith, and do not place in our hearts any rancor toward those who believe. Our Lord, indeed You are Kind and Merciful.",
+      "source_type": "quran",
+      "source_ref": "Surah Al-Hashr 59:10",
+      "repeat": null
+    }
+  ]
+}

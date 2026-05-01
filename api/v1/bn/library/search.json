@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "locale": "bn",
-  "generated_at": "2026-04-24T12:00:00Z",
-  "item_count": 21,
+  "generated_at": "2026-05-01T00:00:00Z",
+  "item_count": 35,
   "entries": [
     {
       "id": "stories:prophets_and_messengers:prophet_ibrahim",
@@ -167,85 +167,107 @@
       "detail_url": "/api/v1/bn/library/stories/quranic_stories/dhul_qarnayn/manifest.json"
     },
     {
-      "id": "supplications:distress_and_relief:dua_of_yunus",
-      "section": "supplications",
-      "group": "distress_and_relief",
-      "slug": "dua_of_yunus",
-      "title": "ইউনুস আলাইহিস সালামের দু'আ",
-      "summary": "অন্ধকার, কষ্ট ও তাওবার সময়ে পড়ার কুরআনিক দু'আ।",
+      "id": "stories:quranic_stories:talut_and_jalut",
+      "section": "stories",
+      "group": "quranic_stories",
+      "slug": "talut_and_jalut",
+      "title": "তালুত ও জালুত",
+      "summary": "তালুত, নদীর পরীক্ষা, ধৈর্যশীল মুমিন, এবং দাউদের মাধ্যমে আল্লাহর বিজয়দান নিয়ে সংযত কুরআনিক বর্ণনা।",
       "tags": [
-        "repentance",
-        "distress",
-        "tawhid"
+        "patience",
+        "leadership",
+        "trust_in_allah"
       ],
       "keywords": [
-        "ইউনুস",
-        "কষ্ট",
-        "তাওবা",
-        "তাওহিদ",
-        "২১:৮৭",
-        "21:87"
+        "তালুত",
+        "জালুত",
+        "দাউদ",
+        "নদীর পরীক্ষা",
+        "ধৈর্য",
+        "2:250"
       ],
       "aliases": [
-        "লা ইলাহা ইল্লা আনতা সুবহানাকা"
+        "তালুত ও গোলিয়াথ"
       ],
       "difficulty": "beginner",
-      "occasion": "distress_and_repentance",
-      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+      "detail_url": "/api/v1/bn/library/stories/quranic_stories/talut_and_jalut/manifest.json"
     },
     {
-      "id": "supplications:distress_and_relief:musa_plea_for_good",
-      "section": "supplications",
-      "group": "distress_and_relief",
-      "slug": "musa_plea_for_good",
-      "title": "মূসা আলাইহিস সালামের প্রয়োজনের দু'আ",
-      "summary": "প্রয়োজন, ক্লান্তি ও অনিশ্চয়তার সময়ে মূসা আলাইহিস সালামের কুরআনিক প্রার্থনা।",
+      "id": "stories:quranic_stories:owners_of_the_garden",
+      "section": "stories",
+      "group": "quranic_stories",
+      "slug": "owners_of_the_garden",
+      "title": "বাগানের মালিকেরা",
+      "summary": "দান আটকে রাখা, হঠাৎ ক্ষতি, এবং নিজের ভরসা থেকে আল্লাহর দিকে ফিরে আসা নিয়ে কুরআনিক গল্প।",
       "tags": [
-        "need",
-        "provision",
-        "humility"
+        "gratitude",
+        "charity",
+        "accountability"
       ],
       "keywords": [
-        "মূসা",
-        "প্রয়োজন",
-        "রিযিক",
-        "কল্যাণ",
-        "২৮:২৪",
-        "28:24"
+        "বাগানের মালিক",
+        "সূরা কলম",
+        "দান",
+        "কৃতজ্ঞতা",
+        "68:17"
       ],
       "aliases": [
-        "রব্বি ইন্নি লিমা আনযালতা ইলাইয়া"
+        "বাগানওয়ালারা"
       ],
       "difficulty": "beginner",
-      "occasion": "need_and_provision",
-      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
+      "detail_url": "/api/v1/bn/library/stories/quranic_stories/owners_of_the_garden/manifest.json"
     },
     {
-      "id": "supplications:forgiveness_and_tawbah:adam_repentance",
-      "section": "supplications",
-      "group": "forgiveness_and_tawbah",
-      "slug": "adam_repentance",
-      "title": "আদম আলাইহিস সালামের তাওবার দু'আ",
-      "summary": "ভুলের পর স্বীকারোক্তি, ক্ষমা আর আশার ভাষায় কুরআনিক তাওবার দু'আ।",
+      "id": "stories:seerah_moments:badr_help_and_gratitude",
+      "section": "stories",
+      "group": "seerah_moments",
+      "slug": "badr_help_and_gratitude",
+      "title": "বদর: সাহায্য ও কৃতজ্ঞতা",
+      "summary": "বদর, আল্লাহর সাহায্য, এবং বিজয়ের পর অন্তরে যে বিনয় থাকা উচিত - এ নিয়ে কুরআনভিত্তিক সীরাত মুহূর্ত।",
       "tags": [
-        "repentance",
-        "forgiveness",
-        "mercy"
+        "badr",
+        "help",
+        "gratitude"
       ],
       "keywords": [
-        "আদম",
-        "তাওবা",
-        "ক্ষমা",
+        "বদর",
+        "বদরের যুদ্ধ",
+        "ফিরিশতা",
+        "বিজয়",
+        "কৃতজ্ঞতা",
+        "3:123"
+      ],
+      "aliases": [
+        "বদরের যুদ্ধ"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/stories/seerah_moments/badr_help_and_gratitude/manifest.json"
+    },
+    {
+      "id": "stories:seerah_moments:uhud_trial_and_return",
+      "section": "stories",
+      "group": "seerah_moments",
+      "slug": "uhud_trial_and_return",
+      "title": "উহুদ: পরীক্ষা ও ফিরে আসা",
+      "summary": "আনুগত্য, পরীক্ষা, রহমত, এবং ক্ষতির পর নবায়ন নিয়ে উহুদের কুরআনভিত্তিক সংযত পাঠ।",
+      "tags": [
+        "uhud",
+        "obedience",
+        "trial"
+      ],
+      "keywords": [
+        "উহুদ",
+        "উহুদের যুদ্ধ",
+        "আনুগত্য",
+        "পরীক্ষা",
         "রহমত",
-        "৭:২৩",
-        "7:23"
+        "3:152"
       ],
       "aliases": [
-        "রব্বানা যলামনা আনফুসানা"
+        "উহুদের যুদ্ধ"
       ],
       "difficulty": "beginner",
-      "occasion": "repentance_after_sin",
-      "detail_url": "/api/v1/bn/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
+      "detail_url": "/api/v1/bn/library/stories/seerah_moments/uhud_trial_and_return/manifest.json"
     },
     {
       "id": "supplications:quranic_duas:accept_from_us",
@@ -383,55 +405,249 @@
       "detail_url": "/api/v1/bn/library/supplications/quranic_duas/increase_me_in_knowledge/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:taqwa_foundations",
-      "section": "topics",
-      "group": "heart_and_character",
-      "slug": "taqwa_foundations",
-      "title": "তাকওয়ার মৌলিক ধারণা",
-      "summary": "আল্লাহ-সচেতন জীবন, সংযম, আর আনুগত্যের ভেতর তাকওয়াকে বোঝার সহজ পাঠ।",
+      "id": "supplications:quranic_duas:complete_our_light",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "complete_our_light",
+      "title": "আমাদের আলো পূর্ণ করো",
+      "summary": "যেদিন মুমিনরা আল্লাহর রহমত চাইবে, সেদিনের আলো পূর্ণতা ও ক্ষমার জন্য কুরআনিক দু'আ।",
       "tags": [
-        "taqwa",
-        "heart",
-        "obedience"
+        "light",
+        "forgiveness",
+        "hereafter"
       ],
       "keywords": [
-        "তাকওয়া",
-        "আল্লাহভীতি",
-        "সচেতনতা",
-        "সংযম",
-        "taqwa"
+        "আলো",
+        "ক্ষমা",
+        "আখিরাত",
+        "নূর",
+        "৬৬:৮",
+        "66:8"
       ],
       "aliases": [
-        "তাকওয়ার পাঠ"
+        "রব্বানা আতমিম লানা নূরানা"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/bn/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+      "occasion": "asking_for_light_and_forgiveness",
+      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/complete_our_light/manifest.json"
     },
     {
-      "id": "topics:heart_and_character:tawbah_foundations",
-      "section": "topics",
-      "group": "heart_and_character",
-      "slug": "tawbah_foundations",
-      "title": "তাওবার মৌলিক ধারণা",
-      "summary": "সততা, আশা, আর নতুন আনুগত্য নিয়ে আল্লাহর দিকে ফিরে আসার ভিত্তিগত গাইড।",
+      "id": "supplications:quranic_duas:protection_from_jahannam",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "protection_from_jahannam",
+      "title": "জাহান্নাম থেকে রক্ষা",
+      "summary": "আর-রহমানের বান্দাদের দু'আ, যাতে তারা আল্লাহর কাছে জাহান্নামের শাস্তি সরিয়ে দেওয়ার প্রার্থনা করে।",
       "tags": [
-        "tawbah",
+        "protection",
+        "hereafter",
+        "fear"
+      ],
+      "keywords": [
+        "জাহান্নাম",
+        "আগুন",
+        "রক্ষা",
+        "আখিরাত",
+        "২৫:৬৫",
+        "25:65"
+      ],
+      "aliases": [
+        "রব্বানা ইসরিফ আন্না আযাবা জাহান্নাম"
+      ],
+      "difficulty": "beginner",
+      "occasion": "seeking_protection_from_the_fire",
+      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/protection_from_jahannam/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:righteous_family_and_leadership",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "righteous_family_and_leadership",
+      "title": "নেক পরিবার ও নেতৃত্ব",
+      "summary": "পরিবারে চোখের শীতলতা এবং মুত্তাকীদের জন্য উত্তম উদাহরণ হওয়ার কুরআনিক দু'আ।",
+      "tags": [
+        "family",
+        "righteousness",
+        "leadership"
+      ],
+      "keywords": [
+        "পরিবার",
+        "সন্তান",
+        "মুত্তাকি",
+        "নেতৃত্ব",
+        "২৫:৭৪",
+        "25:74"
+      ],
+      "aliases": [
+        "রব্বানা হাব লানা মিন আযওয়াজিনা"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_for_righteous_family_and_guided_example",
+      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/righteous_family_and_leadership/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:forgive_us_and_our_brothers",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "forgive_us_and_our_brothers",
+      "title": "আমাদের ও আমাদের ভাইদের ক্ষমা করো",
+      "summary": "মুমিনদের জন্য ক্ষমা এবং অন্তর থেকে বিদ্বেষ দূর করার কুরআনিক দু'আ।",
+      "tags": [
+        "forgiveness",
+        "brotherhood",
+        "heart"
+      ],
+      "keywords": [
+        "ক্ষমা",
+        "মুমিন",
+        "ভাই",
+        "বিদ্বেষ",
+        "অন্তর",
+        "৫৯:১০",
+        "59:10"
+      ],
+      "aliases": [
+        "রব্বানাগফির লানা ওয়া লি-ইখওয়ানিনা"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_forgiveness_and_purification_from_rancor",
+      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/forgive_us_and_our_brothers/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:patience_firmness_and_help",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "patience_firmness_and_help",
+      "title": "ধৈর্য, দৃঢ়তা, ও সাহায্য",
+      "summary": "ধৈর্য বর্ষণ, পা দৃঢ় রাখা, এবং কুফরের বিরুদ্ধে সাহায্যের জন্য মুমিনদের কুরআনিক দু'আ।",
+      "tags": [
+        "patience",
+        "steadfastness",
+        "help"
+      ],
+      "keywords": [
+        "ধৈর্য",
+        "দৃঢ়তা",
+        "সাহায্য",
+        "তালুত",
+        "জালুত",
+        "২:২৫০",
+        "2:250"
+      ],
+      "aliases": [
+        "রব্বানা আফরিগ আলাইনা সাবরান"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_for_patience_steadfastness_and_help",
+      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/patience_firmness_and_help/manifest.json"
+    },
+    {
+      "id": "supplications:quranic_duas:expand_my_chest",
+      "section": "supplications",
+      "group": "quranic_duas",
+      "slug": "expand_my_chest",
+      "title": "আমার বক্ষ প্রশস্ত করো",
+      "summary": "মূসা আলাইহিস সালামের কুরআনিক প্রার্থনা: অন্তরের প্রশস্ততা, কাজের সহজতা, এবং বোঝার মতো বক্তব্য।",
+      "tags": [
+        "ease",
+        "speech",
+        "calling_to_allah"
+      ],
+      "keywords": [
+        "মূসা",
+        "কথা",
+        "সহজতা",
+        "দাওয়াহ",
+        "২০:২৫",
+        "20:25"
+      ],
+      "aliases": [
+        "রব্বিশরাহ লী সদরী"
+      ],
+      "difficulty": "beginner",
+      "occasion": "asking_for_ease_clarity_and_understood_speech",
+      "detail_url": "/api/v1/bn/library/supplications/quranic_duas/expand_my_chest/manifest.json"
+    },
+    {
+      "id": "supplications:distress_and_relief:dua_of_yunus",
+      "section": "supplications",
+      "group": "distress_and_relief",
+      "slug": "dua_of_yunus",
+      "title": "ইউনুস আলাইহিস সালামের দু'আ",
+      "summary": "অন্ধকার, কষ্ট ও তাওবার সময়ে পড়ার কুরআনিক দু'আ।",
+      "tags": [
         "repentance",
+        "distress",
+        "tawhid"
+      ],
+      "keywords": [
+        "ইউনুস",
+        "কষ্ট",
+        "তাওবা",
+        "তাওহিদ",
+        "২১:৮৭",
+        "21:87"
+      ],
+      "aliases": [
+        "লা ইলাহা ইল্লা আনতা সুবহানাকা"
+      ],
+      "difficulty": "beginner",
+      "occasion": "distress_and_repentance",
+      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/dua_of_yunus/manifest.json"
+    },
+    {
+      "id": "supplications:distress_and_relief:musa_plea_for_good",
+      "section": "supplications",
+      "group": "distress_and_relief",
+      "slug": "musa_plea_for_good",
+      "title": "মূসা আলাইহিস সালামের প্রয়োজনের দু'আ",
+      "summary": "প্রয়োজন, ক্লান্তি ও অনিশ্চয়তার সময়ে মূসা আলাইহিস সালামের কুরআনিক প্রার্থনা।",
+      "tags": [
+        "need",
+        "provision",
+        "humility"
+      ],
+      "keywords": [
+        "মূসা",
+        "প্রয়োজন",
+        "রিযিক",
+        "কল্যাণ",
+        "২৮:২৪",
+        "28:24"
+      ],
+      "aliases": [
+        "রব্বি ইন্নি লিমা আনযালতা ইলাইয়া"
+      ],
+      "difficulty": "beginner",
+      "occasion": "need_and_provision",
+      "detail_url": "/api/v1/bn/library/supplications/distress_and_relief/musa_plea_for_good/manifest.json"
+    },
+    {
+      "id": "supplications:forgiveness_and_tawbah:adam_repentance",
+      "section": "supplications",
+      "group": "forgiveness_and_tawbah",
+      "slug": "adam_repentance",
+      "title": "আদম আলাইহিস সালামের তাওবার দু'আ",
+      "summary": "ভুলের পর স্বীকারোক্তি, ক্ষমা আর আশার ভাষায় কুরআনিক তাওবার দু'আ।",
+      "tags": [
+        "repentance",
+        "forgiveness",
         "mercy"
       ],
       "keywords": [
+        "আদম",
         "তাওবা",
         "ক্ষমা",
-        "ফিরে আসা",
         "রহমত",
-        "tawbah",
-        "repentance"
+        "৭:২৩",
+        "7:23"
       ],
       "aliases": [
-        "তাওবার পাঠ"
+        "রব্বানা যলামনা আনফুসানা"
       ],
       "difficulty": "beginner",
-      "detail_url": "/api/v1/bn/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+      "occasion": "repentance_after_sin",
+      "detail_url": "/api/v1/bn/library/supplications/forgiveness_and_tawbah/adam_repentance/manifest.json"
     },
     {
       "id": "topics:pillars_of_iman:iman_foundations",
@@ -562,6 +778,166 @@
       ],
       "difficulty": "beginner",
       "detail_url": "/api/v1/bn/library/topics/pillars_of_islam/zakat_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:taqwa_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "taqwa_foundations",
+      "title": "তাকওয়ার মৌলিক ধারণা",
+      "summary": "আল্লাহ-সচেতন জীবন, সংযম, আর আনুগত্যের ভেতর তাকওয়াকে বোঝার সহজ পাঠ।",
+      "tags": [
+        "taqwa",
+        "heart",
+        "obedience"
+      ],
+      "keywords": [
+        "তাকওয়া",
+        "আল্লাহভীতি",
+        "সচেতনতা",
+        "সংযম",
+        "taqwa"
+      ],
+      "aliases": [
+        "তাকওয়ার পাঠ"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/heart_and_character/taqwa_foundations/manifest.json"
+    },
+    {
+      "id": "topics:heart_and_character:tawbah_foundations",
+      "section": "topics",
+      "group": "heart_and_character",
+      "slug": "tawbah_foundations",
+      "title": "তাওবার মৌলিক ধারণা",
+      "summary": "সততা, আশা, আর নতুন আনুগত্য নিয়ে আল্লাহর দিকে ফিরে আসার ভিত্তিগত গাইড।",
+      "tags": [
+        "tawbah",
+        "repentance",
+        "mercy"
+      ],
+      "keywords": [
+        "তাওবা",
+        "ক্ষমা",
+        "ফিরে আসা",
+        "রহমত",
+        "tawbah",
+        "repentance"
+      ],
+      "aliases": [
+        "তাওবার পাঠ"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+    },
+    {
+      "id": "topics:hereafter:last_day_reckoning_foundations",
+      "section": "topics",
+      "group": "hereafter",
+      "slug": "last_day_reckoning_foundations",
+      "title": "শেষ দিন ও হিসাবের ভিত্তি",
+      "summary": "পুনরুত্থান, আমলনামা, মীযান, ও জবাবদিহি নিয়ে কুরআনভিত্তিক পরিচয়; অনুমানভিত্তিক সময়রেখা নয়।",
+      "tags": [
+        "last_day",
+        "reckoning",
+        "accountability"
+      ],
+      "keywords": [
+        "পুনরুত্থান",
+        "মীযান",
+        "আমলনামা",
+        "কিয়ামাহ",
+        "হিসাব",
+        "আখিরাত",
+        "99:8"
+      ],
+      "aliases": [
+        "কিয়ামতের দিনের ভিত্তি"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/hereafter/last_day_reckoning_foundations/manifest.json"
+    },
+    {
+      "id": "topics:signs_and_creation:cosmic_signs_foundations",
+      "section": "topics",
+      "group": "signs_and_creation",
+      "slug": "cosmic_signs_foundations",
+      "title": "মহাজাগতিক নিদর্শনের ভিত্তি",
+      "summary": "সূর্য, চাঁদ, নক্ষত্র, ও সুশৃঙ্খল আসমানকে আল্লাহর দিকে ফিরিয়ে দেওয়া নিদর্শন হিসেবে বোঝার মৌলিক আলোচনা।",
+      "tags": [
+        "cosmos",
+        "signs",
+        "reflection"
+      ],
+      "keywords": [
+        "সূর্য",
+        "চাঁদ",
+        "নক্ষত্র",
+        "কক্ষপথ",
+        "আসমান",
+        "নিদর্শন",
+        "10:5",
+        "21:33"
+      ],
+      "aliases": [
+        "সূর্য ও চাঁদের নিদর্শন",
+        "আসমানের নিদর্শন"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/signs_and_creation/cosmic_signs_foundations/manifest.json"
+    },
+    {
+      "id": "topics:signs_and_creation:creation_and_purpose_foundations",
+      "section": "topics",
+      "group": "signs_and_creation",
+      "slug": "creation_and_purpose_foundations",
+      "title": "সৃষ্টি ও উদ্দেশ্যের ভিত্তি",
+      "summary": "সৃষ্টিকে নিদর্শন, জীবনকে পরীক্ষা, এবং ইবাদতকে ওহিতে বর্ণিত উদ্দেশ্য হিসেবে বোঝার সংক্ষিপ্ত আলোচনা।",
+      "tags": [
+        "creation",
+        "purpose",
+        "worship"
+      ],
+      "keywords": [
+        "সৃষ্টি",
+        "উদ্দেশ্য",
+        "ইবাদত",
+        "জীবনের পরীক্ষা",
+        "পানি",
+        "51:56"
+      ],
+      "aliases": [
+        "সৃষ্টির উদ্দেশ্য"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/signs_and_creation/creation_and_purpose_foundations/manifest.json"
+    },
+    {
+      "id": "topics:unseen_world:angels_jinn_and_iblis_foundations",
+      "section": "topics",
+      "group": "unseen_world",
+      "slug": "angels_jinn_and_iblis_foundations",
+      "title": "ফিরিশতা, জিন ও ইবলিসের ভিত্তি",
+      "summary": "অদৃশ্য সৃষ্টির পরিচয়, তাদের সীমা, এবং আনুগত্য ও অহংকার সম্পর্কে ওহির শিক্ষা নিয়ে সংযত মৌলিক আলোচনা।",
+      "tags": [
+        "unseen",
+        "angels",
+        "jinn"
+      ],
+      "keywords": [
+        "ফিরিশতা",
+        "জিন",
+        "ইবলিস",
+        "আদম",
+        "অদৃশ্য",
+        "আনুগত্য",
+        "18:50"
+      ],
+      "aliases": [
+        "অদৃশ্য সৃষ্টি"
+      ],
+      "difficulty": "beginner",
+      "detail_url": "/api/v1/bn/library/topics/unseen_world/angels_jinn_and_iblis_foundations/manifest.json"
     }
   ]
 }

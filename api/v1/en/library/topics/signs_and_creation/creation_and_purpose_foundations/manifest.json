@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "topics",
+  "group": "signs_and_creation",
+  "slug": "creation_and_purpose_foundations",
+  "title": "Creation & Purpose Foundations",
+  "summary": "A concise guide to creation as a sign, human life as a test, and worship as the purpose named by revelation.",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "Surah Al-Anbiya 21:30",
+    "Surah Al-Mu'minun 23:12-16",
+    "Surah Adh-Dhariyat 51:56",
+    "Surah Al-Mulk 67:2"
+  ],
+  "tags": [
+    "creation",
+    "purpose",
+    "worship"
+  ],
+  "keywords": [
+    "creation",
+    "purpose",
+    "worship",
+    "life test",
+    "water"
+  ],
+  "aliases": [
+    "Purpose of Creation"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

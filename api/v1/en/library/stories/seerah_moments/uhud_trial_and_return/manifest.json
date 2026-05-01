@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "group": "seerah_moments",
+  "slug": "uhud_trial_and_return",
+  "title": "Uhud: Trial and Return",
+  "summary": "A restrained Quran-grounded reading of Uhud as a lesson in obedience, trial, mercy, and renewal after loss.",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "Surah Aal Imran 3:121-129",
+    "Surah Aal Imran 3:139-148",
+    "Surah Aal Imran 3:152-159"
+  ],
+  "tags": [
+    "uhud",
+    "obedience",
+    "trial"
+  ],
+  "keywords": [
+    "uhud",
+    "battle of uhud",
+    "obedience",
+    "trial",
+    "mercy"
+  ],
+  "aliases": [
+    "Battle of Uhud"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_positions_for_battle.md",
+      "kind": "positions_for_battle",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_after_the_wound.md",
+      "kind": "after_the_wound",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_mercy_and_consultation.md",
+      "kind": "mercy_and_consultation",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

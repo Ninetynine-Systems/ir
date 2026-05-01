@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "stories",
+  "group": "quranic_stories",
+  "slug": "talut_and_jalut",
+  "title": "Talut and Jalut",
+  "summary": "A restrained Quranic retelling of Talut, the river test, patient believers, and Allah granting victory through Dawud.",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "Surah Al-Baqarah 2:246-251"
+  ],
+  "tags": [
+    "patience",
+    "leadership",
+    "trust_in_allah"
+  ],
+  "keywords": [
+    "talut",
+    "jalut",
+    "dawud",
+    "river test",
+    "patience"
+  ],
+  "aliases": [
+    "Saul and Goliath",
+    "Talut and Goliath"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_a_king_chosen.md",
+      "kind": "a_king_chosen",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_the_river_test.md",
+      "kind": "the_river_test",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_victory_by_permission.md",
+      "kind": "victory_by_permission",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

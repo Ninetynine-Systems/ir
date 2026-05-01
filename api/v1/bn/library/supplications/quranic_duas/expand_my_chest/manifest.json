@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "expand_my_chest",
+  "title": "আমার বক্ষ প্রশস্ত করো",
+  "summary": "মূসা আলাইহিস সালামের কুরআনিক প্রার্থনা: অন্তরের প্রশস্ততা, কাজের সহজতা, এবং বোঝার মতো বক্তব্য।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা ত্বা-হা ২০:২৫-২৮"
+  ],
+  "tags": [
+    "ease",
+    "speech",
+    "calling_to_allah"
+  ],
+  "keywords": [
+    "মূসা",
+    "কথা",
+    "সহজতা",
+    "দাওয়াহ",
+    "২০:২৫",
+    "20:25"
+  ],
+  "aliases": [
+    "রব্বিশরাহ লী সদরী"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_ease_clarity_and_understood_speech",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي",
+      "transliteration": "রব্বিশরাহ লী সদরী, ওয়া ইয়াসসির লী আমরী, ওয়াহলুল উকদাতাম মিন লিসানী, ইয়াফকাহূ কাওলী।",
+      "translation": "হে আমার রব, আমার বক্ষ প্রশস্ত করে দাও, আমার কাজ সহজ করে দাও, এবং আমার জিহ্বার জড়তা খুলে দাও, যাতে তারা আমার কথা বুঝতে পারে।",
+      "source_type": "quran",
+      "source_ref": "সূরা ত্বা-হা ২০:২৫-২৮",
+      "repeat": null
+    }
+  ]
+}

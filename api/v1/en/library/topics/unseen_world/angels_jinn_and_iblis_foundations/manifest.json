@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "topics",
+  "group": "unseen_world",
+  "slug": "angels_jinn_and_iblis_foundations",
+  "title": "Angels, Jinn & Iblis Foundations",
+  "summary": "A restrained foundations guide to unseen created beings, their limits, and the lessons revelation gives about obedience and pride.",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "Surah Al-Baqarah 2:30-39",
+    "Surah Al-Hijr 15:26-44",
+    "Surah Al-Kahf 18:50",
+    "Surah At-Tahrim 66:6"
+  ],
+  "tags": [
+    "unseen",
+    "angels",
+    "jinn"
+  ],
+  "keywords": [
+    "angels",
+    "jinn",
+    "iblis",
+    "adam",
+    "unseen",
+    "obedience"
+  ],
+  "aliases": [
+    "Unseen Created Beings"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

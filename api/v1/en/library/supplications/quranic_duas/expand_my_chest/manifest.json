@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "expand_my_chest",
+  "title": "Expand My Chest",
+  "summary": "The Quranic plea of Musa asking Allah for openness, ease, and speech that people can understand.",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "Surah Ta-Ha 20:25-28"
+  ],
+  "tags": [
+    "ease",
+    "speech",
+    "calling_to_allah"
+  ],
+  "keywords": [
+    "20:25",
+    "20:28",
+    "musa",
+    "speech",
+    "ease"
+  ],
+  "aliases": [
+    "Rabbi Ishrah Li Sadri"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_ease_clarity_and_understood_speech",
+  "repeat_guidance": "No fixed repetition count is attached in this entry.",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي يَفْقَهُوا قَوْلِي",
+      "transliteration": "Rabbishrah li sadri, wa yassir li amri, wahlul uqdatan min lisani, yafqahu qawli.",
+      "translation": "My Lord, expand for me my chest, ease for me my task, and untie the knot from my tongue so they may understand my speech.",
+      "source_type": "quran",
+      "source_ref": "Surah Ta-Ha 20:25-28",
+      "repeat": null
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "signs_and_creation",
+  "slug": "cosmic_signs_foundations",
+  "title": "মহাজাগতিক নিদর্শনের ভিত্তি",
+  "summary": "সূর্য, চাঁদ, নক্ষত্র, ও সুশৃঙ্খল আসমানকে আল্লাহর দিকে ফিরিয়ে দেওয়া নিদর্শন হিসেবে বোঝার মৌলিক আলোচনা।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা ইউনুস ১০:৫",
+    "সূরা আল-আম্বিয়া ২১:৩৩",
+    "সূরা ইয়াসীন ৩৬:৩৮-৪০",
+    "সূরা আল-মুলক ৬৭:৩-৫"
+  ],
+  "tags": [
+    "cosmos",
+    "signs",
+    "reflection"
+  ],
+  "keywords": [
+    "সূর্য",
+    "চাঁদ",
+    "নক্ষত্র",
+    "কক্ষপথ",
+    "আসমান",
+    "নিদর্শন",
+    "10:5",
+    "21:33"
+  ],
+  "aliases": [
+    "সূর্য ও চাঁদের নিদর্শন",
+    "আসমানের নিদর্শন"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

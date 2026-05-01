@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "righteous_family_and_leadership",
+  "title": "নেক পরিবার ও নেতৃত্ব",
+  "summary": "পরিবারে চোখের শীতলতা এবং মুত্তাকীদের জন্য উত্তম উদাহরণ হওয়ার কুরআনিক দু'আ।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-ফুরকান ২৫:৭৪"
+  ],
+  "tags": [
+    "family",
+    "righteousness",
+    "leadership"
+  ],
+  "keywords": [
+    "পরিবার",
+    "সন্তান",
+    "মুত্তাকি",
+    "নেতৃত্ব",
+    "২৫:৭৪",
+    "25:74"
+  ],
+  "aliases": [
+    "রব্বানা হাব লানা মিন আযওয়াজিনা"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_for_righteous_family_and_guided_example",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "transliteration": "রব্বানা হাব লানা মিন আযওয়াজিনা ওয়া যুররিয়্যাতিনা কুররাতা আয়ুনিওঁ ওয়াজআলনা লিল-মুত্তাকীনা ইমামা।",
+      "translation": "হে আমাদের রব, আমাদের স্ত্রী-সন্তানদের পক্ষ থেকে আমাদের চোখের শীতলতা দান করো এবং আমাদের মুত্তাকীদের জন্য আদর্শ বানাও।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-ফুরকান ২৫:৭৪",
+      "repeat": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "stories",
+  "group": "seerah_moments",
+  "slug": "badr_help_and_gratitude",
+  "title": "বদর: সাহায্য ও কৃতজ্ঞতা",
+  "summary": "বদর, আল্লাহর সাহায্য, এবং বিজয়ের পর অন্তরে যে বিনয় থাকা উচিত - এ নিয়ে কুরআনভিত্তিক সীরাত মুহূর্ত।",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "সূরা আল-আনফাল ৮:৫-১৯",
+    "সূরা আল-আনফাল ৮:৪১-৪৪",
+    "সূরা আলে ইমরান ৩:১২৩-১২৭"
+  ],
+  "tags": [
+    "badr",
+    "help",
+    "gratitude"
+  ],
+  "keywords": [
+    "বদর",
+    "বদরের যুদ্ধ",
+    "ফিরিশতা",
+    "বিজয়",
+    "কৃতজ্ঞতা",
+    "3:123"
+  ],
+  "aliases": [
+    "বদরের যুদ্ধ"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_brought_out_for_truth.md",
+      "kind": "brought_out_for_truth",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_help_from_allah.md",
+      "kind": "help_from_allah",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_after_victory.md",
+      "kind": "after_victory",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

@@ -2,12 +2,12 @@
   "schema_version": 1,
   "locale": "bn",
   "section": "topics",
-  "title": "বিষয়ভিত্তিক পাঠ",
+  "title": "বিষয়",
   "groups": [
     {
       "slug": "pillars_of_iman",
       "title": "ঈমানের স্তম্ভ",
-      "description": "কুরআন ও সহিহ সুন্নাহয় বর্ণিত বিশ্বাসের মৌলিক ভিত্তি।",
+      "description": "কুরআন ও সহিহ সুন্নাহে বর্ণিত ঈমানের ভিত্তিগুলো নিয়ে শিক্ষানবিশ-বান্ধব আলোচনা।",
       "items": [
         {
           "slug": "iman_foundations",
@@ -37,7 +37,7 @@
     {
       "slug": "pillars_of_islam",
       "title": "ইসলামের স্তম্ভ",
-      "description": "ইসলামের মূল ইবাদতগুলো, মতভেদপূর্ণ খুঁটিনাটি বাদ দিয়ে মৌলিক পর্যায়ে।",
+      "description": "বিতর্কিত আইনি বিশদে না গিয়ে ইসলামের প্রধান ইবাদতগুলো নিয়ে মৌলিক আলোচনা।",
       "items": [
         {
           "slug": "hajj_foundations",
@@ -136,7 +136,7 @@
     {
       "slug": "heart_and_character",
       "title": "অন্তর ও চরিত্র",
-      "description": "অন্তর ও চরিত্রের এমন ভিত্তি, যা ইবাদত, সিদ্ধান্ত ও তাওবাকে গড়ে তোলে।",
+      "description": "ইবাদত, সিদ্ধান্ত, ও তাওবাকে গড়ে তোলা অন্তরের অবস্থা ও দৈনন্দিন গুণাবলি।",
       "items": [
         {
           "slug": "taqwa_foundations",
@@ -182,6 +182,124 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/bn/library/topics/heart_and_character/tawbah_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "hereafter",
+      "title": "আখিরাত",
+      "description": "পুনরুত্থান, হিসাব, এবং আল্লাহর কাছে চূড়ান্ত প্রত্যাবর্তন নিয়ে কুরআনভিত্তিক স্মরণ।",
+      "items": [
+        {
+          "slug": "last_day_reckoning_foundations",
+          "title": "শেষ দিন ও হিসাবের ভিত্তি",
+          "summary": "পুনরুত্থান, আমলনামা, মীযান, ও জবাবদিহি নিয়ে কুরআনভিত্তিক পরিচয়; অনুমানভিত্তিক সময়রেখা নয়।",
+          "tags": [
+            "last_day",
+            "reckoning",
+            "accountability"
+          ],
+          "keywords": [
+            "পুনরুত্থান",
+            "মীযান",
+            "আমলনামা",
+            "কিয়ামাহ",
+            "হিসাব",
+            "আখিরাত",
+            "99:8"
+          ],
+          "aliases": [
+            "কিয়ামতের দিনের ভিত্তি"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/hereafter/last_day_reckoning_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "signs_and_creation",
+      "title": "নিদর্শন ও সৃষ্টি",
+      "description": "সৃষ্টি, আসমানি নিদর্শন, এবং সেগুলো যে উদ্দেশ্য জাগিয়ে দেয় তা নিয়ে নিরাপদ মৌলিক আলোচনা।",
+      "items": [
+        {
+          "slug": "cosmic_signs_foundations",
+          "title": "মহাজাগতিক নিদর্শনের ভিত্তি",
+          "summary": "সূর্য, চাঁদ, নক্ষত্র, ও সুশৃঙ্খল আসমানকে আল্লাহর দিকে ফিরিয়ে দেওয়া নিদর্শন হিসেবে বোঝার মৌলিক আলোচনা।",
+          "tags": [
+            "cosmos",
+            "signs",
+            "reflection"
+          ],
+          "keywords": [
+            "সূর্য",
+            "চাঁদ",
+            "নক্ষত্র",
+            "কক্ষপথ",
+            "আসমান",
+            "নিদর্শন",
+            "10:5",
+            "21:33"
+          ],
+          "aliases": [
+            "সূর্য ও চাঁদের নিদর্শন",
+            "আসমানের নিদর্শন"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/signs_and_creation/cosmic_signs_foundations/manifest.json"
+        },
+        {
+          "slug": "creation_and_purpose_foundations",
+          "title": "সৃষ্টি ও উদ্দেশ্যের ভিত্তি",
+          "summary": "সৃষ্টিকে নিদর্শন, জীবনকে পরীক্ষা, এবং ইবাদতকে ওহিতে বর্ণিত উদ্দেশ্য হিসেবে বোঝার সংক্ষিপ্ত আলোচনা।",
+          "tags": [
+            "creation",
+            "purpose",
+            "worship"
+          ],
+          "keywords": [
+            "সৃষ্টি",
+            "উদ্দেশ্য",
+            "ইবাদত",
+            "জীবনের পরীক্ষা",
+            "পানি",
+            "51:56"
+          ],
+          "aliases": [
+            "সৃষ্টির উদ্দেশ্য"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/signs_and_creation/creation_and_purpose_foundations/manifest.json"
+        }
+      ]
+    },
+    {
+      "slug": "unseen_world",
+      "title": "অদৃশ্য জগত",
+      "description": "ওহির মাধ্যমে শেখানো অদৃশ্য সৃষ্টিজগত ও বাস্তবতা নিয়ে মৌলিক আলোচনা।",
+      "items": [
+        {
+          "slug": "angels_jinn_and_iblis_foundations",
+          "title": "ফিরিশতা, জিন ও ইবলিসের ভিত্তি",
+          "summary": "অদৃশ্য সৃষ্টির পরিচয়, তাদের সীমা, এবং আনুগত্য ও অহংকার সম্পর্কে ওহির শিক্ষা নিয়ে সংযত মৌলিক আলোচনা।",
+          "tags": [
+            "unseen",
+            "angels",
+            "jinn"
+          ],
+          "keywords": [
+            "ফিরিশতা",
+            "জিন",
+            "ইবলিস",
+            "আদম",
+            "অদৃশ্য",
+            "আনুগত্য",
+            "18:50"
+          ],
+          "aliases": [
+            "অদৃশ্য সৃষ্টি"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/bn/library/topics/unseen_world/angels_jinn_and_iblis_foundations/manifest.json"
         }
       ]
     }

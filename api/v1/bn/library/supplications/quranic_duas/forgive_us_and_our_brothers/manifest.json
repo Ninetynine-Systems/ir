@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "forgive_us_and_our_brothers",
+  "title": "আমাদের ও আমাদের ভাইদের ক্ষমা করো",
+  "summary": "মুমিনদের জন্য ক্ষমা এবং অন্তর থেকে বিদ্বেষ দূর করার কুরআনিক দু'আ।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-হাশর ৫৯:১০"
+  ],
+  "tags": [
+    "forgiveness",
+    "brotherhood",
+    "heart"
+  ],
+  "keywords": [
+    "ক্ষমা",
+    "মুমিন",
+    "ভাই",
+    "বিদ্বেষ",
+    "অন্তর",
+    "৫৯:১০",
+    "59:10"
+  ],
+  "aliases": [
+    "রব্বানাগফির লানা ওয়া লি-ইখওয়ানিনা"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "asking_forgiveness_and_purification_from_rancor",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا اغْفِرْ لَنَا وَلِإِخْوَانِنَا الَّذِينَ سَبَقُونَا بِالْإِيمَانِ وَلَا تَجْعَلْ فِي قُلُوبِنَا غِلًّا لِلَّذِينَ آمَنُوا رَبَّنَا إِنَّكَ رَءُوفٌ رَحِيمٌ",
+      "transliteration": "রব্বানাগফির লানা ওয়া লি-ইখওয়ানিনাল্লাযীনা সাবাকূনা বিল ঈমান, ওয়া লা তাজআল ফী কুলূবিনা গিল্লাল্লিল্লাযীনা আমানূ। রব্বানা ইন্নাকা রাউফুর রহীম।",
+      "translation": "হে আমাদের রব, আমাদের এবং ঈমানে আমাদের আগে অগ্রসর হওয়া ভাইদের ক্ষমা করো; আর যারা ঈমান এনেছে তাদের প্রতি আমাদের অন্তরে কোনো বিদ্বেষ রেখো না। হে আমাদের রব, নিশ্চয়ই তুমি পরম স্নেহশীল, পরম দয়ালু।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-হাশর ৫৯:১০",
+      "repeat": null
+    }
+  ]
+}

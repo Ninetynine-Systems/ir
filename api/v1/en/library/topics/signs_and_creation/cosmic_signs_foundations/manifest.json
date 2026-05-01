@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "en",
+  "section": "topics",
+  "group": "signs_and_creation",
+  "slug": "cosmic_signs_foundations",
+  "title": "Cosmic Signs Foundations",
+  "summary": "A beginner-safe guide to the sun, moon, stars, and ordered heavens as signs that point back to Allah.",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "Surah Yunus 10:5",
+    "Surah Al-Anbiya 21:33",
+    "Surah Ya-Sin 36:38-40",
+    "Surah Al-Mulk 67:3-5"
+  ],
+  "tags": [
+    "cosmos",
+    "signs",
+    "reflection"
+  ],
+  "keywords": [
+    "sun",
+    "moon",
+    "stars",
+    "orbit",
+    "heavens",
+    "signs"
+  ],
+  "aliases": [
+    "Sun and Moon Signs",
+    "Signs in the Heavens"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

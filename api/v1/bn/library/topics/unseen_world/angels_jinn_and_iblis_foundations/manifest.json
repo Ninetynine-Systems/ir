@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "unseen_world",
+  "slug": "angels_jinn_and_iblis_foundations",
+  "title": "ফিরিশতা, জিন ও ইবলিসের ভিত্তি",
+  "summary": "অদৃশ্য সৃষ্টির পরিচয়, তাদের সীমা, এবং আনুগত্য ও অহংকার সম্পর্কে ওহির শিক্ষা নিয়ে সংযত মৌলিক আলোচনা।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আল-বাকারাহ ২:৩০-৩৯",
+    "সূরা আল-হিজর ১৫:২৬-৪৪",
+    "সূরা আল-কাহফ ১৮:৫০",
+    "সূরা আত-তাহরীম ৬৬:৬"
+  ],
+  "tags": [
+    "unseen",
+    "angels",
+    "jinn"
+  ],
+  "keywords": [
+    "ফিরিশতা",
+    "জিন",
+    "ইবলিস",
+    "আদম",
+    "অদৃশ্য",
+    "আনুগত্য",
+    "18:50"
+  ],
+  "aliases": [
+    "অদৃশ্য সৃষ্টি"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

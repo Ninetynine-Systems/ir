@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "topics",
+  "group": "hereafter",
+  "slug": "last_day_reckoning_foundations",
+  "title": "শেষ দিন ও হিসাবের ভিত্তি",
+  "summary": "পুনরুত্থান, আমলনামা, মীযান, ও জবাবদিহি নিয়ে কুরআনভিত্তিক পরিচয়; অনুমানভিত্তিক সময়রেখা নয়।",
+  "source_profile": "consensus_foundations_only",
+  "primary_sources": [
+    "সূরা আয-যুমার ৩৯:৬৮",
+    "সূরা আল-আম্বিয়া ২১:৪৭",
+    "সূরা আল-ইনশিকাক ৮৪:৭-১২",
+    "সূরা আয-যালযালাহ ৯৯:১-৮",
+    "সূরা আল-কারি'আহ ১০১:৬-১১"
+  ],
+  "tags": [
+    "last_day",
+    "reckoning",
+    "accountability"
+  ],
+  "keywords": [
+    "পুনরুত্থান",
+    "মীযান",
+    "আমলনামা",
+    "কিয়ামাহ",
+    "হিসাব",
+    "আখিরাত",
+    "99:8"
+  ],
+  "aliases": [
+    "কিয়ামতের দিনের ভিত্তি"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_foundation.md",
+      "kind": "foundation",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_key_texts.md",
+      "kind": "key_texts",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_lived_practice.md",
+      "kind": "lived_practice",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "stories",
+  "group": "seerah_moments",
+  "slug": "uhud_trial_and_return",
+  "title": "উহুদ: পরীক্ষা ও ফিরে আসা",
+  "summary": "আনুগত্য, পরীক্ষা, রহমত, এবং ক্ষতির পর নবায়ন নিয়ে উহুদের কুরআনভিত্তিক সংযত পাঠ।",
+  "source_profile": "quran_and_accepted_authentic_reports_only",
+  "primary_sources": [
+    "সূরা আলে ইমরান ৩:১২১-১২৯",
+    "সূরা আলে ইমরান ৩:১৩৯-১৪৮",
+    "সূরা আলে ইমরান ৩:১৫২-১৫৯"
+  ],
+  "tags": [
+    "uhud",
+    "obedience",
+    "trial"
+  ],
+  "keywords": [
+    "উহুদ",
+    "উহুদের যুদ্ধ",
+    "আনুগত্য",
+    "পরীক্ষা",
+    "রহমত",
+    "3:152"
+  ],
+  "aliases": [
+    "উহুদের যুদ্ধ"
+  ],
+  "files": [
+    {
+      "name": "chapter_01_positions_for_battle.md",
+      "kind": "positions_for_battle",
+      "order": 1,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_02_after_the_wound.md",
+      "kind": "after_the_wound",
+      "order": 2,
+      "estimated_read_seconds": 75
+    },
+    {
+      "name": "chapter_03_mercy_and_consultation.md",
+      "kind": "mercy_and_consultation",
+      "order": 3,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner"
+}

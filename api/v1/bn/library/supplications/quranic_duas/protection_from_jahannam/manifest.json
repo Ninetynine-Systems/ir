@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "locale": "bn",
+  "section": "supplications",
+  "group": "quranic_duas",
+  "slug": "protection_from_jahannam",
+  "title": "জাহান্নাম থেকে রক্ষা",
+  "summary": "আর-রহমানের বান্দাদের দু'আ, যাতে তারা আল্লাহর কাছে জাহান্নামের শাস্তি সরিয়ে দেওয়ার প্রার্থনা করে।",
+  "source_profile": "exact_text_only",
+  "primary_sources": [
+    "সূরা আল-ফুরকান ২৫:৬৫-৬৬"
+  ],
+  "tags": [
+    "protection",
+    "hereafter",
+    "fear"
+  ],
+  "keywords": [
+    "জাহান্নাম",
+    "আগুন",
+    "রক্ষা",
+    "আখিরাত",
+    "২৫:৬৫",
+    "25:65"
+  ],
+  "aliases": [
+    "রব্বানা ইসরিফ আন্না আযাবা জাহান্নাম"
+  ],
+  "files": [
+    {
+      "name": "entry.md",
+      "kind": "entry",
+      "order": 1,
+      "estimated_read_seconds": 75
+    }
+  ],
+  "difficulty": "beginner",
+  "occasion": "seeking_protection_from_the_fire",
+  "repeat_guidance": "এই এন্ট্রিতে নির্দিষ্ট সংখ্যায় পড়ার নির্দেশ দেওয়া হয়নি।",
+  "supplications": [
+    {
+      "id": "supplication",
+      "arabic": "رَبَّنَا اصْرِفْ عَنَّا عَذَابَ جَهَنَّمَ إِنَّ عَذَابَهَا كَانَ غَرَامًا إِنَّهَا سَاءَتْ مُسْتَقَرًّا وَمُقَامًا",
+      "transliteration": "রব্বানা ইসরিফ আন্না আযাবা জাহান্নাম। ইন্না আযাবাহা কানা গারামা। ইন্নাহা সাআত মুস্তাকাররাওঁ ওয়া মুকামা।",
+      "translation": "হে আমাদের রব, আমাদের থেকে জাহান্নামের শাস্তি সরিয়ে দাও। নিশ্চয়ই তার শাস্তি লেগে থাকে; নিশ্চয়ই তা অবস্থান ও আবাস হিসেবে নিকৃষ্ট।",
+      "source_type": "quran",
+      "source_ref": "সূরা আল-ফুরকান ২৫:৬৫-৬৬",
+      "repeat": null
+    }
+  ]
+}

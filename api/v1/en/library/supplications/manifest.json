@@ -118,6 +118,138 @@
           ],
           "difficulty": "beginner",
           "detail_url": "/api/v1/en/library/supplications/quranic_duas/increase_me_in_knowledge/manifest.json"
+        },
+        {
+          "slug": "complete_our_light",
+          "title": "Complete Our Light",
+          "summary": "A Quranic plea for completed light and forgiveness on the Day when believers seek Allah's mercy.",
+          "tags": [
+            "light",
+            "forgiveness",
+            "hereafter"
+          ],
+          "keywords": [
+            "66:8",
+            "light",
+            "forgiveness",
+            "nur",
+            "hereafter"
+          ],
+          "aliases": [
+            "Rabbana Atmim Lana Nurana"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/complete_our_light/manifest.json"
+        },
+        {
+          "slug": "protection_from_jahannam",
+          "title": "Protection From Jahannam",
+          "summary": "A supplication of the servants of Ar-Rahman asking Allah to turn away the punishment of Jahannam.",
+          "tags": [
+            "protection",
+            "hereafter",
+            "fear"
+          ],
+          "keywords": [
+            "25:65",
+            "25:66",
+            "jahannam",
+            "fire",
+            "protection"
+          ],
+          "aliases": [
+            "Rabbana Isrif Anna Adhaba Jahannam"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/protection_from_jahannam/manifest.json"
+        },
+        {
+          "slug": "righteous_family_and_leadership",
+          "title": "Righteous Family and Leadership",
+          "summary": "A Quranic dua asking Allah for comfort in family and to make believers an example for the righteous.",
+          "tags": [
+            "family",
+            "righteousness",
+            "leadership"
+          ],
+          "keywords": [
+            "25:74",
+            "family",
+            "children",
+            "muttaqin",
+            "leadership"
+          ],
+          "aliases": [
+            "Rabbana Hab Lana Min Azwajina"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/righteous_family_and_leadership/manifest.json"
+        },
+        {
+          "slug": "forgive_us_and_our_brothers",
+          "title": "Forgive Us and Our Brothers",
+          "summary": "A Quranic dua asking forgiveness for believers and asking Allah to remove rancor from the heart.",
+          "tags": [
+            "forgiveness",
+            "brotherhood",
+            "heart"
+          ],
+          "keywords": [
+            "59:10",
+            "forgiveness",
+            "believers",
+            "rancor",
+            "hearts"
+          ],
+          "aliases": [
+            "Rabbana-ghfir Lana Wa Li-Ikhwanina"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/forgive_us_and_our_brothers/manifest.json"
+        },
+        {
+          "slug": "patience_firmness_and_help",
+          "title": "Patience, Firmness, and Help",
+          "summary": "The Quranic dua of believers asking Allah for poured patience, firm feet, and help against disbelief.",
+          "tags": [
+            "patience",
+            "steadfastness",
+            "help"
+          ],
+          "keywords": [
+            "2:250",
+            "patience",
+            "firmness",
+            "talut",
+            "jalut"
+          ],
+          "aliases": [
+            "Rabbana Afrigh Alayna Sabran"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/patience_firmness_and_help/manifest.json"
+        },
+        {
+          "slug": "expand_my_chest",
+          "title": "Expand My Chest",
+          "summary": "The Quranic plea of Musa asking Allah for openness, ease, and speech that people can understand.",
+          "tags": [
+            "ease",
+            "speech",
+            "calling_to_allah"
+          ],
+          "keywords": [
+            "20:25",
+            "20:28",
+            "musa",
+            "speech",
+            "ease"
+          ],
+          "aliases": [
+            "Rabbi Ishrah Li Sadri"
+          ],
+          "difficulty": "beginner",
+          "detail_url": "/api/v1/en/library/supplications/quranic_duas/expand_my_chest/manifest.json"
         }
       ]
     },
