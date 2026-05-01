@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-21",
+  "locale": "en",
+  "thread_id": "en-2026-06-21",
+  "event_tags": [],
+  "story_refs": [
+    "scales_of_deeds"
+  ],
+  "files": [
+    {
+      "name": "morning_scales_of_deeds.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_scales_of_deeds.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 125
+    },
+    {
+      "name": "night_scales_of_deeds.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 90
+    }
+  ]
+}

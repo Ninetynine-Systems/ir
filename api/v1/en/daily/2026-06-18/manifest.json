@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-18",
+  "locale": "en",
+  "thread_id": "en-2026-06-18",
+  "event_tags": [],
+  "story_refs": [
+    "owners_of_garden"
+  ],
+  "files": [
+    {
+      "name": "morning_owners_of_garden.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_owners_of_garden.md",
+      "kind": "story",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 125
+    },
+    {
+      "name": "night_owners_of_garden.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 90
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-24",
+  "locale": "bn",
+  "thread_id": "bn-2026-06-24",
+  "event_tags": [],
+  "story_refs": [
+    "dajjal_protection_kahf"
+  ],
+  "files": [
+    {
+      "name": "morning_kahf_protection.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_kahf_protection.md",
+      "kind": "topic",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 125
+    },
+    {
+      "name": "night_kahf_protection.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 90
+    }
+  ]
+}
