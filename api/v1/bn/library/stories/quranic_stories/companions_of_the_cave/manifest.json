@@ -31,19 +31,19 @@
       "name": "chapter_01_when_the_youth_withdrew.md",
       "kind": "when_the_youth_withdrew",
       "order": 1,
-      "estimated_read_seconds": 120
+      "estimated_read_seconds": 92
     },
     {
       "name": "chapter_02_sheltered_under_divine_care.md",
       "kind": "sheltered_under_divine_care",
       "order": 2,
-      "estimated_read_seconds": 115
+      "estimated_read_seconds": 88
     },
     {
       "name": "chapter_03_a_sign_for_later_people.md",
       "kind": "a_sign_for_later_people",
       "order": 3,
-      "estimated_read_seconds": 125
+      "estimated_read_seconds": 92
     }
   ],
   "difficulty": "beginner"

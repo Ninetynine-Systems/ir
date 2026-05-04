@@ -9,3 +9,11 @@ This dua was spoken by believers facing Jalut and his forces. It asks first for 
 Use it when facing pressure, fear, difficult obedience, or moments that require principled courage.
 
 No fixed repetition count is attached here. Recite it while taking lawful means and admitting that firmness itself is a gift from Allah.
+
+## Meaning and Practice
+
+The order of the dua matters: patience, firm feet, then help. It teaches that victory without inner steadiness would not be a complete mercy. Use it during pressure, difficult obedience, fear, or any moment where principle must be carried with courage.
+
+## Source Boundary
+
+Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

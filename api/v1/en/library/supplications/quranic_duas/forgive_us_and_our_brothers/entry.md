@@ -9,3 +9,11 @@ This dua joins personal forgiveness with love for the believers who came before 
 Use it when making dua for the ummah, after conflict, when studying earlier Muslims, or when you notice bitterness settling in the heart.
 
 No fixed repetition count is attached here. Recite it with a willingness to let Allah clean what the tongue is asking Him to remove.
+
+## Meaning and Practice
+
+The dua widens the heart beyond the self. It asks forgiveness for believers who came before and asks Allah to remove rancor toward those who believe. Use it after conflict, when remembering earlier Muslims, or when bitterness toward believers begins to settle inside.
+
+## Source Boundary
+
+Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

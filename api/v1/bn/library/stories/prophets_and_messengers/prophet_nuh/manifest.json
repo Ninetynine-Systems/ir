@@ -38,25 +38,25 @@
       "name": "chapter_01_the_long_call.md",
       "kind": "the_long_call",
       "order": 1,
-      "estimated_read_seconds": 140
+      "estimated_read_seconds": 96
     },
     {
       "name": "chapter_02_the_ark_on_dry_land.md",
       "kind": "the_ark_on_dry_land",
       "order": 2,
-      "estimated_read_seconds": 130
+      "estimated_read_seconds": 98
     },
     {
       "name": "chapter_03_the_flood_and_the_separation.md",
       "kind": "the_flood_and_the_separation",
       "order": 3,
-      "estimated_read_seconds": 145
+      "estimated_read_seconds": 98
     },
     {
       "name": "chapter_04_landing_and_the_lesson_left.md",
       "kind": "landing_and_the_lesson_left",
       "order": 4,
-      "estimated_read_seconds": 125
+      "estimated_read_seconds": 100
     }
   ],
   "difficulty": "beginner"

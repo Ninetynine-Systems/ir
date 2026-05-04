@@ -10,3 +10,11 @@ The Quran places this supplication on the tongue of Yunus in the darknesses, whe
 That sequence matters. The dua is not a formula detached from the heart. It is an act of return. For that reason it is well suited to moments of distress, remorse, pressure, and helplessness, when a believer needs to turn back to Allah without excuses.
 
 No fixed repetition count is attached here in this entry. Recite it with humility and repentance, not as a slogan, but as a truthful plea.
+
+## Meaning and Practice
+
+This dua begins with tawhid and then confession. Yunus did not argue inside distress; he returned to Allah with truth about himself and his Lord. Use it in anxiety, regret, fear, or any darkness where the first need is to return to Allah honestly.
+
+## Source Boundary
+
+Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

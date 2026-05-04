@@ -9,3 +9,11 @@ This dua asks for family as a source of righteous comfort, not merely worldly pr
 Use it for family, marriage, children, mentoring, and any role where others may learn from your choices.
 
 No fixed repetition count is attached here. Recite it while also living the mercy, restraint, and obedience you ask Allah to place in your home.
+
+## Meaning and Practice
+
+This dua asks for family to become comfort through righteousness, not merely through worldly success. It also asks to be an example for people of taqwa. Use it for marriage, parenting, mentoring, and any responsibility where others may learn from your choices.
+
+## Source Boundary
+
+Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

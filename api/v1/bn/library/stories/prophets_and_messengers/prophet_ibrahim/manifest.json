@@ -37,19 +37,19 @@
       "name": "chapter_01_calling_to_tawhid.md",
       "kind": "calling_to_tawhid",
       "order": 1,
-      "estimated_read_seconds": 125
+      "estimated_read_seconds": 85
     },
     {
       "name": "chapter_02_tests_and_surrender.md",
       "kind": "tests_and_surrender",
       "order": 2,
-      "estimated_read_seconds": 130
+      "estimated_read_seconds": 86
     },
     {
       "name": "chapter_03_house_and_acceptance.md",
       "kind": "house_and_acceptance",
       "order": 3,
-      "estimated_read_seconds": 125
+      "estimated_read_seconds": 83
     }
   ],
   "difficulty": "beginner"

@@ -31,13 +31,13 @@
       "name": "chapter_01_a_king_chosen.md",
       "kind": "a_king_chosen",
       "order": 1,
-      "estimated_read_seconds": 75
+      "estimated_read_seconds": 76
     },
     {
       "name": "chapter_02_the_river_test.md",
       "kind": "the_river_test",
       "order": 2,
-      "estimated_read_seconds": 75
+      "estimated_read_seconds": 78
     },
     {
       "name": "chapter_03_victory_by_permission.md",

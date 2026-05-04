@@ -29,19 +29,19 @@
       "name": "chapter_01_a_plan_without_exception.md",
       "kind": "a_plan_without_exception",
       "order": 1,
-      "estimated_read_seconds": 75
+      "estimated_read_seconds": 78
     },
     {
       "name": "chapter_02_the_garden_changed.md",
       "kind": "the_garden_changed",
       "order": 2,
-      "estimated_read_seconds": 75
+      "estimated_read_seconds": 78
     },
     {
       "name": "chapter_03_learning_after_loss.md",
       "kind": "learning_after_loss",
       "order": 3,
-      "estimated_read_seconds": 75
+      "estimated_read_seconds": 78
     }
   ],
   "difficulty": "beginner"

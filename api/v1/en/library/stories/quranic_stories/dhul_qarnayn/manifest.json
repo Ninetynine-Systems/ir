@@ -30,19 +30,19 @@
       "name": "chapter_01_a_ruler_given_means.md",
       "kind": "a_ruler_given_means",
       "order": 1,
-      "estimated_read_seconds": 120
+      "estimated_read_seconds": 95
     },
     {
       "name": "chapter_02_between_two_mountains.md",
       "kind": "between_two_mountains",
       "order": 2,
-      "estimated_read_seconds": 125
+      "estimated_read_seconds": 94
     },
     {
       "name": "chapter_03_humility_before_the_promise.md",
       "kind": "humility_before_the_promise",
       "order": 3,
-      "estimated_read_seconds": 110
+      "estimated_read_seconds": 98
     }
   ],
   "difficulty": "beginner"
