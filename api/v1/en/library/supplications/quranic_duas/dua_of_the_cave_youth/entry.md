@@ -13,7 +13,3 @@ No fixed repetition count is attached here. Recite it carefully, especially when
 ## Meaning and Practice
 
 This dua asks for mercy and right guidance before the path is fully visible. The youth did not control the outcome; they asked Allah to arrange their affair rightly. Use it when pressure requires distance from harm, a difficult decision, or protection of faith.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

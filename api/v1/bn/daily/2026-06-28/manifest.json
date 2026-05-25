@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "date": "2026-06-28",
+  "locale": "bn",
+  "thread_id": "bn-2026-06-28",
+  "event_tags": [],
+  "story_refs": [
+    "prophet_nuh_trust"
+  ],
+  "files": [
+    {
+      "name": "morning_ark_building.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_flood_waters.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 125
+    },
+    {
+      "name": "night_peaceful_landing.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 90
+    }
+  ]
+}

@@ -13,7 +13,3 @@ No fixed repetition count is attached here. Recite it after sin, after heedlessn
 ## Meaning and Practice
 
 Adam's repentance begins with admitting wrong before asking mercy. The dua teaches that hope does not erase responsibility; it walks through confession into forgiveness. Use it after sin, negligence, or a moment where the heart needs to return without excuses.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

@@ -10,11 +10,3 @@ After the long refusal, revelation came to Nuh that no more of his people would 
 The Quran preserves the strangeness of that moment. An ark was being built before the people while there was still dry land beneath it, and those who passed by mocked him. Nuh did not answer mockery with panic. He kept working by revelation, certain that the One who gave the command knew what was coming.
 
 This chapter is a lesson in obedient action before outcomes become visible. The servant does not wait for every sign to be obvious before obeying Allah. Sometimes faith looks like steady work in a season when other people only see reasons to laugh.
-
-## Additional Detail
-
-At this middle stage, keep the chapter's source anchors in view before filling any silence with popular story details. For Prophet Nuh, the safe detail is this: Nuh's story gives a long view of calling to Allah. It keeps attention on patient warning, rejection by the people, the ark by Allah's command, and the painful truth that lineage cannot replace faith.
-
-## What To Carry
-
-Carry this lesson from The Ark on Dry Land: patience without hardening the heart. The caller keeps speaking truth, but salvation remains with Allah and with sincere response to Him. This keeps the reflection useful while leaving unrevealed names, scenery, and private feelings outside the narration.

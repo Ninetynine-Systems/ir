@@ -10,11 +10,3 @@ Tawbah is the servant's return to Allah after sin, neglect, or drift. It is not 
 Surah Az-Zumar 39:53 is one of the clearest Quranic doors of hope, calling those who have wronged themselves not to despair of Allah's mercy. Surah Al-Baqarah 2:222 adds another essential truth: Allah loves those who constantly repent and purify themselves.
 
 At the foundation level, repentance is not reserved for rare collapse. It belongs to the believer's regular life. Hearts drift, tongues slip, obligations weaken, and tawbah remains the way back.
-
-## Further Detail
-
-Read this foundation as a reliable starting point, not as an attempt to cover every legal branch or scholarly discussion. Tawbah is a return, not a performance of despair. The Quranic anchors hold together confession, regret, leaving sin, hope in mercy, and renewed obedience.
-
-## Practice Notes
-
-The practical goal is to make repentance practical and immediate. The servant should stop the wrong, seek forgiveness, repair what can be repaired, and refuse to let shame become distance from Allah. If a detail would need a disputed ruling or a long comparison to explain fairly, it belongs outside this beginner guide.

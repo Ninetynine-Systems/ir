@@ -1,9 +1,178 @@
 {
   "schema_version": 1,
   "locale": "en",
-  "generated_at": "2026-05-01T00:00:00Z",
-  "latest_date": "2026-06-26",
+  "generated_at": "2026-05-21T07:51:19Z",
+  "latest_date": "2026-07-11",
   "days": [
+    {
+      "date": "2026-07-11",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-11/manifest.json",
+      "thread_id": "en-2026-07-11",
+      "event_tags": [],
+      "story_refs": [
+        "preparations_tomorrow"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-10",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-10/manifest.json",
+      "thread_id": "en-2026-07-10",
+      "event_tags": [
+        "jumuah"
+      ],
+      "story_refs": [
+        "jumuah_light_and_forgiveness"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-09",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-09/manifest.json",
+      "thread_id": "en-2026-07-09",
+      "event_tags": [],
+      "story_refs": [
+        "brotherhood_support"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-08",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-08/manifest.json",
+      "thread_id": "en-2026-07-08",
+      "event_tags": [],
+      "story_refs": [
+        "controlling_anger"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-07",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-07/manifest.json",
+      "thread_id": "en-2026-07-07",
+      "event_tags": [],
+      "story_refs": [
+        "neighborly_love"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-06",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-06/manifest.json",
+      "thread_id": "en-2026-07-06",
+      "event_tags": [],
+      "story_refs": [
+        "rights_of_parents"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-05",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-05/manifest.json",
+      "thread_id": "en-2026-07-05",
+      "event_tags": [],
+      "story_refs": [
+        "kind_words"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-04",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-04/manifest.json",
+      "thread_id": "en-2026-07-04",
+      "event_tags": [],
+      "story_refs": [
+        "lowering_gaze"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-03",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-03/manifest.json",
+      "thread_id": "en-2026-07-03",
+      "event_tags": [
+        "jumuah"
+      ],
+      "story_refs": [
+        "jumuah_light_and_forgiveness"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-02",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-02/manifest.json",
+      "thread_id": "en-2026-07-02",
+      "event_tags": [],
+      "story_refs": [
+        "reliance_tawakkul"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-07-01",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-07-01/manifest.json",
+      "thread_id": "en-2026-07-01",
+      "event_tags": [],
+      "story_refs": [
+        "gratitude_shukr"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-06-30",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-06-30/manifest.json",
+      "thread_id": "en-2026-06-30",
+      "event_tags": [],
+      "story_refs": [
+        "sincerity_ikhlas"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-06-29",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-06-29/manifest.json",
+      "thread_id": "en-2026-06-29",
+      "event_tags": [],
+      "story_refs": [
+        "prophet_ibrahim_truth"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-06-28",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-06-28/manifest.json",
+      "thread_id": "en-2026-06-28",
+      "event_tags": [],
+      "story_refs": [
+        "prophet_nuh_trust"
+      ],
+      "file_count": 3
+    },
+    {
+      "date": "2026-06-27",
+      "updated_at": "2026-05-21T07:51:19Z",
+      "manifest_url": "/api/v1/en/daily/2026-06-27/manifest.json",
+      "thread_id": "en-2026-06-27",
+      "event_tags": [],
+      "story_refs": [
+        "prophet_yunus_patience"
+      ],
+      "file_count": 3
+    },
     {
       "date": "2026-06-26",
       "updated_at": "2026-05-01T00:00:00Z",

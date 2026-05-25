@@ -13,7 +13,3 @@ No fixed repetition count is attached here. Recite it with need, sincerity, and 
 ## Meaning and Practice
 
 This dua keeps worship humble after the deed is done. Ibrahim and Ismail were raising the House, yet the request was still acceptance, because the servant never owns the result of worship. Use it after prayer, service, giving, study, or any act where the heart needs sincerity more than self-congratulation.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

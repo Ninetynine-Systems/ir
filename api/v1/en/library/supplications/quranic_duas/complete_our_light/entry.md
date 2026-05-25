@@ -13,7 +13,3 @@ No fixed repetition count is attached here. Recite it with hope, humility, and a
 ## Meaning and Practice
 
 The dua joins completed light with forgiveness. It teaches that even the believer hopes for Allah to perfect what deeds alone cannot perfect. Use it when remembering the Hereafter, repenting, or asking Allah to make faith visible as guidance rather than merely an idea.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

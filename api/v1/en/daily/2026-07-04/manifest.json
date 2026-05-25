@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-04",
+  "locale": "en",
+  "thread_id": "en-2026-07-04",
+  "event_tags": [],
+  "story_refs": [
+    "lowering_gaze"
+  ],
+  "files": [
+    {
+      "name": "morning_guarding_the_eyes.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_modesty_in_heart.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 120
+    },
+    {
+      "name": "night_tranquil_gaze.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 90
+    }
+  ]
+}

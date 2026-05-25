@@ -13,7 +13,3 @@ No fixed repetition count is attached here. Recite it when you need provision, o
 ## Meaning and Practice
 
 Musa made this plea after helping others while still being in need himself. It teaches dignified dependence on Allah without demanding a specific form of provision. Use it when tired, uncertain, between stages of life, or in need of good that only Allah can open.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

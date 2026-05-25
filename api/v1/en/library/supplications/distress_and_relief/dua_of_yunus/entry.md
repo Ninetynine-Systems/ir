@@ -14,7 +14,3 @@ No fixed repetition count is attached here in this entry. Recite it with humilit
 ## Meaning and Practice
 
 This dua begins with tawhid and then confession. Yunus did not argue inside distress; he returned to Allah with truth about himself and his Lord. Use it in anxiety, regret, fear, or any darkness where the first need is to return to Allah honestly.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

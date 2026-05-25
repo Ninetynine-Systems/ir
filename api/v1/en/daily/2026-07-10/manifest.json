@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-10",
+  "locale": "en",
+  "thread_id": "en-2026-07-10",
+  "event_tags": [
+    "jumuah"
+  ],
+  "story_refs": [
+    "jumuah_light_and_forgiveness"
+  ],
+  "files": [
+    {
+      "name": "morning_friday_bath.md",
+      "kind": "remembrance",
+      "time_of_day": "morning",
+      "priority": 1,
+      "estimated_read_seconds": 90
+    },
+    {
+      "name": "evening_blessings_on_prophet.md",
+      "kind": "reflection",
+      "time_of_day": "evening",
+      "priority": 2,
+      "estimated_read_seconds": 120
+    },
+    {
+      "name": "night_light_shining.md",
+      "kind": "reflection",
+      "time_of_day": "night",
+      "priority": 3,
+      "estimated_read_seconds": 90
+    }
+  ]
+}

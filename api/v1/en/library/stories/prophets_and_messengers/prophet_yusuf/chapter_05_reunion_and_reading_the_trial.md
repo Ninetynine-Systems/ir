@@ -11,11 +11,3 @@ Yusuf did not use the moment to reopen the wound. He said, "No blame will there 
 The surah closes with Yusuf reading his own life through gratitude rather than grievance. He names prison, rescue, and reunion as gifts from Allah, and he asks to die in submission and to be joined with the righteous. The best part of the story is not merely that hardship ended. It is that Yusuf emerged from hardship with worship, forgiveness, and clarity intact.
 
 Surah Yusuf leaves the reader with a steady lesson: Allah's decree can move through envy, separation, false accusation, prison, famine, and delay without losing its wisdom. The servant does not always see the pattern at the start, but the Lord of Yusuf never loses the thread.
-
-## Additional Detail
-
-At this final stage, keep the chapter's source anchors in view before filling any silence with popular story details. For Prophet Yusuf, the safe detail is this: Yusuf's story is unusually detailed in the Quran, yet even here the focus is moral rather than decorative. Dreams, jealousy, temptation, prison, authority, and reunion all move under Allah's careful plan.
-
-## What To Carry
-
-Carry this lesson from Reunion and Reading the Trial: patience with integrity. The believer does not read trials only by their first pain, because Allah may be arranging an ending the servant cannot yet see. This keeps the reflection useful while leaving unrevealed names, scenery, and private feelings outside the narration.

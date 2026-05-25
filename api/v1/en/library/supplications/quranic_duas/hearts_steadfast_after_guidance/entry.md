@@ -13,7 +13,3 @@ No fixed repetition count is attached here. Recite it with presence, humility, a
 ## Meaning and Practice
 
 The wording admits that guidance is a gift and that hearts need Allah to keep them firm. It is a cure for spiritual self-confidence. Use it after learning, repentance, worship, or any moment when you fear losing clarity after receiving it.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.

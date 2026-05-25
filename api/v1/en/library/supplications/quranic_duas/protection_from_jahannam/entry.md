@@ -13,7 +13,3 @@ No fixed repetition count is attached here. Let the words renew fear of Allah wi
 ## Meaning and Practice
 
 The servants of Ar-Rahman fear the Fire while still hoping in Allah. This balance protects the heart from both carelessness and despair. Use it when sin feels light, when accountability feels distant, or when the heart needs serious fear joined with mercy.
-
-## Source Boundary
-
-Keep the exact wording, source reference, and repeat guidance in the manifest as the fixed point for this entry. Do not attach a special count, timing, or virtue unless it is established by the cited source.
